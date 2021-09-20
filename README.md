@@ -1,0 +1,1 @@
+# Compose Resources Gradle plugin
