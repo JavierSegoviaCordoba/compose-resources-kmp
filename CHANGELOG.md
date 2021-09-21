@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `compose-resources` plugin accessor
 - `commonMain/resources` to `android` main source sets
 - run `generateComposeResources` when `preBuild` task is executed or the IDE syncs
 

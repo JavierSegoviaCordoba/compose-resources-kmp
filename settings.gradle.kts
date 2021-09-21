@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 include(
     ":core",
     ":gradle-plugin",
+    ":project-accessor",
 )

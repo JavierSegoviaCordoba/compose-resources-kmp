@@ -7,3 +7,32 @@
 [![Tech debt](https://img.shields.io/sonar/tech_debt/JavierSegoviaCordoba_compose-resources-kmp?label=Tech%20debt&logo=SonarCloud&logoColor=white&server=https%3A%2F%2Fsonarcloud.io)](https://sonarcloud.io/dashboard?id=JavierSegoviaCordoba_compose-resources-kmp)
 
 # Compose Resources Gradle plugin
+
+### Download from MavenCentral
+
+```kotlin
+implementation("com.javiersc.compose-resources:gradle-plugin:$version")
+```
+
+## Usage
+
+```kotlin
+plugins {
+    kotlin("multiplatform")
+    id("com.android.library")
+    id("com.javiersc.compose.resources")
+}
+
+kotlin {
+    //...
+}
+
+android {
+    // ...
+}
+
+composeResources {
+    suffixes = listOf("blue", "dark")
+    packageName = "com.javiersc.some.custom.package" // required
+}
+```
