@@ -5,4 +5,4 @@ import androidx.compose.ui.graphics.painter.Painter
 
 @Composable
 actual fun painterResource(resource: String, type: String): Painter =
-    androidx.compose.ui.res.painterResource(resource)
+    androidx.compose.ui.res.painterResource("$type/$resource")

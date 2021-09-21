@@ -11,6 +11,7 @@
 ### Removed
 
 ### Fixed
+- `painterResource` in `jvm` doesn't use the type as directory
 
 ### Updated
 
