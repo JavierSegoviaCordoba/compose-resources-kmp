@@ -62,14 +62,14 @@ private fun Map<String, List<File>>.implementations(): String {
     val companionObject =
         """
             |
-            |val ComposeResource.Companion.drawable: AllDrawables @Composable get() = AllDrawables()
+            |val ComposeResource.Companion.drawable: AllDrawables get() = AllDrawables()
             |
         """.trimMargin()
 
     val allDrawables =
         keys.map { suffix ->
             """
-                |val $suffix: Drawables @Composable get() = ${suffix.capitalized()}Drawables
+                |val $suffix: Drawables = ${suffix.capitalized()}Drawables
                 |
             """
                 .trimMargin()

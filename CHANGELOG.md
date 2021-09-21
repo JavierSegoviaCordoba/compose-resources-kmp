@@ -6,6 +6,7 @@
 - `commonMain/resources` to `android` main source sets
 
 ### Changed
+- `AllDrawables` are not `Composable` 
 
 ### Deprecated
 
