@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `commonMain/resources` to `android` main source sets
 
 ### Changed
 

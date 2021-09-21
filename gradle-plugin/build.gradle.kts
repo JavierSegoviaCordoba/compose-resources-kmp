@@ -31,6 +31,7 @@ dependencies {
     implementation(gradleApi())
     implementation(gradleKotlinDsl())
 
+    implementation(pluginLibs.android.toolsBuild.gradle)
     implementation(pluginLibs.jetbrains.kotlin.kotlinGradlePluginX)
 
     testImplementation(libs.jetbrains.kotlin.kotlinTest)
