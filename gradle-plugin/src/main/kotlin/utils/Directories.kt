@@ -18,6 +18,9 @@ internal val Project.commonMainSourceSet: KotlinSourceSet?
             .toList()
             .firstOrNull { kotlinSourceSet -> kotlinSourceSet.name == "commonMain" }
 
+internal val Project.commonMainKotlin: SourceDirectorySet?
+    get() = commonMainSourceSet?.kotlin
+
 internal val Project.commonMainResources: SourceDirectorySet?
     get() = commonMainSourceSet?.resources
 

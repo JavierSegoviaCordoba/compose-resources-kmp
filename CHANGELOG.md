@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `build\generated\source\composeResources\kotlin` as Kotlin source directory
 
 ### Changed
 

@@ -5,6 +5,12 @@ plugins {
 
 kotlin {
     jvm()
+
+    sourceSets {
+        commonMain {
+            println(kotlin.srcDirs)
+        }
+    }
 }
 
 composeResources {
