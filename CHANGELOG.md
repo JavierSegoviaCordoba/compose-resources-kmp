@@ -4,6 +4,7 @@
 
 ### Added
 - `commonMain/resources` to `android` main source sets
+- run `generateComposeResources` when `preBuild` task is executed or the IDE syncs
 
 ### Changed
 - `AllDrawables` are not `Composable` 

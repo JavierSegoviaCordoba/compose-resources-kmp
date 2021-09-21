@@ -1,15 +1,19 @@
 plugins {
     kotlin("multiplatform")
+    id("android-library")
     id("com.javiersc.compose.resources")
 }
 
 kotlin {
+    android()
     jvm()
+}
 
-    sourceSets {
-        commonMain {
-            println(kotlin.srcDirs)
-        }
+android {
+    compileSdkVersion(31)
+
+    defaultConfig {
+        minSdkVersion(21)
     }
 }
 
