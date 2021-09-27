@@ -1,8 +1,8 @@
 [versions]
 android = "7.0.2"
-composeJetbrains = "1.0.0-alpha4-build348"
+composeJetbrains = "1.0.0-alpha4-build361"
 javierscGradlePlugins = "0.1.0-alpha.54"
-kotlin = "1.5.21"
+kotlin = "1.5.31"
 kotlinBinaryValidator = "0.7.1"
 
 [libraries]
