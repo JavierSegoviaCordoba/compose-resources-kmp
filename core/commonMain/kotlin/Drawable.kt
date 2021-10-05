@@ -1,11 +1,11 @@
 package com.javiersc.compose.resources.core
 
-class Drawable(
-    val name: String,
-    val extension: String,
-    val type: String,
+public class Drawable(
+    public val name: String,
+    public val extension: String,
+    public val type: String,
 ) {
 
-    val nameWithExtension: String
+    public val nameWithExtension: String
         get() = "$name.$extension"
 }
