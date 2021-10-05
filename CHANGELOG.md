@@ -3,8 +3,11 @@
 ## [Unreleased]
 
 ### Added
+- `painterResource` which uses `Drawable` as param
 
 ### Changed
+- drawables will be exposed as `Drawable` instead of `Painter`
+- `ComposeResource.drawable` to `ComposeResource.drawables`
 
 ### Deprecated
 
