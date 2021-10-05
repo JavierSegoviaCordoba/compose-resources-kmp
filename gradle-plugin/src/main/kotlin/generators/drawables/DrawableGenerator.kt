@@ -1,5 +1,6 @@
-package com.javiersc.compose.resources.generators
+package com.javiersc.compose.resources.generators.drawables
 
+import com.javiersc.compose.resources.generators.capitalized
 import java.io.File
 
 internal fun drawableGenerator(packageName: String, drawables: Map<String, List<File>>): String =
@@ -25,8 +26,7 @@ internal fun drawableGenerator(packageName: String, drawables: Map<String, List<
 private fun imports() =
     listOf(
             "import androidx.compose.runtime.Composable",
-            "import androidx.compose.ui.graphics.painter.Painter",
-            "import com.javiersc.compose.resources.core.painterResource",
+            "import com.javiersc.compose.resources.core.Drawable",
         )
         .sorted()
         .joinToString("\n")
@@ -36,7 +36,7 @@ private fun Map<String, List<File>>.abstractProperties(): String =
             files.map { file ->
                 val name = file.nameWithoutExtension.replace("_$suffix", "")
                 """
-                    |val $name: Painter @Composable get
+                    |val $name: Drawable
                 """.trimMargin()
             }
         }
@@ -62,7 +62,7 @@ private fun Map<String, List<File>>.implementations(): String {
     val companionObject =
         """
             |
-            |val ComposeResource.Companion.drawable: AllDrawables get() = AllDrawables()
+            |val ComposeResource.Companion.drawables: AllDrawables get() = AllDrawables()
             |
         """.trimMargin()
 
@@ -120,7 +120,7 @@ private fun implementationProperties(
         checkNotNull(file) { "There is a missing drawable for the property $property" }
 
         """
-            |override val $property: Painter @Composable get() = painterResource("${file.name}", Drawables.type)
+            |override val $property = Drawable("${file.nameWithoutExtension}", "${file.extension}", Drawables.type)
         """
             .trimMargin()
             .withMargin()

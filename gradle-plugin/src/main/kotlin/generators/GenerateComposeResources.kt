@@ -2,6 +2,7 @@ package com.javiersc.compose.resources.generators
 
 import com.javiersc.compose.resources.composeResourcesExtension
 import com.javiersc.compose.resources.generationDir
+import com.javiersc.compose.resources.generators.drawables.drawableGenerator
 import com.javiersc.compose.resources.utils.commonMainDrawablesGroupedBySuffix
 import java.io.File
 import org.gradle.api.Project
