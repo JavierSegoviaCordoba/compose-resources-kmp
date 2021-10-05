@@ -5,9 +5,21 @@ plugins {
 }
 
 kotlin {
+    explicitApi()
+
     android { publishAllLibraryVariants() }
 
     jvm()
 
-    sourceSets { commonMain { dependencies { implementation(compose.ui) } } }
+    sourceSets {
+        commonMain {
+            dependencies {
+                implementation(compose.ui)
+            }
+        }
+
+        named("androidMain")
+
+        named("jvmMain")
+    }
 }
