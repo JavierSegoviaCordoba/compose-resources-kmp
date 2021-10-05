@@ -3,11 +3,8 @@
 ## [Unreleased]
 
 ### Added
-- `painterResource` which uses `Drawable` as param
 
 ### Changed
-- drawables will be exposed as `Drawable` instead of `Painter`
-- `ComposeResource.drawable` to `ComposeResource.drawables`
 
 ### Deprecated
 
@@ -17,6 +14,15 @@
 
 ### Updated
 
+
+## [0.1.0-alpha.4] - 2021-10-05
+
+### Added
+- `painterResource` which uses `Drawable` as param
+
+### Changed
+- drawables will be exposed as `Drawable` instead of `Painter`
+- `ComposeResource.drawable` to `ComposeResource.drawables`
 
 ## [0.1.0-alpha.3] - 2021-09-21
 
