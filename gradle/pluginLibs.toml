@@ -1,7 +1,7 @@
 [versions]
 android = "7.0.2"
 composeJetbrains = "1.0.0-alpha4-build396"
-javierscGradlePlugins = "0.1.0-alpha.59"
+javierscGradlePlugins = "0.1.0-alpha.60"
 kotlin = "1.5.31"
 kotlinBinaryValidator = "0.7.1"
 
