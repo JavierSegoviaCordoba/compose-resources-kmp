@@ -14,6 +14,7 @@ kotlin {
     sourceSets {
         commonMain {
             dependencies {
+                implementation(libs.jetbrains.kotlin.kotlinStdlibCommon)
                 implementation(compose.ui)
             }
         }
