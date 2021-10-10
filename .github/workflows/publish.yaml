@@ -18,7 +18,8 @@ jobs:
   publish:
     strategy:
       matrix:
-        os: [ macOS-latest, windows-latest, ubuntu-latest ]
+        os: [ ubuntu-latest ]
+#        os: [ macOS-latest, windows-latest, ubuntu-latest ]
 
     runs-on: ${{matrix.os}}
 
