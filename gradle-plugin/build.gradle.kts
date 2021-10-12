@@ -27,7 +27,6 @@ dependencies {
     implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))
 
     implementation(projects.core)
-    api(projects.projectAccessor)
 
     implementation(gradleApi())
     implementation(gradleKotlinDsl())
