@@ -1,5 +1,5 @@
 [versions]
-android = "7.0.2"
+android = "7.0.3"
 composeJetbrains = "1.0.0-alpha4-build398"
 javierscGradlePlugins = "0.1.0-alpha.62"
 kotlin = "1.5.31"
