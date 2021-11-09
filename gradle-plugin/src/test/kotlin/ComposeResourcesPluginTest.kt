@@ -5,16 +5,16 @@ import com.javiersc.compose.resources.utils.createSandboxFile
 import io.kotest.matchers.nulls.shouldNotBeNull
 import io.kotest.matchers.shouldBe
 import java.io.File
+import kotlin.test.BeforeTest
+import kotlin.test.Test
 import org.gradle.testkit.runner.GradleRunner
 import org.gradle.testkit.runner.TaskOutcome
-import org.junit.Before
-import org.junit.Test
 
 internal class ComposeResourcesPluginTest {
 
     private val testProjectDir: File = createSandboxFile()
 
-    @Before
+    @BeforeTest
     fun setup() {
         "sandbox-1" copyResourceTo testProjectDir
     }

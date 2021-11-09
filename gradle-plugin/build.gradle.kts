@@ -35,7 +35,6 @@ dependencies {
     implementation(pluginLibs.jetbrains.kotlin.kotlinGradlePluginX)
 
     testImplementation(libs.jetbrains.kotlin.kotlinTest)
-    testImplementation(libs.jetbrains.kotlin.kotlinTestJunit)
     testImplementation(libs.kotest.kotestAssertionsCore)
     testImplementation(gradleTestKit())
 }

@@ -4,5 +4,4 @@ kotest = "4.6.3"
 [libraries]
 jetbrains-kotlin-kotlinStdlibCommon = { module = "org.jetbrains.kotlin:kotlin-stdlib-common" }
 jetbrains-kotlin-kotlinTest = { module = "org.jetbrains.kotlin:kotlin-test" }
-jetbrains-kotlin-kotlinTestJunit = { module = "org.jetbrains.kotlin:kotlin-test-junit" }
 kotest-kotestAssertionsCore = { module = "io.kotest:kotest-assertions-core", version.ref = "kotest" }

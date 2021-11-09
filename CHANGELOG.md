@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.6`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev446`
 - `com.javiersc.gradle-plugins:versioning -> 0.1.0-alpha.71`
