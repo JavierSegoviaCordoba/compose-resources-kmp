@@ -5,7 +5,7 @@ plugins {
     `javiersc-code-analysis`
     `javiersc-code-formatter`
     `javiersc-docs`
-//    `binary-compatibility-validator`
+    `binary-compatibility-validator`
     `javiersc-nexus`
     `javiersc-readme-badges-generator`
 }
