@@ -13,7 +13,7 @@
 ### Fixed
 
 ### Updated
-- `io.kotest:kotest-assertions-core -> 5.0.0`
+- `io.kotest:kotest-assertions-core -> 5.0.1`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-beta6-dev455`
 - `gradle -> 7.3`
