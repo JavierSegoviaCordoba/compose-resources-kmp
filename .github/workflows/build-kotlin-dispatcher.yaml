@@ -3,13 +3,6 @@ name: build-kotlin-dispatcher
 on:
   workflow_dispatch:
     inputs:
-<<<<<<< HEAD
-=======
-      machines:
-        description: 'Virtual environments.'
-        default: 'ubuntu-latest'
-        required: true
->>>>>>> 9318757 (Update dependency com.javiersc.gradle-plugins:all-plugins to v0.1.0-rc.11)
       gradle-args:
         description: 'Gradle args for `build` step'
         default: ''
@@ -21,6 +14,8 @@ jobs:
     with:
       gradle-args: '${{ github.event.inputs.gradle-args }}'
       allow-github-actor-bots: false
+      publish-snapshot: true
+      publish-docs: true
     secrets:
       OSS_USER: '${{ secrets.OSS_USER }}'
       OSS_TOKEN: '${{ secrets.OSS_TOKEN }}'
