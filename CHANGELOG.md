@@ -10,9 +10,15 @@
 
 ### Removed
 
-- `compose-resources` plugin accessor
-
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.8] - 2021-12-01
+
+### Removed
+
+- `compose-resources` plugin accessor
 
 ### Updated
 
