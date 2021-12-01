@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.12] - 2021-12-01
+
+### Updated
+
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0`
 - `gradle -> 7.3.1`
 
