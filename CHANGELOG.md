@@ -13,8 +13,9 @@
 ### Fixed
 
 ### Updated
+
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc10`
-- `io.kotest:kotest-assertions-core -> 5.0.0`
+- `io.kotest:kotest-assertions-core -> 5.0.1`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.12`
 - `gradle -> 7.3`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
