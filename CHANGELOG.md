@@ -16,7 +16,7 @@
 
 ### Updated
 
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc10`
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.0.0-rc12`
 - `io.kotest:kotest-assertions-core -> 5.0.1`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.21`
 - `gradle -> 7.3`
