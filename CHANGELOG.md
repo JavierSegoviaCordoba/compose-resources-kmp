@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.9] - 2021-12-01
+
+- No changes
+
 ## [0.1.0-alpha.8] - 2021-12-01
 
 ### Removed
