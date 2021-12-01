@@ -10,6 +10,8 @@
 
 ### Removed
 
+- `compose-resources` plugin accessor
+
 ### Fixed
 
 ### Updated
