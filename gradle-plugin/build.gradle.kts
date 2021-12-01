@@ -5,6 +5,15 @@ plugins {
     `javiersc-publish`
 }
 
+pluginBundle {
+    tags =
+        listOf(
+            "compose",
+            "jetpack compose",
+            "compose multiplatform",
+        )
+}
+
 gradlePlugin {
     plugins {
         create("ComposeResources") {
