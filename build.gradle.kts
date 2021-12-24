@@ -9,7 +9,3 @@ plugins {
     `javiersc-nexus`
     `javiersc-readme-badges-generator`
 }
-
-tasks.withType<Test>().configureEach {
-    useJUnitPlatform()
-}
