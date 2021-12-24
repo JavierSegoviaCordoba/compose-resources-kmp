@@ -14,11 +14,11 @@
 
 ### Updated
 
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.25`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.10`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `gradle -> 7.3.3`
 - `io.kotest:kotest-assertions-core -> 5.0.3`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
 - `com.android.tools.build:gradle -> 7.0.4`
 
 ## [0.1.0-alpha.12] - 2021-12-01
