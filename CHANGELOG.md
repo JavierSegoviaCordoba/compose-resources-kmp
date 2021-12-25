@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.25`
+- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.28`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.10`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.0.1`
 - `gradle -> 7.3.3`
