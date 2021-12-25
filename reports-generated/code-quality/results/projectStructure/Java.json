@@ -1,0 +1,56 @@
+{
+  "modules": [
+    {
+      "name": "compose-resources",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core",
+      "languageLevel": 8
+    },
+    {
+      "name": "compose-resources.gradle-plugin",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.buildSrc",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core.jvmMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core.jvmTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core.androidAndroidTestRelease",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core.commonMain",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.core.commonTest",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.gradle-plugin.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.gradle-plugin.main",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.buildSrc.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources.buildSrc.main",
+      "languageLevel": 11
+    }
+  ]
+}

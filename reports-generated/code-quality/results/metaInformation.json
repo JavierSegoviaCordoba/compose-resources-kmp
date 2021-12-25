@@ -1,0 +1,15 @@
+{
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp",
+        "revisionId": "1d961f3cf9f854cd7641c1c597ed05769876ec35",
+        "branch": "main"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:core
+com.javiersc.compose.resources.core
+module:gradle-plugin
+com.javiersc.compose.resources
