@@ -26,117 +26,22 @@
           "path": "file://$PROJECT_DIR$/core",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTest/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidMain/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
               "path": "file://$PROJECT_DIR$/core/androidMain/kotlin",
               "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
               "path": "file://$PROJECT_DIR$/core/androidDebug/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/debug/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/debug/java",
               "type": "Source",
               "packagePrefix": ""
             },
@@ -146,73 +51,8 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/debug/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidRelease/resources",
+              "path": "file://$PROJECT_DIR$/core/src/debug/resources",
               "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/resources",
-              "type": "TestResource",
               "packagePrefix": ""
             },
             {
@@ -221,17 +61,92 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/kotlin",
-              "type": "TestSource",
+              "path": "file://$PROJECT_DIR$/core/src/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/test/resources",
-              "type": "TestResource",
+              "path": "file://$PROJECT_DIR$/core/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidMain/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/main/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidMain/resources",
+              "type": "Resource",
               "packagePrefix": ""
             },
             {
               "path": "file://$PROJECT_DIR$/core/androidDebugAndroidTest/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidDebugAndroidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTest/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/kotlin",
               "type": "TestSource",
               "packagePrefix": ""
             },
@@ -241,23 +156,48 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/kotlin",
+              "path": "file://$PROJECT_DIR$/core/androidTest/kotlin",
               "type": "TestSource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidMain/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/core/src/test/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/test/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/test/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestDebug/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testDebug/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testDebug/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestDebug/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             },
             {
@@ -266,13 +206,73 @@
               "packagePrefix": ""
             },
             {
+              "path": "file://$PROJECT_DIR$/core/androidRelease/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/release/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/release/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidRelease/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
               "path": "file://$PROJECT_DIR$/core/src/release/resources",
               "type": "Resource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/kotlin",
+              "path": "file://$PROJECT_DIR$/core/src/androidRelease/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/kotlin",
               "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestRelease/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestRelease/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestRelease/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             }
           ]
@@ -1651,13 +1651,13 @@
           "path": "file://$PROJECT_DIR$/gradle-plugin/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]
@@ -2516,7 +2516,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:all-plugins:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:all-plugins:0.1.0-rc.38",
           "type": "Library"
         },
         {
@@ -2544,67 +2544,71 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:kotlin-config:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:kotlin-config:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:publish:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:publish:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:core:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:core:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:all-projects:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:all-projects:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:code-analysis:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-analysis:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:code-formatter:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-coverage:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:dependency-updates:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-formatter:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:versioning:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:dependency-updates:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:changelog:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:versioning:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:docs:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:changelog:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:readme-badges:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:docs:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:gradle-wrapper-updater:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:readme-badges:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:nexus:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:gradle-wrapper-updater:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:massive-catalogs-updater:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:nexus:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:projects-version-catalog:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:massive-catalogs-updater:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:plugin-accessors:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:projects-version-catalog:0.1.0-rc.38",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.javiersc.gradle-plugins:plugin-accessors:0.1.0-rc.38",
           "type": "Library"
         },
         {
@@ -2637,6 +2641,14 @@
         },
         {
           "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.19.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kover:0.5.0-RC",
           "type": "Library"
         },
         {
@@ -2704,7 +2716,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.10",
           "type": "Library"
         },
         {
@@ -3104,11 +3116,19 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.jetbrains.dokka:dokka-gradle-plugin:1.6.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: ru.vyarus:gradle-mkdocs-plugin:2.2.0",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: com.github.triplet.gradle:play-publisher:3.7.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.gradle.publish:plugin-publish-plugin:0.18.0",
+          "name": "Gradle: com.gradle.publish:plugin-publish-plugin:0.19.0",
           "type": "Library"
         },
         {
@@ -3121,14 +3141,6 @@
         },
         {
           "name": "Gradle: org.eclipse.jgit:org.eclipse.jgit:6.0.0.202111291000-r",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.dokka:dokka-gradle-plugin:1.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: ru.vyarus:gradle-mkdocs-plugin:2.2.0",
           "type": "Library"
         },
         {
@@ -3232,6 +3244,22 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.jetbrains.dokka:dokka-core:1.6.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.ajoberstar.grgit:grgit-core:4.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: ru.vyarus:gradle-use-python-plugin:2.3.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.ajoberstar:gradle-git-publish:3.0.0",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: com.github.triplet.gradle:android-publisher:3.7.0",
           "type": "Library"
         },
@@ -3261,6 +3289,10 @@
         },
         {
           "name": "Gradle: io.github.detekt.sarif4k:sarif4k:0.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.sonarsource.scanner.api:sonar-scanner-api:2.16.1.361",
           "type": "Library"
         },
         {
@@ -3296,27 +3328,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.dokka:dokka-core:1.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.ajoberstar.grgit:grgit-core:4.1.1",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: ru.vyarus:gradle-use-python-plugin:2.3.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.ajoberstar:gradle-git-publish:3.0.0",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.antlr:antlr4-runtime:4.7.2",
           "type": "Library"
         },
         {
           "name": "Gradle: io.netty:netty-resolver:4.1.34.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.12.4",
           "type": "Library"
         },
         {
@@ -3356,11 +3380,27 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.12.4",
+          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.12.4",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.12.4",
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-databind:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-annotations:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-core:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.woodstox:woodstox-core:6.2.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.codehaus.woodstox:stax2-api:4.2.1",
           "type": "Library"
         },
         {
@@ -3385,30 +3425,6 @@
         },
         {
           "name": "Gradle: xmlpull:xmlpull:1.1.3.1",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-databind:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-annotations:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-core:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.woodstox:woodstox-core:6.2.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.codehaus.woodstox:stax2-api:4.2.1",
           "type": "Library"
         },
         {
@@ -3535,7 +3551,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:all-plugins:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:all-plugins:0.1.0-rc.38",
           "type": "Library"
         },
         {
@@ -3563,67 +3579,71 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:kotlin-config:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:kotlin-config:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:publish:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:publish:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:core:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:core:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:all-projects:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:all-projects:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:code-analysis:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-analysis:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:code-formatter:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-coverage:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:dependency-updates:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:code-formatter:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:versioning:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:dependency-updates:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:changelog:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:versioning:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:docs:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:changelog:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:readme-badges:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:docs:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:gradle-wrapper-updater:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:readme-badges:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:nexus:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:gradle-wrapper-updater:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:massive-catalogs-updater:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:nexus:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:projects-version-catalog:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:massive-catalogs-updater:0.1.0-rc.38",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.javiersc.gradle-plugins:plugin-accessors:0.1.0-rc.26",
+          "name": "Gradle: com.javiersc.gradle-plugins:projects-version-catalog:0.1.0-rc.38",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.javiersc.gradle-plugins:plugin-accessors:0.1.0-rc.38",
           "type": "Library"
         },
         {
@@ -3656,6 +3676,14 @@
         },
         {
           "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.19.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kover:0.5.0-RC",
           "type": "Library"
         },
         {
@@ -3987,7 +4015,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.10",
           "type": "Library"
         },
         {
@@ -4119,11 +4147,19 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.jetbrains.dokka:dokka-gradle-plugin:1.6.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: ru.vyarus:gradle-mkdocs-plugin:2.2.0",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: com.github.triplet.gradle:play-publisher:3.7.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.gradle.publish:plugin-publish-plugin:0.18.0",
+          "name": "Gradle: com.gradle.publish:plugin-publish-plugin:0.19.0",
           "type": "Library"
         },
         {
@@ -4136,14 +4172,6 @@
         },
         {
           "name": "Gradle: org.eclipse.jgit:org.eclipse.jgit:6.0.0.202111291000-r",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.dokka:dokka-gradle-plugin:1.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: ru.vyarus:gradle-mkdocs-plugin:2.2.0",
           "type": "Library"
         },
         {
@@ -4247,6 +4275,22 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.jetbrains.dokka:dokka-core:1.6.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.ajoberstar.grgit:grgit-core:4.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: ru.vyarus:gradle-use-python-plugin:2.3.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.ajoberstar:gradle-git-publish:3.0.0",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: com.github.triplet.gradle:android-publisher:3.7.0",
           "type": "Library"
         },
@@ -4276,6 +4320,10 @@
         },
         {
           "name": "Gradle: io.github.detekt.sarif4k:sarif4k:0.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.sonarsource.scanner.api:sonar-scanner-api:2.16.1.361",
           "type": "Library"
         },
         {
@@ -4311,27 +4359,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.dokka:dokka-core:1.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.ajoberstar.grgit:grgit-core:4.1.1",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: ru.vyarus:gradle-use-python-plugin:2.3.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.ajoberstar:gradle-git-publish:3.0.0",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.antlr:antlr4-runtime:4.7.2",
           "type": "Library"
         },
         {
           "name": "Gradle: io.netty:netty-resolver:4.1.34.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.12.4",
           "type": "Library"
         },
         {
@@ -4371,11 +4411,27 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.12.4",
+          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.12.4",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.12.4",
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-databind:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-annotations:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.jackson.core:jackson-core:2.12.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.fasterxml.woodstox:woodstox-core:6.2.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.codehaus.woodstox:stax2-api:4.2.1",
           "type": "Library"
         },
         {
@@ -4400,30 +4456,6 @@
         },
         {
           "name": "Gradle: xmlpull:xmlpull:1.1.3.1",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-databind:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-annotations:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.jackson.core:jackson-core:2.12.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: com.fasterxml.woodstox:woodstox-core:6.2.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.codehaus.woodstox:stax2-api:4.2.1",
           "type": "Library"
         },
         {

@@ -72,11 +72,11 @@ pre {
 
 <div>
   <ul>
-    <li>41 number of properties</li>
-    <li>24 number of functions</li>
-    <li>6 number of classes</li>
-    <li>6 number of packages</li>
-    <li>22 number of kt files</li>
+    <li>0 number of properties</li>
+    <li>0 number of functions</li>
+    <li>0 number of classes</li>
+    <li>1 number of packages</li>
+    <li>6 number of kt files</li>
   </ul>
 </div>
 
@@ -85,38 +85,22 @@ pre {
 
 <div>
   <ul>
-    <li>639 lines of code (loc)</li>
-    <li>510 source lines of code (sloc)</li>
-    <li>350 logical lines of code (lloc)</li>
-    <li>4 comment lines of code (cloc)</li>
-    <li>40 cyclomatic complexity (mcc)</li>
-    <li>11 cognitive complexity</li>
-    <li>3 number of total code smells</li>
-    <li>0% comment source ratio</li>
-    <li>114 mcc per 1,000 lloc</li>
-    <li>8 code smells per 1,000 lloc</li>
+    <li>166 lines of code (loc)</li>
+    <li>127 source lines of code (sloc)</li>
+    <li>99 logical lines of code (lloc)</li>
+    <li>5 comment lines of code (cloc)</li>
+    <li>1 cyclomatic complexity (mcc)</li>
+    <li>0 cognitive complexity</li>
+    <li>2 number of total code smells</li>
+    <li>3% comment source ratio</li>
+    <li>10 mcc per 1,000 lloc</li>
+    <li>20 code smells per 1,000 lloc</li>
   </ul>
 </div>
 
 
 <h2>Findings</h2>
-<div>Total: 3
-  <h3>naming: 1</h3>
-  <details id="MemberNameEqualsClassName" open="open">
-    <summary class="rule-container"><span class="rule">MemberNameEqualsClassName: 1 </span><span class="description">A member should not be given the same name as its parent class or object.</span></summary>
-    <ul>
-      <li><span class="location">gradle-plugin/main/kotlin/utils/Directories.kt:60:5</span><span class="message">A member is named after the class. This might result in confusion. Either rename the member or change it to a constructor.</span>
-        <pre><code><span class="lineno">  57 </span>    get() = flatMap { project -&gt; project.commonMainDrawables }
-<span class="lineno">  58 </span>
-<span class="lineno">  59 </span>internal class AllProjects(val mainProject: Project, val subProjects: List&lt;Project&gt;) {
-<span class="lineno">  60 </span>    <span class="error">val allProjects: List&lt;Project&gt; = listOf(mainProject) + subProjects</span>
-<span class="lineno">  61 </span>}
-<span class="lineno">  62 </span>
-<span class="lineno">  63 </span>internal val AllProjects.commonMainDrawablesGroupedBySuffixMerged: Map&lt;String, List&lt;File&gt;&gt;
-</code></pre>
-      </li>
-    </ul>
-  </details>
+<div>Total: 2
   <h3>style: 2</h3>
   <details id="ForbiddenComment" open="open">
     <summary class="rule-container"><span class="rule">ForbiddenComment: 2 </span><span class="description">Flags a forbidden comment.</span></summary>
@@ -131,14 +115,14 @@ pre {
 <span class="lineno">  18 </span>
 </code></pre>
       </li>
-      <li><span class="location">gradle-plugin/build.gradle.kts:30:5</span><span class="message">This comment contains 'TODO:' that has been defined as forbidden in detekt.</span>
-        <pre><code><span class="lineno">  27 </span>}
-<span class="lineno">  28 </span>
-<span class="lineno">  29 </span>dependencies {
-<span class="lineno">  30 </span>    <span class="error">// TODO: remove when the next issue is fixed:</span>
-<span class="lineno">  31 </span>    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192
-<span class="lineno">  32 </span>    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))
-<span class="lineno">  33 </span>    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))
+      <li><span class="location">gradle-plugin/build.gradle.kts:34:5</span><span class="message">This comment contains 'TODO:' that has been defined as forbidden in detekt.</span>
+        <pre><code><span class="lineno">  31 </span>}
+<span class="lineno">  32 </span>
+<span class="lineno">  33 </span>dependencies {
+<span class="lineno">  34 </span>    <span class="error">// TODO: remove when the next issue is fixed:</span>
+<span class="lineno">  35 </span>    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192
+<span class="lineno">  36 </span>    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))
+<span class="lineno">  37 </span>    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))
 </code></pre>
       </li>
     </ul>
@@ -146,7 +130,7 @@ pre {
 </div>
 
 
-generated with <a href="https://detekt.github.io/">detekt version 1.19.0</a> on 2021-12-25 21:07:32 UTC.
+generated with <a href="https://detekt.github.io/">detekt version 1.19.0</a> on 2022-01-02 02:54:40 UTC.
 
 </body>
 </html>

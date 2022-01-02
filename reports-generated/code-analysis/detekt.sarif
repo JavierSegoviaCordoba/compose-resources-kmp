@@ -15,33 +15,12 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "gradle-plugin/main/kotlin/utils/Directories.kt",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startColumn": 5,
-                  "startLine": 60
-                }
-              }
-            }
-          ],
-          "message": {
-            "text": "A member is named after the class. This might result in confusion. Either rename the member or change it to a constructor."
-          },
-          "ruleId": "detekt.naming.MemberNameEqualsClassName"
-        },
-        {
-          "level": "warning",
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
                   "uri": "gradle-plugin/build.gradle.kts",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
                   "startColumn": 5,
-                  "startLine": 30
+                  "startLine": 34
                 }
               }
             }
