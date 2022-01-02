@@ -1,4 +1,4 @@
-package com.javiersc.compose.resources.generators
+package com.javiersc.compose.resources.utils
 
 import java.util.Locale.getDefault
 

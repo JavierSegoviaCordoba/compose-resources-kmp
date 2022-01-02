@@ -1,6 +1,6 @@
 package com.javiersc.compose.resources.generators.drawables
 
-import com.javiersc.compose.resources.generators.capitalized
+import com.javiersc.compose.resources.utils.capitalized
 import java.io.File
 
 internal fun drawableGenerator(packageName: String, drawables: Map<String, List<File>>): String =
