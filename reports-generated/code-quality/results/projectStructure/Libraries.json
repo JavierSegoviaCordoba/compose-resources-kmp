@@ -2,7 +2,7 @@
   "libraries": [
     {
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/7.3.3/generated-gradle-jars/gradle-api-7.3.3.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/7.4/generated-gradle-jars/gradle-api-7.4.jar!/"
       ]
     },
     {
@@ -1665,57 +1665,57 @@
     {
       "name": "Gradle: androidx.compose.ui:ui:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/304d33837b77e3d96b532a1ad7dc1da9/transformed/ui-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/304d33837b77e3d96b532a1ad7dc1da9/transformed/ui-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/304d33837b77e3d96b532a1ad7dc1da9/transformed/ui-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/88476e3063b7e8a15b19d8002326f22f/transformed/ui-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/88476e3063b7e8a15b19d8002326f22f/transformed/ui-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/88476e3063b7e8a15b19d8002326f22f/transformed/ui-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/4545a72876c0056dc184509fa6f94740/transformed/runtime-saveable-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/4545a72876c0056dc184509fa6f94740/transformed/runtime-saveable-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/4545a72876c0056dc184509fa6f94740/transformed/runtime-saveable-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2d2a622a4b0444d29c2ee9a7fb7878a2/transformed/runtime-saveable-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2d2a622a4b0444d29c2ee9a7fb7878a2/transformed/runtime-saveable-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2d2a622a4b0444d29c2ee9a7fb7878a2/transformed/runtime-saveable-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.runtime:runtime:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a299b7123749eb3501a9e817c871f0f4/transformed/runtime-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a299b7123749eb3501a9e817c871f0f4/transformed/runtime-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a299b7123749eb3501a9e817c871f0f4/transformed/runtime-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/ee917db98f7f8993be85df2634e8e156/transformed/runtime-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/ee917db98f7f8993be85df2634e8e156/transformed/runtime-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/ee917db98f7f8993be85df2634e8e156/transformed/runtime-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.ui:ui-text:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/d144e42d7c44c7c2bab03a4c8089faf4/transformed/ui-text-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/d144e42d7c44c7c2bab03a4c8089faf4/transformed/ui-text-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/d144e42d7c44c7c2bab03a4c8089faf4/transformed/ui-text-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a4e96fa03c26bdfdd5f764cb58ec962b/transformed/ui-text-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a4e96fa03c26bdfdd5f764cb58ec962b/transformed/ui-text-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/a4e96fa03c26bdfdd5f764cb58ec962b/transformed/ui-text-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.ui:ui-graphics:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2133d94c8759badf691696c5b9e5759d/transformed/ui-graphics-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2133d94c8759badf691696c5b9e5759d/transformed/ui-graphics-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2133d94c8759badf691696c5b9e5759d/transformed/ui-graphics-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2229d064b96bfe2bd9f05c6bd854b568/transformed/ui-graphics-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2229d064b96bfe2bd9f05c6bd854b568/transformed/ui-graphics-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/2229d064b96bfe2bd9f05c6bd854b568/transformed/ui-graphics-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.ui:ui-unit:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/061917884c560857a86302b49f7ddfdb/transformed/ui-unit-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/061917884c560857a86302b49f7ddfdb/transformed/ui-unit-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/061917884c560857a86302b49f7ddfdb/transformed/ui-unit-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/795da6061d3964943c1292dc37984650/transformed/ui-unit-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/795da6061d3964943c1292dc37984650/transformed/ui-unit-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/795da6061d3964943c1292dc37984650/transformed/ui-unit-1.1.0-beta04/AndroidManifest.xml"
       ]
     },
     {
       "name": "Gradle: androidx.compose.ui:ui-geometry:1.1.0-beta04@aar",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fb8b0f12ff2f7b8de65d415c30d557ac/transformed/ui-geometry-1.1.0-beta04/jars/classes.jar!/",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fb8b0f12ff2f7b8de65d415c30d557ac/transformed/ui-geometry-1.1.0-beta04/res",
-        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fb8b0f12ff2f7b8de65d415c30d557ac/transformed/ui-geometry-1.1.0-beta04/AndroidManifest.xml"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fd7ce045bf879a5c84a16f79cf89916c/transformed/ui-geometry-1.1.0-beta04/jars/classes.jar!/",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fd7ce045bf879a5c84a16f79cf89916c/transformed/ui-geometry-1.1.0-beta04/res",
+        "file://$PROJECT_DIR$/../cache/gradle/caches/transforms-3/fd7ce045bf879a5c84a16f79cf89916c/transformed/ui-geometry-1.1.0-beta04/AndroidManifest.xml"
       ]
     }
   ]
