@@ -1,1 +1,141 @@
-{"version":"3","listProblem":[]}
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable type is used in signature",
+  "severity": "High",
+  "comment": "Method must be marked with '@org.gradle.api.Incubating' annotation because its signature references unstable type 'com.android.build.api.dsl.AndroidSourceDirectorySet'",
+  "detailsInfo": "Reports declarations of classes, methods, and fields that reference an unstable API type in the signature, but are not marked with the same unstable annotation.\n\n\nThis inspection ensures that the signatures of a public API do not expose any *unstable* (internal, experimental) types.\nFor example, if a method returns an *experimental* class, the method itself is considered *experimental*\nbecause incompatible changes of the type (deletion or move to another package) lead to incompatible method signature changes.\n\nUse the list below to specify which annotations mark an unstable API.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 35,
+      "offset": 5,
+      "length": 3,
+      "code": {
+        "startLine": 33,
+        "length": 3,
+        "offset": 89,
+        "surroundingCode": "\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n\ninternal val Project.commonMainDrawables: List<File>"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "UnstableTypeUsedInSignature"
+  },
+  "hash": "8ff2bdfc3a201a2b1d3a5a1a0e6bd86bd8beae8333c2e2250ee36c021b72ef67"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'com.android.build.api.dsl.AndroidSourceDirectorySet' is marked unstable with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 34,
+      "offset": 58,
+      "length": 25,
+      "code": {
+        "startLine": 32,
+        "length": 25,
+        "offset": 130,
+        "surroundingCode": "    get() = commonMainSourceSet?.resources?.srcDirs?.toList().orEmpty()\n\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "344ccecc1533e4bfba990ff3ad1d3e236cc56950ba2bf9fbbc2637cbae3190e2"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'srcDir(java.lang.Object)' is declared in unstable 'com.android.build.api.dsl.AndroidSourceDirectorySet' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/ComposeResourcesPlugin.kt",
+      "language": "kotlin",
+      "line": 19,
+      "offset": 57,
+      "length": 6,
+      "code": {
+        "startLine": 17,
+        "length": 6,
+        "offset": 117,
+        "surroundingCode": "\n        project.commonMainResourcesDirs.forEach { srcDir ->\n            project.androidSourceDirectorySetResources?.srcDir(srcDir)\n        }\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "bd8124aa76f292af55125ca1d0759be5574e533e5bffbe29196e863f2b07a1be"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'repositories(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.initialization.resolve.DependencyResolutionManagement' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "settings.gradle.kts",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 12,
+      "code": {
+        "startLine": 6,
+        "length": 12,
+        "offset": 38,
+        "surroundingCode": "\ndependencyResolutionManagement {\n    repositories {\n        mavenCentral()\n        google()"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "66fe8128aa067d7ca32e9a51e73a45f66f31aa03d108a9578464a1c67d77f493"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'versionCatalogs(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.initialization.resolve.DependencyResolutionManagement' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "settings.gradle.kts",
+      "language": "kotlin",
+      "line": 14,
+      "offset": 5,
+      "length": 15,
+      "code": {
+        "startLine": 12,
+        "length": 15,
+        "offset": 11,
+        "surroundingCode": "    }\n\n    versionCatalogs {\n        create(\"libs\") { from(files(\"gradle/libs.toml\")) }\n        create(\"pluginLibs\") { from(files(\"gradle/pluginLibs.toml\")) }"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "42733217d919565954a503560f360c0c8d3291ab74d4790df096b81ed58ba35b"
+}]}

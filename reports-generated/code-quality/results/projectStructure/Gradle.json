@@ -10,12 +10,12 @@
       "version": "1.6.10"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10",
@@ -50,52 +50,52 @@
       "version": "13.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.runtime",
-      "artifactId": "runtime-saveable-desktop",
-      "version": "1.0.1"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-text-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-graphics-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.skiko:skiko-jvm:0.6.6",
-      "gradleName": "org.jetbrains.skiko:skiko-jvm:0.6.6",
+      "ideaName": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
+      "gradleName": "org.jetbrains.skiko:skiko-awt:0.7.12",
       "unresolved": false,
       "groupId": "org.jetbrains.skiko",
-      "artifactId": "skiko-jvm",
-      "version": "0.6.6"
+      "artifactId": "skiko-awt",
+      "version": "0.7.12"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+      "unresolved": false,
+      "groupId": "org.jetbrains.compose.runtime",
+      "artifactId": "runtime-saveable-desktop",
+      "version": "1.1.0"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-unit-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-geometry-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2",
@@ -106,76 +106,76 @@
       "version": "1.5.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-util-desktop",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-saveable",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-text:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-text:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-text",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-graphics:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-graphics",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-unit:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-unit:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-unit",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.0.1",
-      "gradleName": "org.jetbrains.compose.ui:ui-geometry:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
+      "gradleName": "org.jetbrains.compose.ui:ui-geometry:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-geometry",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime:1.0.1",
-      "gradleName": "org.jetbrains.compose.runtime:runtime:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
+      "gradleName": "org.jetbrains.compose.runtime:runtime:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10",
@@ -196,38 +196,38 @@
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.ui:ui:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.ui:ui:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.ui:ui:1.1.0@aar",
+      "gradleName": "androidx.compose.ui:ui:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.runtime:runtime-saveable:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0@aar",
+      "gradleName": "androidx.compose.runtime:runtime-saveable:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.runtime:runtime:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.runtime:runtime:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.runtime:runtime:1.1.0@aar",
+      "gradleName": "androidx.compose.runtime:runtime:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.ui:ui-text:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.ui:ui-text:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.ui:ui-text:1.1.0@aar",
+      "gradleName": "androidx.compose.ui:ui-text:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.ui:ui-graphics:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.ui:ui-graphics:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.ui:ui-graphics:1.1.0@aar",
+      "gradleName": "androidx.compose.ui:ui-graphics:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.ui:ui-unit:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.ui:ui-unit:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.ui:ui-unit:1.1.0@aar",
+      "gradleName": "androidx.compose.ui:ui-unit:1.1.0@aar",
       "unresolved": false
     },
     {
-      "ideaName": "Gradle: androidx.compose.ui:ui-geometry:1.1.0-beta04@aar",
-      "gradleName": "androidx.compose.ui:ui-geometry:1.1.0-beta04@aar",
+      "ideaName": "Gradle: androidx.compose.ui:ui-geometry:1.1.0@aar",
+      "gradleName": "androidx.compose.ui:ui-geometry:1.1.0@aar",
       "unresolved": false
     },
     {
@@ -1455,12 +1455,12 @@
       "version": "0.1.0-rc.40"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.0.1",
-      "gradleName": "org.jetbrains.compose:compose-gradle-plugin:1.0.1",
+      "ideaName": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.0",
+      "gradleName": "org.jetbrains.compose:compose-gradle-plugin:1.1.0",
       "unresolved": false,
       "groupId": "org.jetbrains.compose",
       "artifactId": "compose-gradle-plugin",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.8.0",

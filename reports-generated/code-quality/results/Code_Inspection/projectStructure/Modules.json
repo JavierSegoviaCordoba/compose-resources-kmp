@@ -316,31 +316,31 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.ui:ui:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.ui:ui:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.runtime:runtime:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.runtime:runtime:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.ui:ui-text:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.ui:ui-text:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.ui:ui-graphics:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.ui:ui-graphics:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.ui:ui-unit:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.ui:ui-unit:1.1.0@aar",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.compose.ui:ui-geometry:1.1.0-beta04@aar",
+          "name": "Gradle: androidx.compose.ui:ui-geometry:1.1.0@aar",
           "type": "Library"
         },
         {
@@ -427,7 +427,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -447,27 +447,27 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-jvm:0.6.6",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -475,11 +475,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
           "type": "Library"
         }
       ]
@@ -518,7 +518,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
           "type": "Library"
         },
         {
@@ -526,7 +526,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -534,7 +534,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
           "type": "Library"
         },
         {
@@ -542,7 +542,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
           "type": "Library"
         },
         {
@@ -550,7 +550,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
           "type": "Library"
         },
         {
@@ -558,39 +558,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-jvm:0.6.6",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -598,11 +598,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
           "type": "Library"
         }
       ]
@@ -637,7 +637,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
           "type": "Library"
         },
         {
@@ -645,7 +645,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
           "type": "Library"
         },
         {
@@ -653,7 +653,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
           "type": "Library"
         },
         {
@@ -661,7 +661,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
           "type": "Library"
         },
         {
@@ -669,7 +669,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
           "type": "Library"
         },
         {
@@ -677,11 +677,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
           "type": "Library"
         }
       ]
@@ -710,7 +710,7 @@
           "type": "Own sources"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
           "type": "Library"
         },
         {
@@ -718,7 +718,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
           "type": "Library"
         },
         {
@@ -726,7 +726,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
           "type": "Library"
         },
         {
@@ -734,7 +734,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
           "type": "Library"
         },
         {
@@ -742,7 +742,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
           "type": "Library"
         },
         {
@@ -750,11 +750,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
           "type": "Library"
         }
       ]
@@ -781,7 +781,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
           "type": "Library"
         },
         {
@@ -789,7 +789,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
           "type": "Library"
         },
         {
@@ -797,7 +797,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
           "type": "Library"
         },
         {
@@ -805,7 +805,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
           "type": "Library"
         },
         {
@@ -813,7 +813,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
           "type": "Library"
         },
         {
@@ -821,11 +821,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
           "type": "Library"
         }
       ]
@@ -1315,7 +1315,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -1603,35 +1603,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-jvm:0.6.6",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -2081,7 +2081,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -2353,35 +2353,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-jvm:0.6.6",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.0.1",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
           "type": "Library"
         },
         {
@@ -2520,7 +2520,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.0.1",
+          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.0",
           "type": "Library"
         },
         {
@@ -3555,7 +3555,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.0.1",
+          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.0",
           "type": "Library"
         },
         {
