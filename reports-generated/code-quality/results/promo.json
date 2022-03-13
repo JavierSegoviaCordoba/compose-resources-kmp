@@ -1,0 +1,63 @@
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "Redundant constructs",
+  "type": "Unused import directive",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
+  "comment": "Unused import directive",
+  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 12,
+      "offset": 0,
+      "length": 32,
+      "code": {
+        "startLine": 10,
+        "length": 32,
+        "offset": 86,
+        "surroundingCode": "import org.gradle.api.file.SourceDirectorySet\nimport org.gradle.kotlin.dsl.findByType\nimport org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "KotlinUnusedImport"
+  },
+  "hash": "-3530367649040009437"
+},{
+  "tool": "Code Inspection",
+  "category": "Redundant constructs",
+  "type": "Unused import directive",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
+  "comment": "Unused import directive",
+  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 14,
+      "offset": 0,
+      "length": 61,
+      "code": {
+        "startLine": 12,
+        "length": 61,
+        "offset": 72,
+        "surroundingCode": "import org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet\n\ninternal val Project.commonMainSourceSet: KotlinSourceSet?"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "KotlinUnusedImport"
+  },
+  "hash": "5909128926125948463"
+}]}
