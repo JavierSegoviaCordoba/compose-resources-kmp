@@ -26,13 +26,133 @@
           "path": "file://$PROJECT_DIR$/core",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/core/src/androidRelease/resources",
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidMain/resources",
               "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/test/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/release/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/debug/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/debug/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestRelease/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidRelease/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             },
             {
               "path": "file://$PROJECT_DIR$/core/androidAndroidTest/kotlin",
               "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/main/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidMain/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTest/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTest/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/release/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/release/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidRelease/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
@@ -46,123 +166,28 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/resources",
+              "path": "file://$PROJECT_DIR$/core/src/androidDebug/resources",
               "type": "Resource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/main/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/kotlin",
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/kotlin",
               "type": "TestSource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/debug/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/core/androidTestRelease/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/java",
+              "path": "file://$PROJECT_DIR$/core/src/testDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidTestDebug/kotlin",
               "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebug/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/java",
-              "type": "Source",
               "packagePrefix": ""
             },
             {
@@ -171,22 +196,7 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidMain/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/resources",
+              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/resources",
               "type": "TestResource",
               "packagePrefix": ""
             },
@@ -196,67 +206,7 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/androidDebug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidMain/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestRelease/resources",
+              "path": "file://$PROJECT_DIR$/core/src/androidTest/resources",
               "type": "TestResource",
               "packagePrefix": ""
             },
@@ -266,13 +216,63 @@
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/src/release/kotlin",
+              "path": "file://$PROJECT_DIR$/core/androidTestRelease/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testDebug/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidRelease/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/test/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testRelease/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/androidDebug/kotlin",
               "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/core/androidMain/kotlin",
+              "path": "file://$PROJECT_DIR$/core/androidDebug/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/debug/java",
               "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/test/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/core/src/testDebug/java",
+              "type": "TestSource",
               "packagePrefix": ""
             }
           ]
@@ -837,13 +837,13 @@
           "path": "file://$PROJECT_DIR$/gradle-plugin/test",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/test/kotlin",
-              "type": "TestSource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/test/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/test/resources",
-              "type": "TestResource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/test/kotlin",
+              "type": "TestSource",
               "packagePrefix": ""
             }
           ]
@@ -1651,13 +1651,13 @@
           "path": "file://$PROJECT_DIR$/gradle-plugin/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             }
           ]
