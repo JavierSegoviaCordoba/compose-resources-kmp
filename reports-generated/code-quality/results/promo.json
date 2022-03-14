@@ -1,63 +1,32 @@
 {"version":"3","listProblem":[{
   "tool": "Code Inspection",
   "category": "Redundant constructs",
-  "type": "Unused symbol",
+  "type": "Redundant visibility modifier",
   "tags": [
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Property \"commonMainDrawablesGroupedBySuffixMerged\" is never used",
-  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
+  "comment": "Redundant visibility modifier",
+  "detailsInfo": "Reports visibility modifiers that match the default visibility of an element (`public` for most elements, `protected` for members that override a protected member).",
   "sources": [
     {
       "type": "method",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "path": "core/androidMain/kotlin/com/javiersc/compose/resources/core/PainterResourceExtensions.kt",
       "language": "kotlin",
-      "line": 63,
-      "offset": 25,
-      "length": 40,
+      "line": 8,
+      "offset": 0,
+      "length": 6,
       "code": {
-        "startLine": 61,
-        "length": 40,
-        "offset": 28,
-        "surroundingCode": "}\n\ninternal val AllProjects.commonMainDrawablesGroupedBySuffixMerged: Map<String, List<File>>\n    get() =\n        allProjects.commonMainDrawablesMerged.groupBy { file ->"
+        "startLine": 6,
+        "length": 6,
+        "offset": 13,
+        "surroundingCode": "\n@Composable\npublic actual fun painterResource(resource: String, type: String): Painter {\n    val resourceName = resource.replaceAfterLast(\".\", \"\").dropLast(1)\n    return androidx.compose.ui.res.painterResource("
       }
     }
   ],
   "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
-    "inspectionName": "UnusedSymbol"
+    "module": "compose-resources.core",
+    "inspectionName": "RedundantVisibilityModifier"
   },
-  "hash": "3306657471505639847"
-},{
-  "tool": "Code Inspection",
-  "category": "Redundant constructs",
-  "type": "Unused symbol",
-  "tags": [
-    "kotlin"
-  ],
-  "severity": "High",
-  "comment": "Property \"commonMainResources\" is never used",
-  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
-  "sources": [
-    {
-      "type": "method",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
-      "language": "kotlin",
-      "line": 28,
-      "offset": 21,
-      "length": 19,
-      "code": {
-        "startLine": 26,
-        "length": 19,
-        "offset": 62,
-        "surroundingCode": "    get() = commonMainSourceSet?.kotlin\n\ninternal val Project.commonMainResources: SourceDirectorySet?\n    get() = commonMainSourceSet?.resources\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
-    "inspectionName": "UnusedSymbol"
-  },
-  "hash": "-3991367477648035420"
+  "hash": "3716749651053664794"
 }]}
