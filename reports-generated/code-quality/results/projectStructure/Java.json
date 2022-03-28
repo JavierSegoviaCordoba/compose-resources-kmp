@@ -6,7 +6,7 @@
     },
     {
       "name": "compose-resources.core",
-      "languageLevel": 8
+      "languageLevel": 11
     },
     {
       "name": "compose-resources.gradle-plugin",

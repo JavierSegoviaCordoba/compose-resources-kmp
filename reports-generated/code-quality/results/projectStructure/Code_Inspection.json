@@ -24,336 +24,17 @@
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/core",
-          "sourceFolders": [
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidMain/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidReleaseUnitTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidMain/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidMain/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidAndroidTestDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/release/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidRelease/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/main/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugAndroidTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidDebug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebugUnitTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTest/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidAndroidTest/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidTestRelease/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidRelease/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/androidTestDebug/resources",
-              "type": "TestResource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testRelease/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebug/kotlin",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/androidDebug/resources",
-              "type": "Resource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/debug/java",
-              "type": "Source",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/test/kotlin",
-              "type": "TestSource",
-              "packagePrefix": ""
-            },
-            {
-              "path": "file://$PROJECT_DIR$/core/src/testDebug/java",
-              "type": "TestSource",
-              "packagePrefix": ""
-            }
-          ]
+          "sourceFolders": []
         }
       ],
       "orderEntries": [
         {
-          "name": "Android API 31 Platform",
+          "name": "jbr-11",
           "type": "SDK"
         },
         {
           "name": "<Module source>",
           "type": "Own sources"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.10",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains:annotations:13.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.annotation:annotation:1.2.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.ui:ui:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.runtime:runtime-saveable:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.runtime:runtime:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.ui:ui-text:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.ui:ui-graphics:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.ui:ui-unit:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: androidx.compose.ui:ui-geometry:1.1.0@aar",
-          "type": "Library"
-        },
-        {
-          "name": "compose-resources.core.androidAndroidTestRelease",
-          "type": "Module"
-        },
-        {
-          "name": "compose-resources.core.commonMain",
-          "type": "Module"
-        },
-        {
-          "name": "compose-resources.core.commonTest",
-          "type": "Module"
         }
       ]
     },
@@ -427,7 +108,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -439,35 +120,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-swing:1.5.2",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.jetbrains:annotations:13.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.16",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -475,11 +156,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.1",
           "type": "Library"
         }
       ]
@@ -518,7 +195,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.1",
           "type": "Library"
         },
         {
@@ -526,7 +203,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -534,7 +211,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.1",
           "type": "Library"
         },
         {
@@ -542,15 +219,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-swing:1.5.2",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.1",
           "type": "Library"
         },
         {
@@ -558,39 +227,47 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.16",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -598,11 +275,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.1",
           "type": "Library"
         }
       ]
@@ -615,11 +288,7 @@
           "sourceFolders": []
         },
         {
-          "path": "file://$PROJECT_DIR$/core/src/androidAndroidTestRelease",
-          "sourceFolders": []
-        },
-        {
-          "path": "file://$PROJECT_DIR$/core/src/androidTestRelease",
+          "path": "file://$PROJECT_DIR$/core/src",
           "sourceFolders": []
         }
       ],
@@ -637,7 +306,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.1",
           "type": "Library"
         },
         {
@@ -645,7 +314,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.1",
           "type": "Library"
         },
         {
@@ -653,7 +322,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.1",
           "type": "Library"
         },
         {
@@ -661,7 +330,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.1",
           "type": "Library"
         },
         {
@@ -669,7 +338,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.1",
           "type": "Library"
         },
         {
@@ -677,11 +346,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.1",
           "type": "Library"
         }
       ]
@@ -710,7 +379,7 @@
           "type": "Own sources"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.1",
           "type": "Library"
         },
         {
@@ -718,7 +387,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.1",
           "type": "Library"
         },
         {
@@ -726,7 +395,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.1",
           "type": "Library"
         },
         {
@@ -734,7 +403,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.1",
           "type": "Library"
         },
         {
@@ -742,7 +411,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.1",
           "type": "Library"
         },
         {
@@ -750,11 +419,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.1",
           "type": "Library"
         }
       ]
@@ -781,7 +450,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui:1.1.1",
           "type": "Library"
         },
         {
@@ -789,7 +458,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:1.1.1",
           "type": "Library"
         },
         {
@@ -797,7 +466,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text:1.1.1",
           "type": "Library"
         },
         {
@@ -805,7 +474,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:1.1.1",
           "type": "Library"
         },
         {
@@ -813,7 +482,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit:1.1.1",
           "type": "Library"
         },
         {
@@ -821,11 +490,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime:1.1.1",
           "type": "Library"
         }
       ]
@@ -837,13 +506,13 @@
           "path": "file://$PROJECT_DIR$/gradle-plugin/test",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/test/resources",
-              "type": "TestResource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/test/kotlin",
+              "type": "TestSource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/test/kotlin",
-              "type": "TestSource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/test/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             }
           ]
@@ -995,7 +664,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -1075,7 +744,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -1095,7 +764,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -1315,7 +984,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -1547,10 +1216,6 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-swing:1.6.0",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: xml-apis:xml-apis:1.4.01",
           "type": "Library"
         },
@@ -1595,7 +1260,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-common-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-common-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -1603,35 +1268,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.16",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -1651,13 +1316,13 @@
           "path": "file://$PROJECT_DIR$/gradle-plugin/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/gradle-plugin/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/gradle-plugin/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]
@@ -2081,7 +1746,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -2305,10 +1970,6 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-swing:1.5.2",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: xml-apis:xml-apis:1.4.01",
           "type": "Library"
         },
@@ -2353,35 +2014,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.12",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.16",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.1.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.0",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.1.1",
           "type": "Library"
         },
         {
@@ -2520,7 +2181,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.0",
+          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.1",
           "type": "Library"
         },
         {
@@ -3555,7 +3216,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.0",
+          "name": "Gradle: org.jetbrains.compose:compose-gradle-plugin:1.1.1",
           "type": "Library"
         },
         {

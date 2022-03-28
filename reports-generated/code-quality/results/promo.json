@@ -1,32 +1,32 @@
 {"version":"3","listProblem":[{
   "tool": "Code Inspection",
   "category": "Redundant constructs",
-  "type": "Redundant visibility modifier",
+  "type": "Unused symbol",
   "tags": [
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Redundant visibility modifier",
-  "detailsInfo": "Reports visibility modifiers that match the default visibility of an element (`public` for most elements, `protected` for members that override a protected member).",
+  "comment": "Property \"resourcesDirName\" is never used",
+  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
   "sources": [
     {
-      "type": "method",
-      "path": "core/androidMain/kotlin/com/javiersc/compose/resources/core/PainterResourceExtensions.kt",
+      "type": "field",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/Constants.kt",
       "language": "kotlin",
-      "line": 8,
-      "offset": 0,
-      "length": 6,
+      "line": 11,
+      "offset": 19,
+      "length": 16,
       "code": {
-        "startLine": 6,
-        "length": 6,
-        "offset": 13,
-        "surroundingCode": "\n@Composable\npublic actual fun painterResource(resource: String, type: String): Painter {\n    val resourceName = resource.replaceAfterLast(\".\", \"\").dropLast(1)\n    return androidx.compose.ui.res.painterResource("
+        "startLine": 9,
+        "length": 16,
+        "offset": 132,
+        "surroundingCode": "    get() = \"$buildDir/generated/source/composeResources/kotlin\"\ninternal const val DrawableDirName = \"drawable\"\ninternal const val resourcesDirName = \"resources\""
       }
     }
   ],
   "attributes": {
-    "module": "compose-resources.core",
-    "inspectionName": "RedundantVisibilityModifier"
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "UnusedSymbol"
   },
-  "hash": "3716749651053664794"
+  "hash": "-2696095667779313484"
 }]}
