@@ -1,26 +1,88 @@
 {"version":"3","listProblem":[{
   "tool": "Code Inspection",
   "category": "Redundant constructs",
+  "type": "Unused import directive",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
+  "comment": "Unused import directive",
+  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 12,
+      "offset": 0,
+      "length": 32,
+      "code": {
+        "startLine": 10,
+        "length": 32,
+        "offset": 86,
+        "surroundingCode": "import org.gradle.api.file.SourceDirectorySet\nimport org.gradle.kotlin.dsl.findByType\nimport org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "KotlinUnusedImport"
+  },
+  "hash": "-3530367649040009437"
+},{
+  "tool": "Code Inspection",
+  "category": "Redundant constructs",
+  "type": "Unused import directive",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
+  "comment": "Unused import directive",
+  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 14,
+      "offset": 0,
+      "length": 61,
+      "code": {
+        "startLine": 12,
+        "length": 61,
+        "offset": 72,
+        "surroundingCode": "import org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet\n\ninternal val Project.commonMainSourceSet: KotlinSourceSet?"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "KotlinUnusedImport"
+  },
+  "hash": "5909128926125948463"
+},{
+  "tool": "Code Inspection",
+  "category": "Redundant constructs",
   "type": "Unused symbol",
   "tags": [
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Property \"resourcesDirName\" is never used",
+  "comment": "Function \"capitalizeAfterUnderscore\" is never used",
   "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
   "sources": [
     {
-      "type": "field",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/Constants.kt",
+      "type": "method",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Capitalized.kt",
       "language": "kotlin",
-      "line": 11,
-      "offset": 19,
-      "length": 16,
+      "line": 5,
+      "offset": 20,
+      "length": 25,
       "code": {
-        "startLine": 9,
-        "length": 16,
-        "offset": 132,
-        "surroundingCode": "    get() = \"$buildDir/generated/source/composeResources/kotlin\"\ninternal const val DrawableDirName = \"drawable\"\ninternal const val resourcesDirName = \"resources\""
+        "startLine": 3,
+        "length": 25,
+        "offset": 56,
+        "surroundingCode": "import java.util.Locale.getDefault\n\ninternal fun String.capitalizeAfterUnderscore(): String =\n    lowercase(getDefault())\n        .split(\"_\")"
       }
     }
   ],
@@ -28,5 +90,5 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnusedSymbol"
   },
-  "hash": "-2696095667779313484"
+  "hash": "4260696407994944819"
 }]}
