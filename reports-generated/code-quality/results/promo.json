@@ -60,35 +60,4 @@
     "inspectionName": "KotlinUnusedImport"
   },
   "hash": "5909128926125948463"
-},{
-  "tool": "Code Inspection",
-  "category": "Redundant constructs",
-  "type": "Unused symbol",
-  "tags": [
-    "kotlin"
-  ],
-  "severity": "High",
-  "comment": "Function \"capitalizeAfterUnderscore\" is never used",
-  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
-  "sources": [
-    {
-      "type": "method",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Capitalized.kt",
-      "language": "kotlin",
-      "line": 5,
-      "offset": 20,
-      "length": 25,
-      "code": {
-        "startLine": 3,
-        "length": 25,
-        "offset": 56,
-        "surroundingCode": "import java.util.Locale.getDefault\n\ninternal fun String.capitalizeAfterUnderscore(): String =\n    lowercase(getDefault())\n        .split(\"_\")"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
-    "inspectionName": "UnusedSymbol"
-  },
-  "hash": "4260696407994944819"
 }]}
