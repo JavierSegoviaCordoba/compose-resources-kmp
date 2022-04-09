@@ -1,5 +1,5 @@
 [versions]
-kotest = "5.2.2"
+kotest = "5.2.3"
 
 [libraries]
 jetbrains-kotlin-kotlinStdlibCommon = { module = "org.jetbrains.kotlin:kotlin-stdlib-common" }
