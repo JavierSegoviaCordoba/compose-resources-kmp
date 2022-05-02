@@ -1,65 +1,34 @@
 {"version":"3","listProblem":[{
   "tool": "Code Inspection",
   "category": "Redundant constructs",
-  "type": "Unused import directive",
+  "type": "Unused symbol",
   "tags": [
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Unused import directive",
-  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
+  "comment": "Property \"commonMainResources\" is never used",
+  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
   "sources": [
     {
-      "type": "file",
+      "type": "method",
       "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
       "language": "kotlin",
-      "line": 12,
-      "offset": 0,
-      "length": 32,
+      "line": 28,
+      "offset": 21,
+      "length": 19,
       "code": {
-        "startLine": 10,
-        "length": 32,
-        "offset": 86,
-        "surroundingCode": "import org.gradle.api.file.SourceDirectorySet\nimport org.gradle.kotlin.dsl.findByType\nimport org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet"
+        "startLine": 26,
+        "length": 19,
+        "offset": 62,
+        "surroundingCode": "    get() = commonMainSourceSet?.kotlin\n\ninternal val Project.commonMainResources: SourceDirectorySet?\n    get() = commonMainSourceSet?.resources\n"
       }
     }
   ],
   "attributes": {
     "module": "compose-resources.gradle-plugin.main",
-    "inspectionName": "KotlinUnusedImport"
+    "inspectionName": "UnusedSymbol"
   },
-  "hash": "-3530367649040009437"
-},{
-  "tool": "Code Inspection",
-  "category": "Redundant constructs",
-  "type": "Unused import directive",
-  "tags": [
-    "kotlin"
-  ],
-  "severity": "High",
-  "comment": "Unused import directive",
-  "detailsInfo": "Reports redundant `import` statements.\n\nDefault and unused imports can be safely removed.\n\n**Example:**\n\n\n      import kotlin.*\n      import kotlin.collections.*\n      import kotlin.comparisons.*\n      import kotlin.io.*\n      import kotlin.ranges.*\n      import kotlin.sequences.*\n      import kotlin.text.*\n\n      // jvm specific\n      import java.lang.*\n      import kotlin.jvm.*\n\n      // js specific\n      import kotlin.js.*\n\n      import java.io.* // this import is unused and could be removed\n      import java.util.*\n\n      fun foo(list: ArrayList<String>) {\n          list.add(\"\")\n      }\n",
-  "sources": [
-    {
-      "type": "file",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
-      "language": "kotlin",
-      "line": 14,
-      "offset": 0,
-      "length": 61,
-      "code": {
-        "startLine": 12,
-        "length": 61,
-        "offset": 72,
-        "surroundingCode": "import org.gradle.kotlin.dsl.get\nimport org.gradle.kotlin.dsl.getByType\nimport org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension\nimport org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet\n\ninternal val Project.commonMainSourceSet: KotlinSourceSet?"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
-    "inspectionName": "KotlinUnusedImport"
-  },
-  "hash": "5909128926125948463"
+  "hash": "-3991367477648035420"
 },{
   "tool": "Code Inspection",
   "category": "Redundant constructs",
@@ -68,27 +37,27 @@
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Function \"painterResource\" is never used",
+  "comment": "Property \"commonMainDrawablesGroupedBySuffixMerged\" is never used",
   "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
   "sources": [
     {
-      "type": "file",
-      "path": "core/commonMain/kotlin/com/javiersc/compose/resources/core/Drawable.kt",
+      "type": "method",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
       "language": "kotlin",
-      "line": 17,
-      "offset": 11,
-      "length": 15,
+      "line": 63,
+      "offset": 25,
+      "length": 40,
       "code": {
-        "startLine": 15,
-        "length": 15,
-        "offset": 24,
-        "surroundingCode": "\n@Composable\npublic fun painterResource(drawable: Drawable): Painter =\n    painterResource(resource = drawable.nameWithExtension, type = drawable.type)"
+        "startLine": 61,
+        "length": 40,
+        "offset": 28,
+        "surroundingCode": "}\n\ninternal val AllProjects.commonMainDrawablesGroupedBySuffixMerged: Map<String, List<File>>\n    get() =\n        allProjects.commonMainDrawablesMerged.groupBy { file ->"
       }
     }
   ],
   "attributes": {
-    "module": "compose-resources.core.commonMain",
+    "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnusedSymbol"
   },
-  "hash": "4590159710543527867"
+  "hash": "3306657471505639847"
 }]}
