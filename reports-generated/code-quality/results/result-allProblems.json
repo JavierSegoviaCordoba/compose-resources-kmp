@@ -25,7 +25,7 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnstableTypeUsedInSignature"
   },
-  "hash": "9a1470ebcf7873a4d549bbbf3964bab8cc4cea210af7fb191191b9b459df1022"
+  "hash": "3685a467a64df3eae8f905a37fac7420ab6e31c952376c010200d73008585baa"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
@@ -44,8 +44,8 @@
       "code": {
         "startLine": 29,
         "length": 25,
-        "offset": 130,
-        "surroundingCode": "    get() = commonMainSourceSet?.resources?.srcDirs?.toList().orEmpty()\n\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n"
+        "offset": 119,
+        "surroundingCode": "    get() = commonMainResources?.srcDirs?.toList().orEmpty()\n\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n"
       }
     }
   ],
@@ -53,7 +53,7 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "a9aa532089e7131b7e693cee49957b7318b5fcf3c52101cd3b956b39df7d1864"
+  "hash": "f7e1eb52bd27acf7e69098f946f41da0c36dcc20efd9b6ff6caecd06b918d7d9"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",

@@ -1,0 +1,32 @@
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "Redundant constructs",
+  "type": "Unused symbol",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
+  "comment": "Property \"commonMainDrawablesMerged\" is never used",
+  "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
+  "sources": [
+    {
+      "type": "method",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "language": "kotlin",
+      "line": 52,
+      "offset": 27,
+      "length": 25,
+      "code": {
+        "startLine": 50,
+        "length": 25,
+        "offset": 34,
+        "surroundingCode": "    }\n\ninternal val List<Project>.commonMainDrawablesMerged: List<File>\n    get() = flatMap { project -> commonMainDrawables(TODO(\"Investigate how to merge resources\")) }\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin.main",
+    "inspectionName": "UnusedSymbol"
+  },
+  "hash": "-6463264724569961030"
+}]}
