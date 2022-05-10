@@ -1,6 +1,5 @@
 package com.javiersc.compose.resources
 
-import com.javiersc.compose.resources.generators.generateComposeResources
 import com.javiersc.compose.resources.utils.androidSourceDirectorySetResources
 import com.javiersc.compose.resources.utils.commonMainKotlin
 import com.javiersc.compose.resources.utils.commonMainResourcesDirs
@@ -13,18 +12,16 @@ public class ComposeResourcesPlugin : Plugin<Project> {
     override fun apply(project: Project) {
         project.createComposeResourcesExtension().apply { packageName }
 
-        project.commonMainKotlin?.srcDirs(project.generationDir)
+        project.commonMainKotlin?.srcDirs(project.layout.generationDir)
 
-        project.commonMainResourcesDirs.forEach { srcDir ->
-            project.androidSourceDirectorySetResources?.srcDir(srcDir)
-        }
+        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)
 
         project.afterEvaluate {
             project.tasks.register<GenerateComposeResourcesTask>(GenerateComposeResourcesTask.name)
             project.tasks.findByName("preBuild")?.dependsOn(GenerateComposeResourcesTask.name)
-            if (System.getProperty("idea.sync.active")?.toBoolean() == true) {
-                project.generateComposeResources()
-            }
+            //    if (System.getProperty("idea.sync.active")?.toBoolean() == true) {
+            //        // TODO: maybe run task using Gradle idea plugin?
+            //    }
         }
     }
 }
