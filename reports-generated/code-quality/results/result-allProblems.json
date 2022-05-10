@@ -10,14 +10,14 @@
       "type": "file",
       "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
       "language": "kotlin",
-      "line": 35,
+      "line": 32,
       "offset": 5,
       "length": 3,
       "code": {
-        "startLine": 33,
+        "startLine": 30,
         "length": 3,
         "offset": 89,
-        "surroundingCode": "\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n\ninternal val Project.commonMainDrawables: List<File>"
+        "surroundingCode": "\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n\ninternal fun commonMainDrawables(commonMainResourcesDirs: List<File>): List<File> ="
       }
     }
   ],
@@ -25,7 +25,7 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnstableTypeUsedInSignature"
   },
-  "hash": "8ff2bdfc3a201a2b1d3a5a1a0e6bd86bd8beae8333c2e2250ee36c021b72ef67"
+  "hash": "9a1470ebcf7873a4d549bbbf3964bab8cc4cea210af7fb191191b9b459df1022"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
@@ -38,11 +38,11 @@
       "type": "file",
       "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
       "language": "kotlin",
-      "line": 34,
+      "line": 31,
       "offset": 58,
       "length": 25,
       "code": {
-        "startLine": 32,
+        "startLine": 29,
         "length": 25,
         "offset": 130,
         "surroundingCode": "    get() = commonMainSourceSet?.resources?.srcDirs?.toList().orEmpty()\n\ninternal val Project.androidSourceDirectorySetResources: AndroidSourceDirectorySet?\n    get() = extensions.findByType<LibraryExtension>()?.sourceSets?.findByName(\"main\")?.res\n"
@@ -53,27 +53,27 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "344ccecc1533e4bfba990ff3ad1d3e236cc56950ba2bf9fbbc2637cbae3190e2"
+  "hash": "a9aa532089e7131b7e693cee49957b7318b5fcf3c52101cd3b956b39df7d1864"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
   "type": "Unstable API Usage",
   "severity": "High",
-  "comment": "'srcDir(java.lang.Object)' is declared in unstable 'com.android.build.api.dsl.AndroidSourceDirectorySet' marked with @Incubating",
+  "comment": "'srcDirs(java.lang.Object...)' is declared in unstable 'com.android.build.api.dsl.AndroidSourceDirectorySet' marked with @Incubating",
   "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
   "sources": [
     {
       "type": "file",
       "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/ComposeResourcesPlugin.kt",
       "language": "kotlin",
-      "line": 19,
-      "offset": 57,
-      "length": 6,
+      "line": 17,
+      "offset": 53,
+      "length": 7,
       "code": {
-        "startLine": 17,
-        "length": 6,
-        "offset": 117,
-        "surroundingCode": "\n        project.commonMainResourcesDirs.forEach { srcDir ->\n            project.androidSourceDirectorySetResources?.srcDir(srcDir)\n        }\n"
+        "startLine": 15,
+        "length": 7,
+        "offset": 125,
+        "surroundingCode": "        project.commonMainKotlin?.srcDirs(project.layout.generationDir)\n\n        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)\n\n        project.afterEvaluate {"
       }
     }
   ],
@@ -81,7 +81,7 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "bd8124aa76f292af55125ca1d0759be5574e533e5bffbe29196e863f2b07a1be"
+  "hash": "527e27130e8a97979c92ce909769f6e32761109744925e7c7a4295e8e9e655ad"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
