@@ -5,10 +5,10 @@ import com.javiersc.compose.resources.utils.createSandboxFile
 import io.kotest.matchers.nulls.shouldNotBeNull
 import io.kotest.matchers.shouldBe
 import io.kotest.matchers.string.shouldContain
-import org.gradle.testkit.runner.BuildResult
 import java.io.File
 import kotlin.test.BeforeTest
 import kotlin.test.Test
+import org.gradle.testkit.runner.BuildResult
 import org.gradle.testkit.runner.GradleRunner
 import org.gradle.testkit.runner.TaskOutcome
 
@@ -71,15 +71,20 @@ internal class ComposeResourcesPluginTest {
     @Test
     fun build_cache_from_cache() {
         val runner: GradleRunner =
-            GradleRunner.create()
-                .withProjectDir(testProjectDir)
-                .withPluginClasspath()
+            GradleRunner.create().withProjectDir(testProjectDir).withPluginClasspath()
 
-        runner.withArguments(":app:generateComposeResources", "--build-cache", "--info").build().also { printOutput(it) }
+        runner
+            .withArguments(":app:generateComposeResources", "--build-cache", "--info")
+            .build()
+            .also { printOutput(it) }
 
         runner.withArguments("clean", "--build-cache").build()
 
-        val result = runner.withArguments(":app:generateComposeResources", "--build-cache", "--info").build().also { printOutput(it) }
+        val result =
+            runner
+                .withArguments(":app:generateComposeResources", "--build-cache", "--info")
+                .build()
+                .also { printOutput(it) }
 
         printOutput(result)
 

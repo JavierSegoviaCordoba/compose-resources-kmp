@@ -22,7 +22,8 @@ internal abstract class GenerateComposeResourcesTask : DefaultTask() {
 
     @Input
     val packageName: Property<String?> =
-        project.objects
+        project
+            .objects
             .property(String::class.java)
             .convention(project.composeResourcesExtension.packageName)
 
@@ -32,7 +33,8 @@ internal abstract class GenerateComposeResourcesTask : DefaultTask() {
 
     @Input
     val suffixes: ListProperty<String> =
-        project.objects
+        project
+            .objects
             .listProperty(String::class.java)
             .convention(project.composeResourcesExtension.suffixes)
 
