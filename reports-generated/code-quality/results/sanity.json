@@ -39,6 +39,70 @@
     "Sanity"
   ],
   "severity": "Critical",
+  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/build.gradle.kts",
+      "language": "kotlin",
+      "line": 36,
+      "offset": 25,
+      "length": 4,
+      "code": {
+        "startLine": 34,
+        "length": 4,
+        "offset": 152,
+        "surroundingCode": "    // TODO: remove when the next issue is fixed:\n    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192\n    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))\n    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "390640700991287985"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "kotlin",
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "gradle-plugin/build.gradle.kts",
+      "language": "kotlin",
+      "line": 36,
+      "offset": 30,
+      "length": 9,
+      "code": {
+        "startLine": 34,
+        "length": 9,
+        "offset": 157,
+        "surroundingCode": "    // TODO: remove when the next issue is fixed:\n    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192\n    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))\n    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources.gradle-plugin",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "-8262073926156829387"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "kotlin",
+    "Sanity"
+  ],
+  "severity": "Critical",
   "comment": "Cannot access class 'org.gradle.accessors.dm.RootProjectAccessor'. Check your module classpath for missing or conflicting dependencies",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
