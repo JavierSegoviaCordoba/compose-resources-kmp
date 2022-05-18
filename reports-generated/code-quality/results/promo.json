@@ -6,21 +6,21 @@
     "kotlin"
   ],
   "severity": "High",
-  "comment": "Property \"commonMainDrawablesMerged\" is never used",
+  "comment": "Property \"resourcesDirName\" is never used",
   "detailsInfo": "Reports symbols that are not used or not reachable from entry points.",
   "sources": [
     {
-      "type": "method",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "type": "field",
+      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/Constants.kt",
       "language": "kotlin",
-      "line": 52,
-      "offset": 27,
-      "length": 25,
+      "line": 11,
+      "offset": 19,
+      "length": 16,
       "code": {
-        "startLine": 50,
-        "length": 25,
-        "offset": 34,
-        "surroundingCode": "    }\n\ninternal val List<Project>.commonMainDrawablesMerged: List<File>\n    get() = flatMap { project -> commonMainDrawables(TODO(\"Investigate how to merge resources\")) }\n"
+        "startLine": 9,
+        "length": 16,
+        "offset": 153,
+        "surroundingCode": "    get() = \"${buildDirectory.asFile.get()}/generated/source/composeResources/kotlin\"\ninternal const val DrawableDirName = \"drawable\"\ninternal const val resourcesDirName = \"resources\""
       }
     }
   ],
@@ -28,5 +28,5 @@
     "module": "compose-resources.gradle-plugin.main",
     "inspectionName": "UnusedSymbol"
   },
-  "hash": "-6463264724569961030"
+  "hash": "4609968861623853445"
 }]}

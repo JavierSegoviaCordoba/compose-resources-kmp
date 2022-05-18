@@ -3,9 +3,9 @@
     "Plain text",
     "Kotlin",
     "XML",
+    ".gitignore (GitIgnore)",
     "Properties",
     "JSON",
-    ".gitignore (GitIgnore)",
     "EditorConfig"
   ]
 }

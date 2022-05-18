@@ -7,7 +7,7 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "[NO_ACTUAL_FOR_EXPECT] Expected function 'painterResource' has no actual declaration in module compose-resources.core.androidAndroidTestRelease for JVM\nThe following declaration is incompatible because number of value parameters is different:\n    public fun painterResource(drawable: Drawable): [ERROR : Painter]\n",
+  "comment": "Expected function 'painterResource' has no actual declaration in module compose-resources.core.androidAndroidTestRelease for JVM\nThe following declaration is incompatible because number of value parameters is different:\n    public fun painterResource(drawable: Drawable): [ERROR : Painter]\n",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
@@ -29,7 +29,7 @@
     "module": "compose-resources.core.commonMain",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "4258379856801849188"
+  "hash": "-2111798768791341463"
 },{
   "tool": "Code Inspection",
   "category": "General",
@@ -39,71 +39,7 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "[MISSING_DEPENDENCY_CLASS] Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 36,
-      "offset": 25,
-      "length": 4,
-      "code": {
-        "startLine": 34,
-        "length": 4,
-        "offset": 152,
-        "surroundingCode": "    // TODO: remove when the next issue is fixed:\n    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192\n    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))\n    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources.gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "-6217760682367613218"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "kotlin",
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "[MISSING_DEPENDENCY_CLASS] Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 36,
-      "offset": 30,
-      "length": 9,
-      "code": {
-        "startLine": 34,
-        "length": 9,
-        "offset": 157,
-        "surroundingCode": "    // TODO: remove when the next issue is fixed:\n    //  https://github.com/gradle/gradle/issues/15383#issuecomment-779893192\n    implementation(files(libs.javaClass.superclass.protectionDomain.codeSource.location))\n    implementation(files(pluginLibs.javaClass.superclass.protectionDomain.codeSource.location))\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources.gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "7234253658289630538"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "kotlin",
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "[MISSING_DEPENDENCY_CLASS] Cannot access class 'org.gradle.accessors.dm.RootProjectAccessor'. Check your module classpath for missing or conflicting dependencies",
+  "comment": "Cannot access class 'org.gradle.accessors.dm.RootProjectAccessor'. Check your module classpath for missing or conflicting dependencies",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
@@ -125,7 +61,7 @@
     "module": "compose-resources.gradle-plugin",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "399053925788689380"
+  "hash": "5940514127602758885"
 },{
   "tool": "Code Inspection",
   "category": "General",
@@ -135,7 +71,7 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "[UNRESOLVED_REFERENCE] Unresolved reference: core",
+  "comment": "Unresolved reference: core",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
@@ -157,5 +93,5 @@
     "module": "compose-resources.gradle-plugin",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "-2384188144486756090"
+  "hash": "2353542014865990765"
 }]}
