@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">1m5.27s</div>
+<div class="counter">2m16.05s</div>
 <p>duration</p>
 </div>
 </td>
@@ -63,9 +63,6 @@
 <li>
 <a href="#tab0">Tests</a>
 </li>
-<li>
-<a href="#tab1">Standard output</a>
-</li>
 </ul>
 <div id="tab0" class="tab">
 <h2>Tests</h2>
@@ -79,253 +76,25 @@
 </thead>
 <tr>
 <td class="success">add_file_invalidate_build_cache_success()</td>
-<td class="success">1.058s</td>
+<td class="success">38.415s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">build_cache_from_cache()</td>
-<td class="success">1.449s</td>
+<td class="success">34.010s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">configuration_cache_success()</td>
-<td class="success">1m2.35s</td>
+<td class="success">1m1.53s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">simple_success()</td>
-<td class="success">0.406s</td>
+<td class="success">2.089s</td>
 <td class="success">passed</td>
 </tr>
 </table>
-</div>
-<div id="tab1" class="tab">
-<h2>Standard output</h2>
-<span class="code">
-<pre>-----------------------------------------------------------------
-Configuration cache is an incubating feature.
-Reusing configuration cache.
-&gt; Task :app:generateComposeResources UP-TO-DATE
-
-BUILD SUCCESSFUL in 219ms
-1 actionable task: 1 up-to-date
-Configuration cache entry reused.
-
------------------------------------------------------------------
------------------------------------------------------------------
-
-&gt; Configure project :app
-Kotlin Multiplatform Projects are an Alpha feature. See: https://kotlinlang.org/docs/reference/evolution/components-stability.html. To hide this message, add 'kotlin.mpp.stability.nowarn=true' to the Gradle properties.
-
-
-The Kotlin source set androidAndroidTestRelease was configured but not added to any Kotlin compilation. You can add a source set to a target's compilation by connecting it with the compilation's default source set using 'dependsOn'.
-See https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html#connecting-source-sets
-
-&gt; Task :app:generateComposeResources
-
-BUILD SUCCESSFUL in 308ms
-1 actionable task: 1 executed
-
------------------------------------------------------------------
------------------------------------------------------------------
-The client will now receive all logging from the daemon (pid: 1918). The daemon log file: /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/test-kit-daemon/7.4.2/daemon-1918.out.log
-Starting 5th build in daemon [uptime: 1 mins 1.306 secs, performance: 97%, non-heap usage: 46% of 256 MiB]
-Closing daemon's stdin at end of input.
-The daemon will no longer process any standard input.
-Using 2 worker leases.
-Now considering [/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/14100208490605830963, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/15845585210180295732] as hierarchies to watch
-Watching the file system is configured to be enabled if available
-File system watching is active
-Starting Build
-Settings evaluated using settings file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/settings.gradle.kts'.
-Using local directory build cache for the root build (location = /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/caches/build-cache-1, removeUnusedEntriesAfter = 7 days).
-Projects loaded. Root project using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Included projects: [root project 'sandbox-project', project ':app']
-
-&gt; Configure project :
-Evaluating root project 'sandbox-project' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Build cache key for Kotlin DSL accessors for root project 'sandbox-project' is b7e290096615310292b72ee67d311fdd
-Skipping Kotlin DSL accessors for root project 'sandbox-project' as it is up-to-date.
-
-&gt; Configure project :app
-Evaluating project ':app' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build.gradle.kts'.
-Kotlin Multiplatform Projects are an Alpha feature. See: https://kotlinlang.org/docs/reference/evolution/components-stability.html. To hide this message, add 'kotlin.mpp.stability.nowarn=true' to the Gradle properties.
-
-Build cache key for Kotlin DSL accessors for project ':app' is 17d9d3aa8aeaa627b3d6f7a6004122d2
-Skipping Kotlin DSL accessors for project ':app' as it is up-to-date.
-Build cache key for Kotlin DSL script compilation (Project/TopLevel/stage2) is 84638006efa124bccd94e4768320bd72
-Skipping Kotlin DSL script compilation (Project/TopLevel/stage2) as it is up-to-date.
-kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
-kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
-All projects evaluated.
-Selected primary task ':app:generateComposeResources' from project :app
-Tasks to be executed: [task ':app:generateComposeResources']
-Tasks that were excluded: []
-
-The Kotlin source set androidAndroidTestRelease was configured but not added to any Kotlin compilation. You can add a source set to a target's compilation by connecting it with the compilation's default source set using 'dependsOn'.
-See https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html#connecting-source-sets
-:app:generateComposeResources (Thread[included builds,5,main]) started.
-
-&gt; Task :app:generateComposeResources
-Watching 8 directories to track changes
-Watching 8 directories to track changes
-Build cache key for task ':app:generateComposeResources' is 97e489b5739bb20a7078891443f74b45
-Task ':app:generateComposeResources' is not up-to-date because:
-  No history is available.
-Watching 8 directories to track changes
-Watching 7 directories to track changes
-Watching 8 directories to track changes
-Watching 9 directories to track changes
-Watching 10 directories to track changes
-Watching 10 directories to track changes
-Stored cache entry for task ':app:generateComposeResources' with cache key 97e489b5739bb20a7078891443f74b45
-:app:generateComposeResources (Thread[included builds,5,main]) completed. Took 0.029 secs.
-producer locations for task group 0 (Thread[included builds,5,main]) started.
-producer locations for task group 0 (Thread[included builds,5,main]) completed. Took 0.0 secs.
-
-BUILD SUCCESSFUL in 465ms
-1 actionable task: 1 executed
-
------------------------------------------------------------------
------------------------------------------------------------------
-The client will now receive all logging from the daemon (pid: 1918). The daemon log file: /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/test-kit-daemon/7.4.2/daemon-1918.out.log
-Starting 7th build in daemon [uptime: 1 mins 2.332 secs, performance: 97%, non-heap usage: 46% of 256 MiB]
-Closing daemon's stdin at end of input.
-The daemon will no longer process any standard input.
-Using 2 worker leases.
-Now considering [/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/14100208490605830963, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/15845585210180295732] as hierarchies to watch
-Watching the file system is configured to be enabled if available
-File system watching is active
-Starting Build
-Settings evaluated using settings file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/settings.gradle.kts'.
-Using local directory build cache for the root build (location = /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/caches/build-cache-1, removeUnusedEntriesAfter = 7 days).
-Projects loaded. Root project using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Included projects: [root project 'sandbox-project', project ':app']
-
-&gt; Configure project :
-Evaluating root project 'sandbox-project' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Build cache key for Kotlin DSL accessors for root project 'sandbox-project' is b7e290096615310292b72ee67d311fdd
-Skipping Kotlin DSL accessors for root project 'sandbox-project' as it is up-to-date.
-
-&gt; Configure project :app
-Evaluating project ':app' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build.gradle.kts'.
-Kotlin Multiplatform Projects are an Alpha feature. See: https://kotlinlang.org/docs/reference/evolution/components-stability.html. To hide this message, add 'kotlin.mpp.stability.nowarn=true' to the Gradle properties.
-
-Build cache key for Kotlin DSL accessors for project ':app' is 17d9d3aa8aeaa627b3d6f7a6004122d2
-Skipping Kotlin DSL accessors for project ':app' as it is up-to-date.
-Build cache key for Kotlin DSL script compilation (Project/TopLevel/stage2) is 84638006efa124bccd94e4768320bd72
-Skipping Kotlin DSL script compilation (Project/TopLevel/stage2) as it is up-to-date.
-kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
-kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
-All projects evaluated.
-Selected primary task ':app:generateComposeResources' from project :app
-Tasks to be executed: [task ':app:generateComposeResources']
-Tasks that were excluded: []
-
-The Kotlin source set androidAndroidTestRelease was configured but not added to any Kotlin compilation. You can add a source set to a target's compilation by connecting it with the compilation's default source set using 'dependsOn'.
-See https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html#connecting-source-sets
-:app:generateComposeResources (Thread[included builds,5,main]) started.
-
-&gt; Task :app:generateComposeResources FROM-CACHE
-Watching 8 directories to track changes
-Watching 8 directories to track changes
-Build cache key for task ':app:generateComposeResources' is 97e489b5739bb20a7078891443f74b45
-Task ':app:generateComposeResources' is not up-to-date because:
-  Output property 'composeResourceFile' file /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build/generated/source/composeResources/kotlin/ComposeResource.kt has been removed.
-  Output property 'drawablesFile' file /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build/generated/source/composeResources/kotlin/Drawables.kt has been removed.
-Watching 8 directories to track changes
-Watching 7 directories to track changes
-Watching 8 directories to track changes
-Watching 9 directories to track changes
-Watching 10 directories to track changes
-Watching 10 directories to track changes
-Loaded cache entry for task ':app:generateComposeResources' with cache key 97e489b5739bb20a7078891443f74b45
-:app:generateComposeResources (Thread[included builds,5,main]) completed. Took 0.021 secs.
-producer locations for task group 0 (Thread[included builds,5,main]) started.
-producer locations for task group 0 (Thread[included builds,5,main]) completed. Took 0.0 secs.
-
-BUILD SUCCESSFUL in 261ms
-1 actionable task: 1 from cache
-
------------------------------------------------------------------
------------------------------------------------------------------
-The client will now receive all logging from the daemon (pid: 1918). The daemon log file: /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/test-kit-daemon/7.4.2/daemon-1918.out.log
-Starting 7th build in daemon [uptime: 1 mins 2.332 secs, performance: 97%, non-heap usage: 46% of 256 MiB]
-Closing daemon's stdin at end of input.
-The daemon will no longer process any standard input.
-Using 2 worker leases.
-Now considering [/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/14100208490605830963, /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/15845585210180295732] as hierarchies to watch
-Watching the file system is configured to be enabled if available
-File system watching is active
-Starting Build
-Settings evaluated using settings file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/settings.gradle.kts'.
-Using local directory build cache for the root build (location = /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/tmp/test/work/.gradle-test-kit/caches/build-cache-1, removeUnusedEntriesAfter = 7 days).
-Projects loaded. Root project using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Included projects: [root project 'sandbox-project', project ':app']
-
-&gt; Configure project :
-Evaluating root project 'sandbox-project' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/build.gradle.kts'.
-Build cache key for Kotlin DSL accessors for root project 'sandbox-project' is b7e290096615310292b72ee67d311fdd
-Skipping Kotlin DSL accessors for root project 'sandbox-project' as it is up-to-date.
-
-&gt; Configure project :app
-Evaluating project ':app' using build file '/home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build.gradle.kts'.
-Kotlin Multiplatform Projects are an Alpha feature. See: https://kotlinlang.org/docs/reference/evolution/components-stability.html. To hide this message, add 'kotlin.mpp.stability.nowarn=true' to the Gradle properties.
-
-Build cache key for Kotlin DSL accessors for project ':app' is 17d9d3aa8aeaa627b3d6f7a6004122d2
-Skipping Kotlin DSL accessors for project ':app' as it is up-to-date.
-Build cache key for Kotlin DSL script compilation (Project/TopLevel/stage2) is 84638006efa124bccd94e4768320bd72
-Skipping Kotlin DSL script compilation (Project/TopLevel/stage2) as it is up-to-date.
-kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
-kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
-All projects evaluated.
-Selected primary task ':app:generateComposeResources' from project :app
-Tasks to be executed: [task ':app:generateComposeResources']
-Tasks that were excluded: []
-
-The Kotlin source set androidAndroidTestRelease was configured but not added to any Kotlin compilation. You can add a source set to a target's compilation by connecting it with the compilation's default source set using 'dependsOn'.
-See https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html#connecting-source-sets
-:app:generateComposeResources (Thread[included builds,5,main]) started.
-
-&gt; Task :app:generateComposeResources FROM-CACHE
-Watching 8 directories to track changes
-Watching 8 directories to track changes
-Build cache key for task ':app:generateComposeResources' is 97e489b5739bb20a7078891443f74b45
-Task ':app:generateComposeResources' is not up-to-date because:
-  Output property 'composeResourceFile' file /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build/generated/source/composeResources/kotlin/ComposeResource.kt has been removed.
-  Output property 'drawablesFile' file /home/runner/work/compose-resources-kmp/compose-resources-kmp/gradle-plugin/build/sandbox/13842784047206774938/app/build/generated/source/composeResources/kotlin/Drawables.kt has been removed.
-Watching 8 directories to track changes
-Watching 7 directories to track changes
-Watching 8 directories to track changes
-Watching 9 directories to track changes
-Watching 10 directories to track changes
-Watching 10 directories to track changes
-Loaded cache entry for task ':app:generateComposeResources' with cache key 97e489b5739bb20a7078891443f74b45
-:app:generateComposeResources (Thread[included builds,5,main]) completed. Took 0.021 secs.
-producer locations for task group 0 (Thread[included builds,5,main]) started.
-producer locations for task group 0 (Thread[included builds,5,main]) completed. Took 0.0 secs.
-
-BUILD SUCCESSFUL in 261ms
-1 actionable task: 1 from cache
-
------------------------------------------------------------------
------------------------------------------------------------------
-
-&gt; Configure project :app
-Kotlin Multiplatform Projects are an Alpha feature. See: https://kotlinlang.org/docs/reference/evolution/components-stability.html. To hide this message, add 'kotlin.mpp.stability.nowarn=true' to the Gradle properties.
-
-
-The Kotlin source set androidAndroidTestRelease was configured but not added to any Kotlin compilation. You can add a source set to a target's compilation by connecting it with the compilation's default source set using 'dependsOn'.
-See https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html#connecting-source-sets
-
-&gt; Task :app:generateComposeResources
-
-BUILD SUCCESSFUL in 342ms
-1 actionable task: 1 executed
-
------------------------------------------------------------------
-</pre>
-</span>
 </div>
 </div>
 <div id="footer">
@@ -335,7 +104,7 @@ BUILD SUCCESSFUL in 342ms
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 7.4.2</a> at May 18, 2022, 3:22:03 PM</p>
+<a href="http://www.gradle.org">Gradle 7.4.2</a> at May 22, 2022, 12:24:22 AM</p>
 </div>
 </div>
 </body>

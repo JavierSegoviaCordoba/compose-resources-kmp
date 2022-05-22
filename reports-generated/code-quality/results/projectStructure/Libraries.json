@@ -18,12 +18,6 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.9.0",
-      "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/binary-compatibility-validator/0.9.0/6c9bb9864a73d0f27e51f543d3743259ac221af0/binary-compatibility-validator-0.9.0.jar!/"
-      ]
-    },
-    {
       "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.20/dab8089bca6ac0e394c37281ea8cff2f99acd421/kotlin-stdlib-jdk8-1.6.20.jar!/"
@@ -45,6 +39,12 @@
       "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.6.10/c3217cee5b5185f784cd1bf5b6d6f56093047b3/kotlin-gradle-plugin-1.6.10.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.10.0",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/binary-compatibility-validator/0.10.0/ccda5bf2aa3141f66b7f78b91afbf2e3678638fa/binary-compatibility-validator-0.10.0.jar!/"
       ]
     },
     {
@@ -1571,6 +1571,12 @@
       "name": "Gradle: io.grpc:grpc-context:1.21.1",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.21.1/aef9db74ded2d9ab229f9e184e35bebf6ac6fbdf/grpc-context-1.21.1.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: com.javiersc.gradle-extensions:gradle-testkit-ext:1.0.0-alpha.6",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.javiersc.gradle-extensions/gradle-testkit-ext/1.0.0-alpha.6/747048554075e703279032d144879e679c9447f2/gradle-testkit-ext-1.0.0-alpha.6.jar!/"
       ]
     },
     {
