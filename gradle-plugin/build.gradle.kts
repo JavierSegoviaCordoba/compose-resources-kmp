@@ -44,6 +44,7 @@ dependencies {
     implementation(pluginLibs.android.toolsBuild.gradle)
     implementation(pluginLibs.jetbrains.kotlin.kotlinGradlePluginX)
 
+    testImplementation(libs.javiersc.gradleExtensions.gradleTestkitExt)
     testImplementation(libs.jetbrains.kotlin.kotlinTest)
     testImplementation(libs.kotest.kotestAssertionsCore)
     testImplementation(gradleTestKit())

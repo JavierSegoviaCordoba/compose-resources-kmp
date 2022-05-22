@@ -1,7 +1,9 @@
 [versions]
+gradleExtensions = "1.0.0-alpha.6"
 kotest = "5.3.0"
 
 [libraries]
+javiersc-gradleExtensions-gradleTestkitExt = { module = "com.javiersc.gradle-extensions:gradle-testkit-ext", version.ref = "gradleExtensions" }
 jetbrains-kotlin-kotlinStdlibCommon = { module = "org.jetbrains.kotlin:kotlin-stdlib-common" }
 jetbrains-kotlin-kotlinTest = { module = "org.jetbrains.kotlin:kotlin-test" }
 kotest-kotestAssertionsCore = { module = "io.kotest:kotest-assertions-core", version.ref = "kotest" }
