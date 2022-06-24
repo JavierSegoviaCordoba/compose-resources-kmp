@@ -14,6 +14,7 @@
 
 ### Updated
 
+- `com.javiersc.gradle-extensions:gradle-testkit-ext -> 1.0.0-alpha.14`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
 - `io.kotest:kotest-assertions-core -> 5.3.0`
 - `gradle -> 7.4.2`
