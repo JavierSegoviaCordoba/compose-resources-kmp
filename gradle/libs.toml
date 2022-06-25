@@ -1,6 +1,6 @@
 [versions]
 gradleExtensions = "1.0.0-alpha.6"
-kotest = "5.3.0"
+kotest = "5.3.2"
 
 [libraries]
 javiersc-gradleExtensions-gradleTestkitExt = { module = "com.javiersc.gradle-extensions:gradle-testkit-ext", version.ref = "gradleExtensions" }
