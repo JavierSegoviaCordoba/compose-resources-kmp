@@ -1096,13 +1096,13 @@
           "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test/resources",
-              "type": "TestResource",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test/kotlin",
+              "type": "TestSource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test/kotlin",
-              "type": "TestSource",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test/resources",
+              "type": "TestResource",
               "packagePrefix": ""
             }
           ]
@@ -1410,13 +1410,13 @@
           "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             }
           ]
