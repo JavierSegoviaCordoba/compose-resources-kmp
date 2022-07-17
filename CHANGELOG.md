@@ -18,10 +18,10 @@
 
 ### Updated
 
+- `gradle -> 7.5`
 - `com.android.tools.build:gradle -> 7.2.1`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.7.10`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.2.0-alpha01-dev745`
-- `gradle -> 7.4.2`
 
 ## [0.1.0-alpha.13] - 2021-12-25
 
