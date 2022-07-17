@@ -26,12 +26,12 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.31",
-      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.5.31",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-reflect",
-      "version": "1.5.31"
+      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test:1.6.21",
@@ -208,14 +208,6 @@
       "groupId": "io.kotest",
       "artifactId": "kotest-assertions-api-jvm",
       "version": "5.3.2"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
-      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.6.21",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-reflect",
-      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0-alpha01-dev745",

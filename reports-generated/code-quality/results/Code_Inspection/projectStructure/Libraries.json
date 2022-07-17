@@ -466,7 +466,7 @@
     },
     {
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/7.4.2/generated-gradle-jars/gradle-api-7.4.2.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/7.5/generated-gradle-jars/gradle-api-7.5.jar!/"
       ]
     },
     {
@@ -485,12 +485,6 @@
       "name": "Gradle: com.javiersc.gradle:gradle-extensions:1.0.0-alpha.26",
       "roots": [
         "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.javiersc.gradle/gradle-extensions/1.0.0-alpha.26/6f932fbe2c7563b3ef9d7b69721dad8df52f4c30/gradle-extensions-1.0.0-alpha.26.jar!/"
-      ]
-    },
-    {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.31",
-      "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.5.31/1523fcd842a47da0820cea772b19c51056fec8a9/kotlin-reflect-1.5.31.jar!/"
       ]
     },
     {
