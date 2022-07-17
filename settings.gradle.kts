@@ -1,21 +1,21 @@
-rootProject.name = providers.gradleProperty("project.name").get()
+pluginManagement {
+    val hubdleVersion: String =
+        file("$rootDir/gradle/libs.versions.toml")
+            .readLines()
+            .first { it.contains("hubdle") }
+            .split("\"")[1]
 
-enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
-
-dependencyResolutionManagement {
     repositories {
+        gradlePluginPortal()
         mavenCentral()
         google()
-        gradlePluginPortal()
     }
 
-    versionCatalogs {
-        create("libs") { from(files("gradle/libs.toml")) }
-        create("pluginLibs") { from(files("gradle/pluginLibs.toml")) }
+    plugins {
+        id("com.javiersc.hubdle.settings") version hubdleVersion
     }
 }
 
-include(
-    ":core",
-    ":gradle-plugin",
-)
+plugins {
+    id("com.javiersc.hubdle.settings")
+}

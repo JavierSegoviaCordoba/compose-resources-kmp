@@ -6,6 +6,10 @@
 
 ### Changed
 
+- `core` artifact to `com.javiersc.compose:compose-resources`
+- `gradle-plugin` artifact to `com.javiersc.compose:compose-resources-gradle-plugin`
+- all file packages
+
 ### Deprecated
 
 ### Removed
@@ -14,11 +18,10 @@
 
 ### Updated
 
-- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
-- `io.kotest:kotest-assertions-core -> 5.3.0`
+- `com.android.tools.build:gradle -> 7.2.1`
+- `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.7.10`
+- `org.jetbrains.compose:compose-gradle-plugin -> 1.2.0-alpha01-dev745`
 - `gradle -> 7.4.2`
-- `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.42`
-- `org.jetbrains.compose:compose-gradle-plugin -> 1.1.1`
 
 ## [0.1.0-alpha.13] - 2021-12-25
 

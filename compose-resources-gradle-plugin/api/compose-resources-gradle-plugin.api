@@ -1,0 +1,13 @@
+public abstract interface class com/javiersc/compose/resources/gradle/plugin/ComposeResourcesExtension {
+	public abstract fun getPackageName ()Ljava/lang/String;
+	public abstract fun getSuffixes ()Ljava/util/List;
+	public abstract fun setPackageName (Ljava/lang/String;)V
+	public abstract fun setSuffixes (Ljava/util/List;)V
+}
+
+public final class com/javiersc/compose/resources/gradle/plugin/ComposeResourcesPlugin : org/gradle/api/Plugin {
+	public fun <init> ()V
+	public synthetic fun apply (Ljava/lang/Object;)V
+	public fun apply (Lorg/gradle/api/Project;)V
+}
+
