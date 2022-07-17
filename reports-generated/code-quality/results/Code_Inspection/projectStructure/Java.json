@@ -1,56 +1,56 @@
 {
   "modules": [
     {
-      "name": "compose-resources",
+      "name": "compose-resources-project",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core",
+      "name": "compose-resources-project.compose-resources",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.gradle-plugin",
+      "name": "compose-resources-project.compose-resources-gradle-plugin",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.buildSrc",
+      "name": "compose-resources-project.compose-resources.jvmMain",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core.jvmMain",
+      "name": "compose-resources-project.compose-resources.jvmTest",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core.jvmTest",
+      "name": "compose-resources-project.compose-resources.androidAndroidTestRelease",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core.androidAndroidTestRelease",
+      "name": "compose-resources-project.compose-resources.androidTestFixtures",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core.commonMain",
+      "name": "compose-resources-project.compose-resources.androidTestFixturesDebug",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.core.commonTest",
+      "name": "compose-resources-project.compose-resources.androidTestFixturesRelease",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.gradle-plugin.test",
+      "name": "compose-resources-project.compose-resources.commonMain",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.gradle-plugin.main",
+      "name": "compose-resources-project.compose-resources.commonTest",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources.buildSrc.test",
-      "languageLevel": 11
+      "name": "compose-resources-project.compose-resources-gradle-plugin.test",
+      "languageLevel": 8
     },
     {
-      "name": "compose-resources.buildSrc.main",
-      "languageLevel": 11
+      "name": "compose-resources-project.compose-resources-gradle-plugin.main",
+      "languageLevel": 8
     }
   ]
 }

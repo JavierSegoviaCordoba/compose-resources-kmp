@@ -8,7 +8,7 @@
   "sources": [
     {
       "type": "file",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/utils/Directories.kt",
       "language": "kotlin",
       "line": 32,
       "offset": 5,
@@ -22,10 +22,10 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
+    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableTypeUsedInSignature"
   },
-  "hash": "3685a467a64df3eae8f905a37fac7420ab6e31c952376c010200d73008585baa"
+  "hash": "d5cbe86a441fb87efa1f886c6e229390959e79b4c5d446788bb7226d540abcac"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
@@ -36,7 +36,7 @@
   "sources": [
     {
       "type": "file",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/ComposeResourcesPlugin.kt",
+      "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/ComposeResourcesPlugin.kt",
       "language": "kotlin",
       "line": 17,
       "offset": 53,
@@ -50,66 +50,10 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
+    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "527e27130e8a97979c92ce909769f6e32761109744925e7c7a4295e8e9e655ad"
-},{
-  "tool": "Code Inspection",
-  "category": "JVM languages",
-  "type": "Unstable API Usage",
-  "severity": "High",
-  "comment": "'repositories(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.initialization.resolve.DependencyResolutionManagement' marked with @Incubating",
-  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "settings.gradle.kts",
-      "language": "kotlin",
-      "line": 8,
-      "offset": 5,
-      "length": 12,
-      "code": {
-        "startLine": 6,
-        "length": 12,
-        "offset": 38,
-        "surroundingCode": "\ndependencyResolutionManagement {\n    repositories {\n        mavenCentral()\n        google()"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources",
-    "inspectionName": "UnstableApiUsage"
-  },
-  "hash": "66fe8128aa067d7ca32e9a51e73a45f66f31aa03d108a9578464a1c67d77f493"
-},{
-  "tool": "Code Inspection",
-  "category": "JVM languages",
-  "type": "Unstable API Usage",
-  "severity": "High",
-  "comment": "'versionCatalogs(org.gradle.api.Action)' is declared in unstable interface 'org.gradle.api.initialization.resolve.DependencyResolutionManagement' marked with @Incubating",
-  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "settings.gradle.kts",
-      "language": "kotlin",
-      "line": 14,
-      "offset": 5,
-      "length": 15,
-      "code": {
-        "startLine": 12,
-        "length": 15,
-        "offset": 11,
-        "surroundingCode": "    }\n\n    versionCatalogs {\n        create(\"libs\") { from(files(\"gradle/libs.toml\")) }\n        create(\"pluginLibs\") { from(files(\"gradle/pluginLibs.toml\")) }"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources",
-    "inspectionName": "UnstableApiUsage"
-  },
-  "hash": "42733217d919565954a503560f360c0c8d3291ab74d4790df096b81ed58ba35b"
+  "hash": "dd3593291d26949afeed8f6b85d89d10ff7df02f5e30f567fe8b947b00b8c14e"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
@@ -120,7 +64,7 @@
   "sources": [
     {
       "type": "file",
-      "path": "gradle-plugin/main/kotlin/com/javiersc/compose/resources/utils/Directories.kt",
+      "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/utils/Directories.kt",
       "language": "kotlin",
       "line": 31,
       "offset": 58,
@@ -134,8 +78,8 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources.gradle-plugin.main",
+    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "f7e1eb52bd27acf7e69098f946f41da0c36dcc20efd9b6ff6caecd06b918d7d9"
+  "hash": "e7b3fae0dffc688fecb2dee8ac2f46a56bbc05a4b674caf4ae36748bad1ecb11"
 }]}
