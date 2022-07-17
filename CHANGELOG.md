@@ -6,15 +6,21 @@
 
 ### Changed
 
-- `core` artifact to `com.javiersc.compose:compose-resources`
-- `gradle-plugin` artifact to `com.javiersc.compose:compose-resources-gradle-plugin`
-- all file packages
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.14] - 2022-07-17
+
+### Changed
+
+- `core` artifact to `com.javiersc.compose:compose-resources`
+- `gradle-plugin` artifact to `com.javiersc.compose:compose-resources-gradle-plugin`
+- all file packages
 
 ### Updated
 
