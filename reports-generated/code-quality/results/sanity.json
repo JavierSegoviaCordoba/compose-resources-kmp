@@ -130,6 +130,130 @@
     "Sanity"
   ],
   "severity": "Critical",
+  "comment": "Unresolved reference: compose",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 3,
+      "offset": 17,
+      "length": 7,
+      "code": {
+        "startLine": 1,
+        "length": 7,
+        "offset": 56,
+        "surroundingCode": "package com.javiersc.compose.resources\n\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.graphics.painter.Painter\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "39da45db981cd64f9589bdcd499079f0fb86a37b393ec56778f68f8f7fe036ef"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: compose",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 4,
+      "offset": 17,
+      "length": 7,
+      "code": {
+        "startLine": 2,
+        "length": 7,
+        "offset": 60,
+        "surroundingCode": "\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.graphics.painter.Painter\n\n@Composable public expect fun painterResource(resource: String, type: String): Painter"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "92afe6f1eda3f72d43fbf36382fe3713752971a06caf7a33545512cb0db4283e"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: Composable",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 6,
+      "offset": 2,
+      "length": 10,
+      "code": {
+        "startLine": 4,
+        "length": 10,
+        "offset": 54,
+        "surroundingCode": "import androidx.compose.ui.graphics.painter.Painter\n\n@Composable public expect fun painterResource(resource: String, type: String): Painter\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "8bad74f190114e33b984227e9121428599529f1c087cc4572bc6deca02d5cc40"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "The feature \"multi platform projects\" is experimental and should be enabled explicitly",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 6,
+      "offset": 20,
+      "length": 6,
+      "code": {
+        "startLine": 4,
+        "length": 6,
+        "offset": 72,
+        "surroundingCode": "import androidx.compose.ui.graphics.painter.Painter\n\n@Composable public expect fun painterResource(resource: String, type: String): Painter\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "d7b14fc81243b93dc6f7657606d589e12f09cddd81754594ea8a537726b1419b"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
   "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
@@ -246,6 +370,161 @@
     "inspectionName": "KotlinAnnotator"
   },
   "hash": "c0e52575efd192df3957c4f7115962d1d18a2bfdbf805ee8df4e85d50d206833"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: Composable",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 16,
+      "offset": 2,
+      "length": 10,
+      "code": {
+        "startLine": 14,
+        "length": 10,
+        "offset": 4,
+        "surroundingCode": "}\n\n@Composable\npublic fun painterResource(drawable: Drawable): Painter =\n    painterResource(resource = drawable.nameWithExtension, type = drawable.type)"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "55a4c450d5430379b1719393ce215dd1eb090709e0e6a976039e660931578753"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: Painter",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 17,
+      "offset": 49,
+      "length": 7,
+      "code": {
+        "startLine": 15,
+        "length": 7,
+        "offset": 61,
+        "surroundingCode": "\n@Composable\npublic fun painterResource(drawable: Drawable): Painter =\n    painterResource(resource = drawable.nameWithExtension, type = drawable.type)\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "c5019b5843cf0ab2de05eafb8387bb0aab17d8f608174bd4f8be121bfb1b6e69"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: compose",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 3,
+      "offset": 17,
+      "length": 7,
+      "code": {
+        "startLine": 1,
+        "length": 7,
+        "offset": 56,
+        "surroundingCode": "package com.javiersc.compose.resources\n\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.graphics.painter.Painter\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "9b825f1844440502c00ee21003f036db256f67989cafe0959b183beff5e810fd"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference: compose",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 4,
+      "offset": 17,
+      "length": 7,
+      "code": {
+        "startLine": 2,
+        "length": 7,
+        "offset": 60,
+        "surroundingCode": "\nimport androidx.compose.runtime.Composable\nimport androidx.compose.ui.graphics.painter.Painter\n\npublic class Drawable("
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "34b1f2c3492c43f19f7ec1506d151138a79dff4ae151fbb519c77c8f54e99a7d"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "The feature \"multi platform projects\" is experimental and should be enabled explicitly",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/jvm/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 7,
+      "offset": 8,
+      "length": 6,
+      "code": {
+        "startLine": 5,
+        "length": 6,
+        "offset": 20,
+        "surroundingCode": "\n@Composable\npublic actual fun painterResource(resource: String, type: String): Painter =\n    androidx.compose.ui.res.painterResource(\"$type/$resource\")\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.jvmMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "d7d5d2effe9bfb3c13a2da06a0dc7f93cc92cde957dae80368d4a04b0cf1795e"
 },{
   "tool": "Code Inspection",
   "category": "General",
