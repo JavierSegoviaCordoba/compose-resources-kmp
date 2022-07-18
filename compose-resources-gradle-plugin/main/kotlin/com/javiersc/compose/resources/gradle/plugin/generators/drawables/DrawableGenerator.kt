@@ -25,8 +25,7 @@ internal fun drawableGenerator(packageName: String, drawables: Map<String, List<
 
 private fun imports() =
     listOf(
-            "import androidx.compose.runtime.Composable",
-            "import com.javiersc.compose.resources.core.Drawable",
+            "import com.javiersc.compose.resources.Drawable",
         )
         .sorted()
         .joinToString("\n")

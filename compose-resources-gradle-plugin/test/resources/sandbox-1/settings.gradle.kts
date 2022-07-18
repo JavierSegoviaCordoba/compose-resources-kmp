@@ -1,5 +1,3 @@
 rootProject.name = "sandbox-project"
 
-include(
-    ":app",
-)
+include(":app")

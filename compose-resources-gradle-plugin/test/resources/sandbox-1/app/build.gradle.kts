@@ -19,5 +19,11 @@ android {
 
 composeResources {
     suffixes = listOf("custom", "dark")
-    packageName = "com.javiersc.sandboxOne.app"
+    packageName = "com.javiersc.sandbox.one.app"
+}
+
+val composeResourcesVersion = property("composeResourcesVersion")
+
+dependencies {
+    "commonMainImplementation"("com.javiersc.compose:compose-resources:$composeResourcesVersion")
 }

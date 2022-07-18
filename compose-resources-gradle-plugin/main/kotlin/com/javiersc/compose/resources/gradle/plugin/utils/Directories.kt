@@ -49,9 +49,10 @@ internal fun commonMainDrawablesGroupedBySuffix(
             ?: DefaultSuffix
     }
 
-internal val List<Project>.commonMainDrawablesMerged: List<File>
-    get() = flatMap { project -> commonMainDrawables(TODO("Investigate how to merge resources")) }
-
-internal class AllProjects(val mainProject: Project, val subProjects: List<Project>) {
-    val allProjects: List<Project> = listOf(mainProject) + subProjects
-}
+// TODO: Investigate how to merge resources
+// internal val List<Project>.commonMainDrawablesMerged: List<File>
+//    get() = flatMap { project -> commonMainDrawables(TODO("Investigate how to merge resources")) }
+//
+// internal class AllProjects(val mainProject: Project, val subProjects: List<Project>) {
+//    val allProjects: List<Project> = listOf(mainProject) + subProjects
+// }
