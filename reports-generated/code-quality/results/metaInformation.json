@@ -4,6 +4,13 @@
     "Code Inspection": 3
   },
   "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp",
+        "revisionId": "787e674c8ba0ddccc2e0dde232d67bbc28c466f9",
+        "branch": "main"
+      }
+    },
     "deviceId": "200820300000000-3233-bb07-ea9c-331ca60fc200"
   }
 }
