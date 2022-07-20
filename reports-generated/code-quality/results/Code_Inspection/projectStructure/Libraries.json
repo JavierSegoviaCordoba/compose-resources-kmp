@@ -3,7 +3,7 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui/org.jetbrains.compose.ui-ui-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui/org.jetbrains.compose.ui-ui-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -16,7 +16,7 @@
     {
       "name": "Gradle: com.javiersc.kotlin:kotlin-stdlib:commonMain:0.1.0-alpha.11",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/com.javiersc.kotlin-kotlin-stdlib/com.javiersc.kotlin-kotlin-stdlib-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/com.javiersc.kotlin-kotlin-stdlib/com.javiersc.kotlin-kotlin-stdlib-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -29,21 +29,21 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-text:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-text/org.jetbrains.compose.ui-ui-text-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-text/org.jetbrains.compose.ui-ui-text-commonMain.klib!/"
       ],
       "properties": {}
     },
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-text:skikoMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-text/org.jetbrains.compose.ui-ui-text-skikoMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-text/org.jetbrains.compose.ui-ui-text-skikoMain.klib!/"
       ],
       "properties": {}
     },
     {
       "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.runtime-runtime-saveable/org.jetbrains.compose.runtime-runtime-saveable-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.runtime-runtime-saveable/org.jetbrains.compose.runtime-runtime-saveable-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -63,14 +63,14 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-graphics/org.jetbrains.compose.ui-ui-graphics-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-graphics/org.jetbrains.compose.ui-ui-graphics-commonMain.klib!/"
       ],
       "properties": {}
     },
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-graphics:skikoMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-graphics/org.jetbrains.compose.ui-ui-graphics-skikoMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-graphics/org.jetbrains.compose.ui-ui-graphics-skikoMain.klib!/"
       ],
       "properties": {}
     },
@@ -89,7 +89,7 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-unit:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-unit/org.jetbrains.compose.ui-ui-unit-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-unit/org.jetbrains.compose.ui-ui-unit-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -102,7 +102,7 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui-geometry:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.ui-ui-geometry/org.jetbrains.compose.ui-ui-geometry-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.ui-ui-geometry/org.jetbrains.compose.ui-ui-geometry-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -115,7 +115,7 @@
     {
       "name": "Gradle: org.jetbrains.compose.runtime:runtime:commonMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.compose.runtime-runtime/org.jetbrains.compose.runtime-runtime-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.compose.runtime-runtime/org.jetbrains.compose.runtime-runtime-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -128,7 +128,7 @@
     {
       "name": "Gradle: org.jetbrains.skiko:skiko:commonMain:0.7.23",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.skiko-skiko/org.jetbrains.skiko-skiko-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.skiko-skiko/org.jetbrains.skiko-skiko-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -141,14 +141,14 @@
     {
       "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.6.1",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.kotlinx-kotlinx-coroutines-core/org.jetbrains.kotlinx-kotlinx-coroutines-core-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.kotlinx-kotlinx-coroutines-core/org.jetbrains.kotlinx-kotlinx-coroutines-core-commonMain.klib!/"
       ],
       "properties": {}
     },
     {
       "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.6.1",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonMain/implementation/org.jetbrains.kotlinx-kotlinx-coroutines-core/org.jetbrains.kotlinx-kotlinx-coroutines-core-concurrentMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonMain/implementation/org.jetbrains.kotlinx-kotlinx-coroutines-core/org.jetbrains.kotlinx-kotlinx-coroutines-core-concurrentMain.klib!/"
       ],
       "properties": {}
     },
@@ -275,7 +275,7 @@
     {
       "name": "Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.2.0-alpha01-dev745",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonTest/implementation/org.jetbrains.compose.ui-ui/org.jetbrains.compose.ui-ui-skikoMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonTest/implementation/org.jetbrains.compose.ui-ui/org.jetbrains.compose.ui-ui-skikoMain.klib!/"
       ]
     },
     {
@@ -287,7 +287,7 @@
     {
       "name": "Gradle: io.kotest:kotest-assertions-core:commonMain:5.3.2",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonTest/implementation/io.kotest-kotest-assertions-core/io.kotest-kotest-assertions-core-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonTest/implementation/io.kotest-kotest-assertions-core/io.kotest-kotest-assertions-core-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -300,7 +300,7 @@
     {
       "name": "Gradle: com.javiersc.kotlin:kotlin-test-junit:commonMain:0.1.0-alpha.11",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonTest/implementation/com.javiersc.kotlin-kotlin-test-junit/com.javiersc.kotlin-kotlin-test-junit-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonTest/implementation/com.javiersc.kotlin-kotlin-test-junit/com.javiersc.kotlin-kotlin-test-junit-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -375,7 +375,7 @@
     {
       "name": "Gradle: io.kotest:kotest-assertions-shared:commonMain:5.3.2",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonTest/implementation/io.kotest-kotest-assertions-shared/io.kotest-kotest-assertions-shared-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonTest/implementation/io.kotest-kotest-assertions-shared/io.kotest-kotest-assertions-shared-commonMain.klib!/"
       ],
       "properties": {}
     },
@@ -388,7 +388,7 @@
     {
       "name": "Gradle: io.kotest:kotest-assertions-api:commonMain:5.3.2",
       "roots": [
-        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-project/commonTest/implementation/io.kotest-kotest-assertions-api/io.kotest-kotest-assertions-api-commonMain.klib!/"
+        "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/commonTest/implementation/io.kotest-kotest-assertions-api/io.kotest-kotest-assertions-api-commonMain.klib!/"
       ],
       "properties": {}
     },

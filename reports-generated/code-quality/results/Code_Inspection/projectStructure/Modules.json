@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "name": "compose-resources-project",
+      "name": "compose-resources-kmp",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources",
+      "name": "compose-resources-kmp.compose-resources",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.jvmMain",
+      "name": "compose-resources-kmp.compose-resources.jvmMain",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/jvm/main",
@@ -81,7 +81,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.jvmTest",
+      "name": "compose-resources-kmp.compose-resources.jvmTest",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/jvm/test",
@@ -172,19 +172,19 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonTest",
+          "name": "compose-resources-kmp.compose-resources.commonTest",
           "type": "Module"
         },
         {
-          "name": "compose-resources-project.compose-resources.jvmMain",
+          "name": "compose-resources-kmp.compose-resources.jvmMain",
           "type": "Module"
         },
         {
-          "name": "compose-resources-project.compose-resources.jvmMain",
+          "name": "compose-resources-kmp.compose-resources.jvmMain",
           "type": "Module"
         },
         {
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.androidAndroidTestRelease",
+      "name": "compose-resources-kmp.compose-resources.androidAndroidTestRelease",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/androidAndroidTestRelease",
@@ -331,7 +331,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixtures",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixtures",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/androidTestFixtures",
@@ -434,7 +434,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixturesDebug",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixturesDebug",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/androidTestFixturesDebug",
@@ -537,7 +537,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixturesRelease",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixturesRelease",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/androidTestFixturesRelease",
@@ -640,7 +640,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -718,7 +718,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.commonMain",
+      "name": "compose-resources-kmp.compose-resources.commonMain",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/common/main",
@@ -915,7 +915,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources.commonTest",
+      "name": "compose-resources-kmp.compose-resources.commonTest",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources/common/test",
@@ -932,7 +932,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -1090,7 +1090,7 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin.test",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.test",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/test",
@@ -1118,7 +1118,7 @@
           "type": "Own sources"
         },
         {
-          "name": "compose-resources-project.compose-resources-gradle-plugin.main",
+          "name": "compose-resources-kmp.compose-resources-gradle-plugin.main",
           "type": "Module"
         },
         {
@@ -1222,11 +1222,11 @@
           "type": "Library"
         },
         {
-          "name": "compose-resources-project.compose-resources.jvmMain",
+          "name": "compose-resources-kmp.compose-resources.jvmMain",
           "type": "Module"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {
@@ -1404,19 +1404,19 @@
       ]
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin.main",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.main",
       "contentEntries": [
         {
           "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/compose-resources-gradle-plugin/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]
@@ -1528,11 +1528,11 @@
           "type": "Library"
         },
         {
-          "name": "compose-resources-project.compose-resources.jvmMain",
+          "name": "compose-resources-kmp.compose-resources.jvmMain",
           "type": "Module"
         },
         {
-          "name": "compose-resources-project.compose-resources.commonMain",
+          "name": "compose-resources-kmp.compose-resources.commonMain",
           "type": "Module"
         },
         {

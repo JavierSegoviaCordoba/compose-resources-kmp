@@ -1,55 +1,55 @@
 {
   "modules": [
     {
-      "name": "compose-resources-project",
+      "name": "compose-resources-kmp",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources",
+      "name": "compose-resources-kmp.compose-resources",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.jvmMain",
+      "name": "compose-resources-kmp.compose-resources.jvmMain",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.jvmTest",
+      "name": "compose-resources-kmp.compose-resources.jvmTest",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.androidAndroidTestRelease",
+      "name": "compose-resources-kmp.compose-resources.androidAndroidTestRelease",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixtures",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixtures",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixturesDebug",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixturesDebug",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.androidTestFixturesRelease",
+      "name": "compose-resources-kmp.compose-resources.androidTestFixturesRelease",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.commonMain",
+      "name": "compose-resources-kmp.compose-resources.commonMain",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources.commonTest",
+      "name": "compose-resources-kmp.compose-resources.commonTest",
       "languageLevel": 11
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin.test",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.test",
       "languageLevel": 8
     },
     {
-      "name": "compose-resources-project.compose-resources-gradle-plugin.main",
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.main",
       "languageLevel": 8
     }
   ]

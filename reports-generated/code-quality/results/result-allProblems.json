@@ -22,38 +22,10 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableTypeUsedInSignature"
   },
-  "hash": "d5cbe86a441fb87efa1f886c6e229390959e79b4c5d446788bb7226d540abcac"
-},{
-  "tool": "Code Inspection",
-  "category": "JVM languages",
-  "type": "Unstable API Usage",
-  "severity": "High",
-  "comment": "'srcDirs(java.lang.Object...)' is declared in unstable 'com.android.build.api.dsl.AndroidSourceDirectorySet' marked with @Incubating",
-  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/ComposeResourcesPlugin.kt",
-      "language": "kotlin",
-      "line": 17,
-      "offset": 53,
-      "length": 7,
-      "code": {
-        "startLine": 15,
-        "length": 7,
-        "offset": 125,
-        "surroundingCode": "        project.commonMainKotlin?.srcDirs(project.layout.generationDir)\n\n        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)\n\n        project.afterEvaluate {"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
-    "inspectionName": "UnstableApiUsage"
-  },
-  "hash": "dd3593291d26949afeed8f6b85d89d10ff7df02f5e30f567fe8b947b00b8c14e"
+  "hash": "39ca8b251b6b16e3174905a228fbe35009717e80708e24b30befd8f858383da7"
 },{
   "tool": "Code Inspection",
   "category": "JVM languages",
@@ -78,8 +50,36 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin.main",
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "e7b3fae0dffc688fecb2dee8ac2f46a56bbc05a4b674caf4ae36748bad1ecb11"
+  "hash": "b72e40d24839a51db2113f768afcbd25bf6f798c0ebce5ac2a5c9152de5a8477"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "severity": "High",
+  "comment": "'srcDirs(java.lang.Object...)' is declared in unstable 'com.android.build.api.dsl.AndroidSourceDirectorySet' marked with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/ComposeResourcesPlugin.kt",
+      "language": "kotlin",
+      "line": 17,
+      "offset": 53,
+      "length": 7,
+      "code": {
+        "startLine": 15,
+        "length": 7,
+        "offset": 125,
+        "surroundingCode": "        project.commonMainKotlin?.srcDirs(project.layout.generationDir)\n\n        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)\n\n        project.afterEvaluate {"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin.main",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "fab51e74a50e671e5359a82a210541874419c5fefd0463783d0f53aa7af83bc4"
 }]}

@@ -6,246 +6,29 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 3,
-      "offset": 19,
-      "length": 4,
-      "code": {
-        "startLine": 1,
-        "length": 4,
-        "offset": 51,
-        "surroundingCode": "buildscript {\n    dependencies {\n        classpath(libs.android.toolsBuild.gradle)\n        classpath(libs.jetbrains.compose.composeGradlePlugin)\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "9567cfb3746dc4e1b4f611684e9f1ece12c5b9a7787d5f55d78f773a67c23969"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Unresolved reference: android",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 3,
-      "offset": 24,
-      "length": 7,
-      "code": {
-        "startLine": 1,
-        "length": 7,
-        "offset": 56,
-        "surroundingCode": "buildscript {\n    dependencies {\n        classpath(libs.android.toolsBuild.gradle)\n        classpath(libs.jetbrains.compose.composeGradlePlugin)\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "f560b83434df28790b6f9e9de73d40c95275f94e61e2533e006e400e9e66ba1c"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 4,
-      "offset": 19,
-      "length": 4,
-      "code": {
-        "startLine": 2,
-        "length": 4,
-        "offset": 87,
-        "surroundingCode": "    dependencies {\n        classpath(libs.android.toolsBuild.gradle)\n        classpath(libs.jetbrains.compose.composeGradlePlugin)\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)\n    }"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "530a8d2c5f4254946fbdeb6364cb89cdcd8323247fa0ceb1b41185588f4c3917"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Unresolved reference: jetbrains",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 4,
-      "offset": 24,
-      "length": 9,
-      "code": {
-        "startLine": 2,
-        "length": 9,
-        "offset": 92,
-        "surroundingCode": "    dependencies {\n        classpath(libs.android.toolsBuild.gradle)\n        classpath(libs.jetbrains.compose.composeGradlePlugin)\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)\n    }"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "04eeb9d90810e1f52e1c5925e4d1ba86bec345b5422bb0d1c233686ffff4d478"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
   "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
       "type": "file",
-      "path": "compose-resources-gradle-plugin/build.gradle.kts",
+      "path": "build.gradle.kts",
       "language": "kotlin",
-      "line": 2,
+      "line": 10,
       "offset": 11,
       "length": 4,
       "code": {
-        "startLine": 1,
+        "startLine": 8,
         "length": 4,
-        "offset": 20,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+        "offset": 21,
+        "surroundingCode": "\nplugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
       }
     }
   ],
   "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin",
+    "module": "compose-resources-kmp",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "1c0514f7842f9145ab577e75123f89aaa4f265a15004293821964c3bd58a28f8"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources-gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 11,
-      "length": 4,
-      "code": {
-        "startLine": 1,
-        "length": 4,
-        "offset": 20,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "0144d26453ede55a28bb1596f0c01c5588557833b0575d069e8f7272e391c1b3"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Function invocation 'plugins(...)' expected",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources-gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 16,
-      "length": 7,
-      "code": {
-        "startLine": 1,
-        "length": 7,
-        "offset": 25,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "91c50ff042564f72ab04e4d74b3b53ebea4d39783bae63d1e95e64ebcb33c41b"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun Project.plugins(block: PluginDependenciesSpec.() -> Unit): Nothing defined in org.gradle.kotlin.dsl",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources-gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 16,
-      "length": 7,
-      "code": {
-        "startLine": 1,
-        "length": 7,
-        "offset": 25,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources-gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "c0e52575efd192df3957c4f7115962d1d18a2bfdbf805ee8df4e85d50d206833"
+  "hash": "aee51cd186cc2fd4d9cd93d90a8d73287c6f61be7dbeb5fb9ff7258028b4d6ee"
 },{
   "tool": "Code Inspection",
   "category": "General",
@@ -273,10 +56,10 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources-project.compose-resources",
+    "module": "compose-resources-kmp.compose-resources",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "087ca4f84456d77df72b9b839c32aa54539c08c3472bd3adf77d0261c9cd67bb"
+  "hash": "c993debddfcf4d90dd0de39cd9bc10bc40038ec37b011df66a91e63d6df9b5dc"
 },{
   "tool": "Code Inspection",
   "category": "General",
@@ -285,12 +68,12 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
+  "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
       "type": "file",
-      "path": "compose-resources/build.gradle.kts",
+      "path": "compose-resources-gradle-plugin/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
       "offset": 11,
@@ -304,70 +87,8 @@
     }
   ],
   "attributes": {
-    "module": "compose-resources-project.compose-resources",
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "e3124627b9901cda5d5ba47b8c210b0cfcf4545ebeef1b89637e15e638141b47"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Function invocation 'plugins(...)' expected",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 16,
-      "length": 7,
-      "code": {
-        "startLine": 1,
-        "length": 7,
-        "offset": 25,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "6c35d6aac1e7b94732b2c10b450da2461ca67e200e30b73d6f07ab3ef485e59b"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun Project.plugins(block: PluginDependenciesSpec.() -> Unit): Nothing defined in org.gradle.kotlin.dsl",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "compose-resources/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 16,
-      "length": 7,
-      "code": {
-        "startLine": 1,
-        "length": 7,
-        "offset": 25,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-project.compose-resources",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "8c2d87fd6b2f6df91e1c3cc18f043840a118f704edd42148d354acfc09d8236d"
+  "hash": "673a3188d5d08a9d033e58bc00b918fe6392242f27a0d6ab337803f25bdc6cfc"
 }]}
