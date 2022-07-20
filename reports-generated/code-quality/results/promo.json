@@ -1,1 +1,57 @@
-{"version":"3","listProblem":[]}
+{"version":"3","listProblem":[{
+  "tool": "Code Inspection",
+  "category": "Style issues",
+  "type": "Class member can have 'private' visibility",
+  "severity": "Info",
+  "comment": "Property 'name' could be private",
+  "detailsInfo": "Reports declarations that can be made `private` to follow the encapsulation principle.\n\n**Example:**\n\n\n    class Service(val url: String) {\n        fun connect(): URLConnection = URL(url).openConnection()\n    }\n\nAfter the quick-fix is applied (considering there are no usages of `url` outside of `Service` class):\n\n\n    class Service(private val url: String) {\n        fun connect(): URLConnection = URL(url).openConnection()\n    }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 7,
+      "offset": 5,
+      "length": 6,
+      "code": {
+        "startLine": 5,
+        "length": 6,
+        "offset": 28,
+        "surroundingCode": "\npublic class Drawable(\n    public val name: String,\n    public val extension: String,\n    public val type: String,"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "MemberVisibilityCanBePrivate"
+  },
+  "hash": "df1d582df0d7ad1860ec24b73842fa34947b63dcf3bed3d5ad021cc2c5362dcd"
+},{
+  "tool": "Code Inspection",
+  "category": "Style issues",
+  "type": "Class member can have 'private' visibility",
+  "severity": "Info",
+  "comment": "Property 'extension' could be private",
+  "detailsInfo": "Reports declarations that can be made `private` to follow the encapsulation principle.\n\n**Example:**\n\n\n    class Service(val url: String) {\n        fun connect(): URLConnection = URL(url).openConnection()\n    }\n\nAfter the quick-fix is applied (considering there are no usages of `url` outside of `Service` class):\n\n\n    class Service(private val url: String) {\n        fun connect(): URLConnection = URL(url).openConnection()\n    }\n",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/Drawable.kt",
+      "language": "kotlin",
+      "line": 8,
+      "offset": 5,
+      "length": 6,
+      "code": {
+        "startLine": 6,
+        "length": 6,
+        "offset": 56,
+        "surroundingCode": "public class Drawable(\n    public val name: String,\n    public val extension: String,\n    public val type: String,\n) {"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-project.compose-resources.commonMain",
+    "inspectionName": "MemberVisibilityCanBePrivate"
+  },
+  "hash": "6df65116fb9253d56b219090782253272476967846861805db9245c7ebd77011"
+}]}
