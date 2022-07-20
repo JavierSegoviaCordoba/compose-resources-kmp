@@ -39,6 +39,4 @@ hubdle {
     }
 }
 
-tasks.withType<Test>().configureEach {
-    dependsOn(projects.composeResources.dependencyProject.tasks.named("publishToMavenLocal"))
-}
+tasks.testDependsOnPublishToMavenLocalTestFrom(projects.composeResources)

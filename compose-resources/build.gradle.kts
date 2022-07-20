@@ -5,7 +5,11 @@ plugins {
 hubdle {
     config {
         explicitApi()
-        publishing()
+        publishing {
+            repositories {
+                mavenLocalTest()
+            }
+        }
     }
 
     kotlin {

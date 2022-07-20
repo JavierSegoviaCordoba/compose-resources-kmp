@@ -7,6 +7,7 @@ import java.io.File
 import java.nio.file.Paths
 import kotlin.test.Test
 import org.gradle.testkit.runner.TaskOutcome
+import org.junit.jupiter.api.AfterAll
 
 internal class ComposeResourcesPluginTest : GradleTest() {
 
@@ -64,6 +65,17 @@ internal class ComposeResourcesPluginTest : GradleTest() {
                 favoriteFile.copyTo(File("${favoriteFile.parentFile}/favorite_copy.xml"))
             }
             gradlew("assemble", composeResourcesVersionProperty)
+        }
+    }
+
+    companion object {
+        private val mavenLocalPath =
+            File(System.getProperty("user.home")).resolve("mavenLocalTest/repository/")
+
+        @JvmStatic
+        @AfterAll
+        fun `clean m2_com_kotlin after test`() {
+            mavenLocalPath.deleteRecursively()
         }
     }
 }
