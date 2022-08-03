@@ -338,12 +338,12 @@
       "version": "4.11"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle:7.2.1",
-      "gradleName": "com.android.tools.build:gradle:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:gradle:7.2.2",
+      "gradleName": "com.android.tools.build:gradle:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10",
@@ -354,28 +354,28 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder:7.2.1",
-      "gradleName": "com.android.tools.build:builder:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:builder:7.2.2",
+      "gradleName": "com.android.tools.build:builder:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-model:7.2.1",
-      "gradleName": "com.android.tools.build:builder-model:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:builder-model:7.2.2",
+      "gradleName": "com.android.tools.build:builder-model:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder-model",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.2.1",
-      "gradleName": "com.android.tools.build:gradle-api:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.2.2",
+      "gradleName": "com.android.tools.build:gradle-api:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle-api",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.10",
@@ -402,36 +402,36 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.2.1",
-      "gradleName": "com.android.tools.build:manifest-merger:30.2.1",
+      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.2.2",
+      "gradleName": "com.android.tools.build:manifest-merger:30.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "manifest-merger",
-      "version": "30.2.1"
+      "version": "30.2.2"
     },
     {
-      "ideaName": "Gradle: com.android:zipflinger:7.2.1",
-      "gradleName": "com.android:zipflinger:7.2.1",
+      "ideaName": "Gradle: com.android:zipflinger:7.2.2",
+      "gradleName": "com.android:zipflinger:7.2.2",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "zipflinger",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apksig:7.2.1",
-      "gradleName": "com.android.tools.build:apksig:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:apksig:7.2.2",
+      "gradleName": "com.android.tools.build:apksig:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apksig",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.2.1",
-      "gradleName": "com.android.tools.build:apkzlib:7.2.1",
+      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.2.2",
+      "gradleName": "com.android.tools.build:apkzlib:7.2.2",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apkzlib",
-      "version": "7.2.1"
+      "version": "7.2.2"
     },
     {
       "ideaName": "Gradle: com.squareup:javawriter:2.5.0",
@@ -512,358 +512,6 @@
       "groupId": "org.hamcrest",
       "artifactId": "hamcrest-core",
       "version": "1.3"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib:commonMain:0.1.0-alpha.11",
-      "gradleName": "com.javiersc.kotlin:kotlin-stdlib:commonMain:0.1.0-alpha.11",
-      "unresolved": false,
-      "groupId": "com.javiersc.kotlin",
-      "artifactId": "kotlin-stdlib",
-      "version": "0.1.0-alpha.11"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-text:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-text",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text:skikoMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-text:skikoMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-text",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.runtime",
-      "artifactId": "runtime-saveable",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-graphics",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics:skikoMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics:skikoMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-graphics",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-unit:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-unit",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.ui:ui-geometry:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.ui",
-      "artifactId": "ui-geometry",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime:commonMain:1.2.0-alpha01-dev745",
-      "gradleName": "org.jetbrains.compose.runtime:runtime:commonMain:1.2.0-alpha01-dev745",
-      "unresolved": false,
-      "groupId": "org.jetbrains.compose.runtime",
-      "artifactId": "runtime",
-      "version": "1.2.0-alpha01-dev745"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.skiko:skiko:commonMain:0.7.23",
-      "gradleName": "org.jetbrains.skiko:skiko:commonMain:0.7.23",
-      "unresolved": false,
-      "groupId": "org.jetbrains.skiko",
-      "artifactId": "skiko",
-      "version": "0.7.23"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.6.1",
-      "gradleName": "org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.6.1",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlinx",
-      "artifactId": "kotlinx-coroutines-core",
-      "version": "1.6.1"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.6.1",
-      "gradleName": "org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.6.1",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlinx",
-      "artifactId": "kotlinx-coroutines-core",
-      "version": "1.6.1"
-    },
-    {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-core:commonMain:5.3.2",
-      "gradleName": "io.kotest:kotest-assertions-core:commonMain:5.3.2",
-      "unresolved": false,
-      "groupId": "io.kotest",
-      "artifactId": "kotest-assertions-core",
-      "version": "5.3.2"
-    },
-    {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit:commonMain:0.1.0-alpha.11",
-      "gradleName": "com.javiersc.kotlin:kotlin-test-junit:commonMain:0.1.0-alpha.11",
-      "unresolved": false,
-      "groupId": "com.javiersc.kotlin",
-      "artifactId": "kotlin-test-junit",
-      "version": "0.1.0-alpha.11"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.6.21",
-      "gradleName": "org.jetbrains.kotlin:kotlin-test-common:1.6.21",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-test-common",
-      "version": "1.6.21"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.6.21",
-      "gradleName": "org.jetbrains.kotlin:kotlin-test-annotations-common:1.6.21",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-test-annotations-common",
-      "version": "1.6.21"
-    },
-    {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-shared:commonMain:5.3.2",
-      "gradleName": "io.kotest:kotest-assertions-shared:commonMain:5.3.2",
-      "unresolved": false,
-      "groupId": "io.kotest",
-      "artifactId": "kotest-assertions-shared",
-      "version": "5.3.2"
-    },
-    {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-api:commonMain:5.3.2",
-      "gradleName": "io.kotest:kotest-assertions-api:commonMain:5.3.2",
-      "unresolved": false,
-      "groupId": "io.kotest",
-      "artifactId": "kotest-assertions-api",
-      "version": "5.3.2"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.runtime:runtime-saveable:aar:1.1.0",
-      "gradleName": "androidx.compose.runtime:runtime-saveable:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.runtime",
-      "artifactId": "runtime-saveable",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui-text:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui-text:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui-text",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui-graphics:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui-graphics:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui-graphics",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui-unit:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui-unit:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui-unit",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui-geometry:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui-geometry:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui-geometry",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.annotation:annotation:1.2.0",
-      "gradleName": "androidx.annotation:annotation:1.2.0",
-      "unresolved": false,
-      "groupId": "androidx.annotation",
-      "artifactId": "annotation",
-      "version": "1.2.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.runtime:runtime:aar:1.1.0",
-      "gradleName": "androidx.compose.runtime:runtime:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.runtime",
-      "artifactId": "runtime",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2",
-      "gradleName": "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlinx",
-      "artifactId": "kotlinx-coroutines-android",
-      "version": "1.5.2"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2",
-      "gradleName": "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlinx",
-      "artifactId": "kotlinx-coroutines-core-jvm",
-      "version": "1.5.2"
-    },
-    {
-      "ideaName": "Gradle: androidx.compose.ui:ui-util:aar:1.1.0",
-      "gradleName": "androidx.compose.ui:ui-util:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.compose.ui",
-      "artifactId": "ui-util",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.savedstate:savedstate:aar:1.1.0",
-      "gradleName": "androidx.savedstate:savedstate:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.savedstate",
-      "artifactId": "savedstate",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.lifecycle:lifecycle-common-java8:2.3.0",
-      "gradleName": "androidx.lifecycle:lifecycle-common-java8:2.3.0",
-      "unresolved": false,
-      "groupId": "androidx.lifecycle",
-      "artifactId": "lifecycle-common-java8",
-      "version": "2.3.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.autofill:autofill:aar:1.0.0",
-      "gradleName": "androidx.autofill:autofill:aar:1.0.0",
-      "unresolved": false,
-      "groupId": "androidx.autofill",
-      "artifactId": "autofill",
-      "version": "1.0.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.lifecycle:lifecycle-runtime:aar:2.3.0",
-      "gradleName": "androidx.lifecycle:lifecycle-runtime:aar:2.3.0",
-      "unresolved": false,
-      "groupId": "androidx.lifecycle",
-      "artifactId": "lifecycle-runtime",
-      "version": "2.3.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.lifecycle:lifecycle-viewmodel:aar:2.3.0",
-      "gradleName": "androidx.lifecycle:lifecycle-viewmodel:aar:2.3.0",
-      "unresolved": false,
-      "groupId": "androidx.lifecycle",
-      "artifactId": "lifecycle-viewmodel",
-      "version": "2.3.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.profileinstaller:profileinstaller:aar:1.1.0",
-      "gradleName": "androidx.profileinstaller:profileinstaller:aar:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.profileinstaller",
-      "artifactId": "profileinstaller",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.core:core:aar:1.5.0",
-      "gradleName": "androidx.core:core:aar:1.5.0",
-      "unresolved": false,
-      "groupId": "androidx.core",
-      "artifactId": "core",
-      "version": "1.5.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.collection:collection:1.1.0",
-      "gradleName": "androidx.collection:collection:1.1.0",
-      "unresolved": false,
-      "groupId": "androidx.collection",
-      "artifactId": "collection",
-      "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.lifecycle:lifecycle-common:2.3.0",
-      "gradleName": "androidx.lifecycle:lifecycle-common:2.3.0",
-      "unresolved": false,
-      "groupId": "androidx.lifecycle",
-      "artifactId": "lifecycle-common",
-      "version": "2.3.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.arch.core:core-common:2.1.0",
-      "gradleName": "androidx.arch.core:core-common:2.1.0",
-      "unresolved": false,
-      "groupId": "androidx.arch.core",
-      "artifactId": "core-common",
-      "version": "2.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.arch.core:core-runtime:aar:2.1.0",
-      "gradleName": "androidx.arch.core:core-runtime:aar:2.1.0",
-      "unresolved": false,
-      "groupId": "androidx.arch.core",
-      "artifactId": "core-runtime",
-      "version": "2.1.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.startup:startup-runtime:aar:1.0.0",
-      "gradleName": "androidx.startup:startup-runtime:aar:1.0.0",
-      "unresolved": false,
-      "groupId": "androidx.startup",
-      "artifactId": "startup-runtime",
-      "version": "1.0.0"
-    },
-    {
-      "ideaName": "Gradle: androidx.versionedparcelable:versionedparcelable:aar:1.1.1",
-      "gradleName": "androidx.versionedparcelable:versionedparcelable:aar:1.1.1",
-      "unresolved": false,
-      "groupId": "androidx.versionedparcelable",
-      "artifactId": "versionedparcelable",
-      "version": "1.1.1"
-    },
-    {
-      "ideaName": "Gradle: androidx.tracing:tracing:aar:1.0.0",
-      "gradleName": "androidx.tracing:tracing:aar:1.0.0",
-      "unresolved": false,
-      "groupId": "androidx.tracing",
-      "artifactId": "tracing",
-      "version": "1.0.0"
     }
   ]
 }
