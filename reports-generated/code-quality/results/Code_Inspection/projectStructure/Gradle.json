@@ -226,12 +226,12 @@
       "version": "5.4.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.4",
@@ -274,68 +274,68 @@
       "version": "1.9.0-RC1"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-text-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-saveable-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-graphics-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-unit-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-geometry-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.30",
-      "gradleName": "org.jetbrains.skiko:skiko-awt:0.7.30",
+      "ideaName": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.32",
+      "gradleName": "org.jetbrains.skiko:skiko-awt:0.7.32",
       "unresolved": false,
       "groupId": "org.jetbrains.skiko",
       "artifactId": "skiko-awt",
-      "version": "0.7.30"
+      "version": "0.7.32"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-util-desktop",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:atomicfu-jvm:0.17.2",
@@ -498,12 +498,12 @@
       "version": "1.6.1"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.2.0-alpha01-dev774",
-      "gradleName": "org.jetbrains.compose.ui:ui:skikoMain:1.2.0-alpha01-dev774",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.2.0-beta01",
+      "gradleName": "org.jetbrains.compose.ui:ui:skikoMain:1.2.0-beta01",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui",
-      "version": "1.2.0-alpha01-dev774"
+      "version": "1.2.0-beta01"
     },
     {
       "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.11",

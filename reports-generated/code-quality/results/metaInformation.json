@@ -7,12 +7,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp",
-        "revisionId": "301d8d44959ea0ca3eba0b8a986722f3f1ff5aaf",
+        "revisionId": "3a9f86d7e6e718b24f6fa7e3ce45693f07bb827b",
         "branch": "main"
       }
     },
     "deviceId": "200820300000000-3233-bb07-ea9c-331ca60fc200",
-    "jobUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp/actions/runs/3092916767",
+    "jobUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp/actions/runs/3101531904",
     "repoUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp"
   }
 }

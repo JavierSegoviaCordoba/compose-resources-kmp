@@ -1,7 +1,7 @@
 {
   "libraries": [
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.2.0-beta01",
       "roots": [
         "jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/compose-resources.compose-resources-kmp/jvmMain/implementation/org.jetbrains.compose.ui-ui/org.jetbrains.compose.ui-ui-skikoMain.klib!/"
       ],
@@ -20,9 +20,9 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-desktop/1.2.0-alpha01-dev774/551dffc0832c36bcf14cddd4e702cc1eafe5cc85/ui-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-desktop/1.2.0-beta01/9ea6125f7cb8c0e6f8c60318a6aa7eda1e4656b2/ui-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
@@ -44,45 +44,45 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-desktop/1.2.0-alpha01-dev774/ee7a835ec2f7d95eb2d78c694aaaf2f71edf2920/ui-text-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-desktop/1.2.0-beta01/7577f6b3802042b1b0e74ae7348b90a865d42528/ui-text-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-desktop/1.2.0-alpha01-dev774/c7810bc183bc3ef706ab4a711957bb6eee783e9d/ui-graphics-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-desktop/1.2.0-beta01/c7810bc183bc3ef706ab4a711957bb6eee783e9d/ui-graphics-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.30",
+      "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.32",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-awt/0.7.30/e47920d0cc755384220e94defdf5da3d5ab87b/skiko-awt-0.7.30.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-awt/0.7.32/7b306463c6f4c2e2d3f2bafb8af4635a74377c8/skiko-awt-0.7.32.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-desktop/1.2.0-alpha01-dev774/a04a7d1e665d71be67544457882378eca362a151/runtime-saveable-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-desktop/1.2.0-beta01/a04a7d1e665d71be67544457882378eca362a151/runtime-saveable-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-unit-desktop/1.2.0-alpha01-dev774/ff4c3051e4848a52c8b0034a9320c18555916ddf/ui-unit-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-unit-desktop/1.2.0-beta01/ff4c3051e4848a52c8b0034a9320c18555916ddf/ui-unit-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry-desktop/1.2.0-alpha01-dev774/5b8ff007af95d69733a94eb1ac4e5a99ac970a1/ui-geometry-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry-desktop/1.2.0-beta01/5b8ff007af95d69733a94eb1ac4e5a99ac970a1/ui-geometry-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-desktop/1.2.0-alpha01-dev774/641ffea51b35e78dea52d93ab585c449f3e49284/runtime-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-desktop/1.2.0-beta01/641ffea51b35e78dea52d93ab585c449f3e49284/runtime-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.0-alpha01-dev774",
+      "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.0-beta01",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util-desktop/1.2.0-alpha01-dev774/8d614e93d49b509f9630b5cf7bd2dcb01a5da29a/ui-util-desktop-1.2.0-alpha01-dev774.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util-desktop/1.2.0-beta01/8d614e93d49b509f9630b5cf7bd2dcb01a5da29a/ui-util-desktop-1.2.0-beta01.jar!/"
       ]
     },
     {
