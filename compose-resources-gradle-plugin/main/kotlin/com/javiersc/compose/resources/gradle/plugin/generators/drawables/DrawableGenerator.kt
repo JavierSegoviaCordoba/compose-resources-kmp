@@ -21,7 +21,8 @@ internal fun drawableGenerator(packageName: String, drawables: Map<String, List<
         |
         |${drawables.implementations()}
         |
-    """.trimMargin()
+    """
+        .trimMargin()
 
 private fun imports() =
     listOf(
@@ -36,7 +37,8 @@ private fun Map<String, List<File>>.abstractProperties(): String =
                 val name = file.nameWithoutExtension.replace("_$suffix", "")
                 """
                     |val $name: Drawable
-                """.trimMargin()
+                """
+                    .trimMargin()
             }
         }
         .distinct()
@@ -53,7 +55,8 @@ private fun Map<String, List<File>>.implementations(): String {
                     |${implementationProperties(suffix, keys, files, values.flatten())}
                     |}
                     |
-                """.trimMargin()
+                """
+                    .trimMargin()
             }
             .joinToString("\n")
             .drop(1)
@@ -63,7 +66,8 @@ private fun Map<String, List<File>>.implementations(): String {
             |
             |val ComposeResource.Companion.drawables: AllDrawables get() = AllDrawables()
             |
-        """.trimMargin()
+        """
+            .trimMargin()
 
     val allDrawables =
         keys.map { suffix ->
@@ -83,7 +87,8 @@ private fun Map<String, List<File>>.implementations(): String {
             |${allDrawables.joinToString("").dropLast(1)}
             |}
             |
-        """.trimMargin()
+        """
+            .trimMargin()
 
     return (implementationsPerType.lines() + companionObject + allDrawablesClass.lines())
         .joinToString("\n")

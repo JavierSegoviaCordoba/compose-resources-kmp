@@ -9,4 +9,5 @@ internal fun composeResourceGenerator(packageName: String): String =
         |    companion object
         |}
         |
-    """.trimMargin()
+    """
+        .trimMargin()
