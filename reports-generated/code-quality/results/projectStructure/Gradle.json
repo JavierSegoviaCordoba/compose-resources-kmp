@@ -354,12 +354,12 @@
       "version": "4.12"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle:7.2.2",
-      "gradleName": "com.android.tools.build:gradle:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:gradle:7.3.0",
+      "gradleName": "com.android.tools.build:gradle:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10",
@@ -370,28 +370,28 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder:7.2.2",
-      "gradleName": "com.android.tools.build:builder:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:builder:7.3.0",
+      "gradleName": "com.android.tools.build:builder:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-model:7.2.2",
-      "gradleName": "com.android.tools.build:builder-model:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:builder-model:7.3.0",
+      "gradleName": "com.android.tools.build:builder-model:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder-model",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.2.2",
-      "gradleName": "com.android.tools.build:gradle-api:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.3.0",
+      "gradleName": "com.android.tools.build:gradle-api:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle-api",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.10",
@@ -418,36 +418,36 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.2.2",
-      "gradleName": "com.android.tools.build:manifest-merger:30.2.2",
+      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.3.0",
+      "gradleName": "com.android.tools.build:manifest-merger:30.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "manifest-merger",
-      "version": "30.2.2"
+      "version": "30.3.0"
     },
     {
-      "ideaName": "Gradle: com.android:zipflinger:7.2.2",
-      "gradleName": "com.android:zipflinger:7.2.2",
+      "ideaName": "Gradle: com.android:zipflinger:7.3.0",
+      "gradleName": "com.android:zipflinger:7.3.0",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "zipflinger",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apksig:7.2.2",
-      "gradleName": "com.android.tools.build:apksig:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:apksig:7.3.0",
+      "gradleName": "com.android.tools.build:apksig:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apksig",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.2.2",
-      "gradleName": "com.android.tools.build:apkzlib:7.2.2",
+      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.3.0",
+      "gradleName": "com.android.tools.build:apkzlib:7.3.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apkzlib",
-      "version": "7.2.2"
+      "version": "7.3.0"
     },
     {
       "ideaName": "Gradle: com.squareup:javawriter:2.5.0",
