@@ -26,13 +26,13 @@ hubdle {
                 main {
                     dependencies {
                         api(projects.composeResources)
-                        compileOnly(libs.android.toolsBuild.gradle)
-                        compileOnly(libs.jetbrains.kotlin.kotlinGradlePlugin)
+                        implementation(androidToolsBuildGradle())
+                        implementation(jetbrainsKotlinGradlePlugin())
                     }
                 }
                 pluginUnderTestDependencies(
-                    libs.android.toolsBuild.gradle,
-                    libs.jetbrains.kotlin.kotlinGradlePlugin,
+                    androidToolsBuildGradle(),
+                    jetbrainsKotlinGradlePlugin(),
                 )
             }
         }
