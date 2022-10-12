@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.2.0-alpha.37`
+- `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.2.0-alpha.43`
 - `com.android.tools.build:gradle -> 7.3.0`
 - `org.jetbrains.compose:compose-gradle-plugin -> 1.2.0-beta01`
 - `gradle -> 7.5.1`

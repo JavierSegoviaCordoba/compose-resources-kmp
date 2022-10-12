@@ -1,7 +1,7 @@
 [versions]
 android = "7.3.0"
 composeJetbrains = "1.2.0-beta01"
-hubdle = "0.2.0-alpha.37"
+hubdle = "0.2.0-alpha.43"
 kotlin = "1.7.10"
 
 [libraries]
