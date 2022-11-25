@@ -26,12 +26,12 @@
       "version": "1.7.20"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle:7.3.0",
-      "gradleName": "com.android.tools.build:gradle:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:gradle:7.3.1",
+      "gradleName": "com.android.tools.build:gradle:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle71:1.7.20",
@@ -122,20 +122,20 @@
       "version": "1.0.0-alpha.27"
     },
     {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.11",
-      "gradleName": "com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.11",
+      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.12",
+      "gradleName": "com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.12",
       "unresolved": false,
       "groupId": "com.javiersc.kotlin",
       "artifactId": "kotlin-stdlib-jvm",
-      "version": "0.1.0-alpha.11"
+      "version": "0.1.0-alpha.12"
     },
     {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-core-jvm:5.5.1",
-      "gradleName": "io.kotest:kotest-assertions-core-jvm:5.5.1",
+      "ideaName": "Gradle: io.kotest:kotest-assertions-core-jvm:5.5.4",
+      "gradleName": "io.kotest:kotest-assertions-core-jvm:5.5.4",
       "unresolved": false,
       "groupId": "io.kotest",
       "artifactId": "kotest-assertions-core-jvm",
-      "version": "5.5.1"
+      "version": "5.5.4"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20",
@@ -154,28 +154,28 @@
       "version": "1.7.20"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder:7.3.0",
-      "gradleName": "com.android.tools.build:builder:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:builder:7.3.1",
+      "gradleName": "com.android.tools.build:builder:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-model:7.3.0",
-      "gradleName": "com.android.tools.build:builder-model:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:builder-model:7.3.1",
+      "gradleName": "com.android.tools.build:builder-model:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder-model",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.3.0",
-      "gradleName": "com.android.tools.build:gradle-api:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.3.1",
+      "gradleName": "com.android.tools.build:gradle-api:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle-api",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.20",
@@ -250,36 +250,36 @@
       "version": "13.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.3.0",
-      "gradleName": "com.android.tools.build:manifest-merger:30.3.0",
+      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.3.1",
+      "gradleName": "com.android.tools.build:manifest-merger:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "manifest-merger",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android:zipflinger:7.3.0",
-      "gradleName": "com.android:zipflinger:7.3.0",
+      "ideaName": "Gradle: com.android:zipflinger:7.3.1",
+      "gradleName": "com.android:zipflinger:7.3.1",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "zipflinger",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apksig:7.3.0",
-      "gradleName": "com.android.tools.build:apksig:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:apksig:7.3.1",
+      "gradleName": "com.android.tools.build:apksig:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apksig",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.3.0",
-      "gradleName": "com.android.tools.build:apkzlib:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.3.1",
+      "gradleName": "com.android.tools.build:apkzlib:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apkzlib",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
       "ideaName": "Gradle: com.squareup:javawriter:2.5.0",
@@ -338,12 +338,12 @@
       "version": "1.2.0"
     },
     {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.5.1",
-      "gradleName": "io.kotest:kotest-assertions-shared-jvm:5.5.1",
+      "ideaName": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.5.4",
+      "gradleName": "io.kotest:kotest-assertions-shared-jvm:5.5.4",
       "unresolved": false,
       "groupId": "io.kotest",
       "artifactId": "kotest-assertions-shared-jvm",
-      "version": "5.5.1"
+      "version": "5.5.4"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.7.20",
@@ -354,100 +354,100 @@
       "version": "1.7.20"
     },
     {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-api-jvm:5.5.1",
-      "gradleName": "io.kotest:kotest-assertions-api-jvm:5.5.1",
+      "ideaName": "Gradle: io.kotest:kotest-assertions-api-jvm:5.5.4",
+      "gradleName": "io.kotest:kotest-assertions-api-jvm:5.5.4",
       "unresolved": false,
       "groupId": "io.kotest",
       "artifactId": "kotest-assertions-api-jvm",
-      "version": "5.5.1"
+      "version": "5.5.4"
     },
     {
-      "ideaName": "Gradle: com.android.tools.lint:lint-model:30.3.0",
-      "gradleName": "com.android.tools.lint:lint-model:30.3.0",
+      "ideaName": "Gradle: com.android.tools.lint:lint-model:30.3.1",
+      "gradleName": "com.android.tools.lint:lint-model:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.lint",
       "artifactId": "lint-model",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools:sdk-common:30.3.0",
-      "gradleName": "com.android.tools:sdk-common:30.3.0",
+      "ideaName": "Gradle: com.android.tools:sdk-common:30.3.1",
+      "gradleName": "com.android.tools:sdk-common:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "sdk-common",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools:sdklib:30.3.0",
-      "gradleName": "com.android.tools:sdklib:30.3.0",
+      "ideaName": "Gradle: com.android.tools:sdklib:30.3.1",
+      "gradleName": "com.android.tools:sdklib:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "sdklib",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools:repository:30.3.0",
-      "gradleName": "com.android.tools:repository:30.3.0",
+      "ideaName": "Gradle: com.android.tools:repository:30.3.1",
+      "gradleName": "com.android.tools:repository:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "repository",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-test-api:7.3.0",
-      "gradleName": "com.android.tools.build:builder-test-api:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:builder-test-api:7.3.1",
+      "gradleName": "com.android.tools.build:builder-test-api:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder-test-api",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.ddms:ddmlib:30.3.0",
-      "gradleName": "com.android.tools.ddms:ddmlib:30.3.0",
+      "ideaName": "Gradle: com.android.tools.ddms:ddmlib:30.3.1",
+      "gradleName": "com.android.tools.ddms:ddmlib:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.ddms",
       "artifactId": "ddmlib",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:aaptcompiler:7.3.0",
-      "gradleName": "com.android.tools.build:aaptcompiler:7.3.0",
+      "ideaName": "Gradle: com.android.tools.build:aaptcompiler:7.3.1",
+      "gradleName": "com.android.tools.build:aaptcompiler:7.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "aaptcompiler",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:shared:30.3.0",
-      "gradleName": "com.android.tools.analytics-library:shared:30.3.0",
+      "ideaName": "Gradle: com.android.tools.analytics-library:shared:30.3.1",
+      "gradleName": "com.android.tools.analytics-library:shared:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "shared",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: androidx.databinding:databinding-compiler-common:7.3.0",
-      "gradleName": "androidx.databinding:databinding-compiler-common:7.3.0",
+      "ideaName": "Gradle: androidx.databinding:databinding-compiler-common:7.3.1",
+      "gradleName": "androidx.databinding:databinding-compiler-common:7.3.1",
       "unresolved": false,
       "groupId": "androidx.databinding",
       "artifactId": "databinding-compiler-common",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-retention-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.3.0",
-      "gradleName": "com.android.tools.layoutlib:layoutlib-api:30.3.0",
+      "ideaName": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.3.1",
+      "gradleName": "com.android.tools.layoutlib:layoutlib-api:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.layoutlib",
       "artifactId": "layoutlib-api",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: com.android.tools.build.jetifier:jetifier-processor:1.0.0-beta10",
@@ -474,84 +474,84 @@
       "version": "1.9.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:aapt2-proto:7.3.0-8691043",
-      "gradleName": "com.android.tools.build:aapt2-proto:7.3.0-8691043",
+      "ideaName": "Gradle: com.android.tools.build:aapt2-proto:7.3.1-8691043",
+      "gradleName": "com.android.tools.build:aapt2-proto:7.3.1-8691043",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "aapt2-proto",
-      "version": "7.3.0-8691043"
+      "version": "7.3.1-8691043"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:crash:30.3.0",
-      "gradleName": "com.android.tools.analytics-library:crash:30.3.0",
+      "ideaName": "Gradle: com.android.tools.analytics-library:crash:30.3.1",
+      "gradleName": "com.android.tools.analytics-library:crash:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "crash",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.lint:lint-typedef-remover:30.3.0",
-      "gradleName": "com.android.tools.lint:lint-typedef-remover:30.3.0",
+      "ideaName": "Gradle: com.android.tools.lint:lint-typedef-remover:30.3.1",
+      "gradleName": "com.android.tools.lint:lint-typedef-remover:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.lint",
       "artifactId": "lint-typedef-remover",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: androidx.databinding:databinding-common:7.3.0",
-      "gradleName": "androidx.databinding:databinding-common:7.3.0",
+      "ideaName": "Gradle: androidx.databinding:databinding-common:7.3.1",
+      "gradleName": "androidx.databinding:databinding-common:7.3.1",
       "unresolved": false,
       "groupId": "androidx.databinding",
       "artifactId": "databinding-common",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.databinding:baseLibrary:7.3.0",
-      "gradleName": "com.android.databinding:baseLibrary:7.3.0",
+      "ideaName": "Gradle: com.android.databinding:baseLibrary:7.3.1",
+      "gradleName": "com.android.databinding:baseLibrary:7.3.1",
       "unresolved": false,
       "groupId": "com.android.databinding",
       "artifactId": "baseLibrary",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-device-provider-ddmlib-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-device-provider-gradle-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-device-provider-gradle-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-device-provider-gradle-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-additional-test-output-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-coverage-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.0",
-      "gradleName": "com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.0",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.1",
+      "gradleName": "com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-result-listener-gradle-proto",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api",
@@ -810,12 +810,12 @@
       "version": "1.2.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:common:30.3.0",
-      "gradleName": "com.android.tools:common:30.3.0",
+      "ideaName": "Gradle: com.android.tools:common:30.3.1",
+      "gradleName": "com.android.tools:common:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "common",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: net.sf.kxml:kxml2:2.3.0",
@@ -826,12 +826,12 @@
       "version": "2.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:tracker:30.3.0",
-      "gradleName": "com.android.tools.analytics-library:tracker:30.3.0",
+      "ideaName": "Gradle: com.android.tools.analytics-library:tracker:30.3.1",
+      "gradleName": "com.android.tools.analytics-library:tracker:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "tracker",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: org.ow2.asm:asm-tree:9.1",
@@ -842,12 +842,12 @@
       "version": "9.1"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:protos:30.3.0",
-      "gradleName": "com.android.tools.analytics-library:protos:30.3.0",
+      "ideaName": "Gradle: com.android.tools.analytics-library:protos:30.3.1",
+      "gradleName": "com.android.tools.analytics-library:protos:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "protos",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: javax.inject:javax.inject:1",
@@ -866,12 +866,12 @@
       "version": "1.67"
     },
     {
-      "ideaName": "Gradle: com.android:signflinger:7.3.0",
-      "gradleName": "com.android:signflinger:7.3.0",
+      "ideaName": "Gradle: com.android:signflinger:7.3.1",
+      "gradleName": "com.android:signflinger:7.3.1",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "signflinger",
-      "version": "7.3.0"
+      "version": "7.3.1"
     },
     {
       "ideaName": "Gradle: commons-codec:commons-codec:1.11",
@@ -930,12 +930,12 @@
       "version": "2.12.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:dvlib:30.3.0",
-      "gradleName": "com.android.tools:dvlib:30.3.0",
+      "ideaName": "Gradle: com.android.tools:dvlib:30.3.1",
+      "gradleName": "com.android.tools:dvlib:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "dvlib",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: org.apache.commons:commons-compress:1.20",
@@ -970,12 +970,12 @@
       "version": "1.2.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:annotations:30.3.0",
-      "gradleName": "com.android.tools:annotations:30.3.0",
+      "ideaName": "Gradle: com.android.tools:annotations:30.3.1",
+      "gradleName": "com.android.tools:annotations:30.3.1",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "annotations",
-      "version": "30.3.0"
+      "version": "30.3.1"
     },
     {
       "ideaName": "Gradle: net.java.dev.jna:jna-platform:5.6.0",
@@ -1370,12 +1370,12 @@
       "version": "4.1.52.Final"
     },
     {
-      "ideaName": "Gradle: io.kotest:kotest-common-jvm:5.5.1",
-      "gradleName": "io.kotest:kotest-common-jvm:5.5.1",
+      "ideaName": "Gradle: io.kotest:kotest-common-jvm:5.5.4",
+      "gradleName": "io.kotest:kotest-common-jvm:5.5.4",
       "unresolved": false,
       "groupId": "io.kotest",
       "artifactId": "kotest-common-jvm",
-      "version": "5.5.1"
+      "version": "5.5.4"
     },
     {
       "ideaName": "Gradle: org.junit.platform:junit-platform-engine:1.9.0-RC1",
@@ -1490,12 +1490,12 @@
       "version": "1.6.1"
     },
     {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.11",
-      "gradleName": "com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.11",
+      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
+      "gradleName": "com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
       "unresolved": false,
       "groupId": "com.javiersc.kotlin",
       "artifactId": "kotlin-test-junit-jvm",
-      "version": "0.1.0-alpha.11"
+      "version": "0.1.0-alpha.12"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.7.20",
