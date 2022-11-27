@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.16] - 2022-11-27
+
+### Updated
+
 - `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.2.0-alpha.46`
 - `gradle -> 7.6`
 - `com.android.tools.build:gradle -> 7.3.0`
@@ -117,7 +121,7 @@
 
 ### Changed
 
-- `AllDrawables` are not `Composable` 
+- `AllDrawables` are not `Composable`
 
 ### Fixed
 
@@ -132,3 +136,37 @@
 ## [0.1.0-alpha.1] - 2021-09-21
 
 - No changes
+
+[Unreleased]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.16...HEAD
+
+[0.1.0-alpha.16]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.15...0.1.0-alpha.16
+
+[0.1.0-alpha.15]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.14...0.1.0-alpha.15
+
+[0.1.0-alpha.14]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.13...0.1.0-alpha.14
+
+[0.1.0-alpha.13]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.12...0.1.0-alpha.13
+
+[0.1.0-alpha.12]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.11...0.1.0-alpha.12
+
+[0.1.0-alpha.11]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.10...0.1.0-alpha.11
+
+[0.1.0-alpha.10]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.9...0.1.0-alpha.10
+
+[0.1.0-alpha.9]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.8...0.1.0-alpha.9
+
+[0.1.0-alpha.8]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.7...0.1.0-alpha.8
+
+[0.1.0-alpha.7]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.6...0.1.0-alpha.7
+
+[0.1.0-alpha.6]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.5...0.1.0-alpha.6
+
+[0.1.0-alpha.5]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.4...0.1.0-alpha.5
+
+[0.1.0-alpha.4]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.3...0.1.0-alpha.4
+
+[0.1.0-alpha.3]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.2...0.1.0-alpha.3
+
+[0.1.0-alpha.2]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.1...0.1.0-alpha.2
+
+[0.1.0-alpha.1]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/commits/0.1.0-alpha.1
