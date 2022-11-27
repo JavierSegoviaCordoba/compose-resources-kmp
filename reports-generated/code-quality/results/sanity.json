@@ -130,6 +130,37 @@
     "Sanity"
   ],
   "severity": "Critical",
+  "comment": "The feature \"multi platform projects\" is experimental and should be enabled explicitly",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/common/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 6,
+      "offset": 20,
+      "length": 6,
+      "code": {
+        "startLine": 4,
+        "length": 6,
+        "offset": 72,
+        "surroundingCode": "import androidx.compose.ui.graphics.painter.Painter\n\n@Composable public expect fun painterResource(resource: String, type: String): Painter\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-kmp.compose-resources.commonMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "82b497ccad0e7f0b2cb26c5395fa9d6dad13ca055bd1dc6ef13ef870e150fbd3"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
   "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
@@ -370,4 +401,35 @@
     "inspectionName": "KotlinAnnotator"
   },
   "hash": "25411b5684ee483d05aa311f3295848dd702714574aded18061d9b76388819a9"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "The feature \"multi platform projects\" is experimental and should be enabled explicitly",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources/jvm/main/kotlin/com/javiersc/compose/resources/PainterResourceExtensions.kt",
+      "language": "kotlin",
+      "line": 7,
+      "offset": 8,
+      "length": 6,
+      "code": {
+        "startLine": 5,
+        "length": 6,
+        "offset": 20,
+        "surroundingCode": "\n@Composable\npublic actual fun painterResource(resource: String, type: String): Painter =\n    androidx.compose.ui.res.painterResource(\"$type/$resource\")\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-kmp.compose-resources.jvmMain",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "2339e8c33b382cbcb3866ab5aafad458a099bd257629cf40dda629ed577256c4"
 }]}
