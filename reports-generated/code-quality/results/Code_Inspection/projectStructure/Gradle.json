@@ -2,124 +2,164 @@
   "gradleJvm": "#JAVA_HOME",
   "libraries": [
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-test-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-test-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-test-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-test-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-test-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-stdlib-jdk8",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle:7.3.1",
-      "gradleName": "com.android.tools.build:gradle:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:gradle:7.4.0",
+      "gradleName": "com.android.tools.build:gradle:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle71:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin:gradle71:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-test:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-test-junit5:1.8.0",
+      "unresolved": false,
+      "groupId": "org.jetbrains.kotlin",
+      "artifactId": "kotlin-test-junit5",
+      "version": "1.8.0"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-test:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-test",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-delegated-properties-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-delegated-properties-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.0",
+      "unresolved": false,
+      "groupId": "org.jetbrains.kotlin",
+      "artifactId": "kotlin-test-annotations-common",
+      "version": "1.8.0"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+      "unresolved": false,
+      "groupId": "org.jetbrains.kotlin",
+      "artifactId": "kotlin-stdlib-common",
+      "version": "1.8.0"
+    },
+    {
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-delegated-properties-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-delegated-properties-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-delegated-properties-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-logging-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-logging-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-logging-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-logging-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-logging-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-miscellanea-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-miscellanea-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-miscellanea-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-miscellanea-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-miscellanea-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-plugin-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-plugin-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-plugin-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-plugin-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-plugin-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-project-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-project-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-project-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-project-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-project-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-properties-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-properties-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-properties-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-properties-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-properties-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-tasks-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-tasks-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-tasks-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-tasks-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-tasks-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-version-catalog-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-version-catalog-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-version-catalog-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-version-catalog-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-version-catalog-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
     },
     {
-      "ideaName": "Gradle: com.javiersc.gradle:gradle-testkit-test-extensions:1.0.0-alpha.27",
-      "gradleName": "com.javiersc.gradle:gradle-testkit-test-extensions:1.0.0-alpha.27",
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-project-test-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-project-test-extensions:1.0.0-alpha.29",
+      "unresolved": false,
+      "groupId": "com.javiersc.gradle",
+      "artifactId": "gradle-project-test-extensions",
+      "version": "1.0.0-alpha.29"
+    },
+    {
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-testkit-test-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-testkit-test-extensions:1.0.0-alpha.29",
       "unresolved": false,
       "groupId": "com.javiersc.gradle",
       "artifactId": "gradle-testkit-test-extensions",
-      "version": "1.0.0-alpha.27"
+      "version": "1.0.0-alpha.29"
+    },
+    {
+      "ideaName": "Gradle: com.javiersc.gradle:gradle-common-test-extensions:1.0.0-alpha.29",
+      "gradleName": "com.javiersc.gradle:gradle-common-test-extensions:1.0.0-alpha.29",
+      "unresolved": false,
+      "groupId": "com.javiersc.gradle",
+      "artifactId": "gradle-common-test-extensions",
+      "version": "1.0.0-alpha.29"
     },
     {
       "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.12",
@@ -127,6 +167,14 @@
       "unresolved": false,
       "groupId": "com.javiersc.kotlin",
       "artifactId": "kotlin-stdlib-jvm",
+      "version": "0.1.0-alpha.12"
+    },
+    {
+      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit5-jvm:0.1.0-alpha.12",
+      "gradleName": "com.javiersc.kotlin:kotlin-test-junit5-jvm:0.1.0-alpha.12",
+      "unresolved": false,
+      "groupId": "com.javiersc.kotlin",
+      "artifactId": "kotlin-test-junit5-jvm",
       "version": "0.1.0-alpha.12"
     },
     {
@@ -138,108 +186,92 @@
       "version": "5.5.4"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-stdlib-jdk7",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-stdlib",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder:7.3.1",
-      "gradleName": "com.android.tools.build:builder:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:builder:7.4.0",
+      "gradleName": "com.android.tools.build:builder:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-model:7.3.1",
-      "gradleName": "com.android.tools.build:builder-model:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:builder-model:7.4.0",
+      "gradleName": "com.android.tools.build:builder-model:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "builder-model",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.3.1",
-      "gradleName": "com.android.tools.build:gradle-api:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:gradle-api:7.4.0",
+      "gradleName": "com.android.tools.build:gradle-api:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "gradle-api",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin-model",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle71:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle71:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin-api",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin-api",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-tooling-core:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-tooling-core",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-test-junit5:1.7.20",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-test-junit5",
-      "version": "1.7.20"
-    },
-    {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-params:5.9.0-RC1",
-      "gradleName": "org.junit.jupiter:junit-jupiter-params:5.9.0-RC1",
-      "unresolved": false,
-      "groupId": "org.junit.jupiter",
-      "artifactId": "junit-jupiter-params",
-      "version": "5.9.0-RC1"
-    },
-    {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.0-RC1",
-      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.9.0-RC1",
+      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.9.1",
       "unresolved": false,
       "groupId": "org.junit.jupiter",
       "artifactId": "junit-jupiter-api",
-      "version": "5.9.0-RC1"
+      "version": "5.9.1"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20",
+      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-params:5.9.1",
+      "gradleName": "org.junit.jupiter:junit-jupiter-params:5.9.1",
       "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-stdlib-common",
-      "version": "1.7.20"
+      "groupId": "org.junit.jupiter",
+      "artifactId": "junit-jupiter-params",
+      "version": "5.9.1"
     },
     {
       "ideaName": "Gradle: org.jetbrains:annotations:13.0",
@@ -250,36 +282,36 @@
       "version": "13.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.3.1",
-      "gradleName": "com.android.tools.build:manifest-merger:30.3.1",
+      "ideaName": "Gradle: com.android.tools.build:manifest-merger:30.4.0",
+      "gradleName": "com.android.tools.build:manifest-merger:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "manifest-merger",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android:zipflinger:7.3.1",
-      "gradleName": "com.android:zipflinger:7.3.1",
+      "ideaName": "Gradle: com.android:zipflinger:7.4.0",
+      "gradleName": "com.android:zipflinger:7.4.0",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "zipflinger",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apksig:7.3.1",
-      "gradleName": "com.android.tools.build:apksig:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:apksig:7.4.0",
+      "gradleName": "com.android.tools.build:apksig:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apksig",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.3.1",
-      "gradleName": "com.android.tools.build:apkzlib:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:apkzlib:7.4.0",
+      "gradleName": "com.android.tools.build:apkzlib:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "apkzlib",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
       "ideaName": "Gradle: com.squareup:javawriter:2.5.0",
@@ -290,28 +322,36 @@
       "version": "2.5.0"
     },
     {
-      "ideaName": "Gradle: org.ow2.asm:asm:9.1",
-      "gradleName": "org.ow2.asm:asm:9.1",
+      "ideaName": "Gradle: org.ow2.asm:asm:9.2",
+      "gradleName": "org.ow2.asm:asm:9.2",
       "unresolved": false,
       "groupId": "org.ow2.asm",
       "artifactId": "asm",
-      "version": "9.1"
+      "version": "9.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-native-utils:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-native-utils",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-project-model:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-project-model:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-project-model",
-      "version": "1.7.20"
+      "version": "1.8.0"
+    },
+    {
+      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.9.1",
+      "gradleName": "org.junit.platform:junit-platform-commons:1.9.1",
+      "unresolved": false,
+      "groupId": "org.junit.platform",
+      "artifactId": "junit-platform-commons",
+      "version": "1.9.1"
     },
     {
       "ideaName": "Gradle: org.apiguardian:apiguardian-api:1.1.2",
@@ -320,14 +360,6 @@
       "groupId": "org.apiguardian",
       "artifactId": "apiguardian-api",
       "version": "1.1.2"
-    },
-    {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.9.0-RC1",
-      "gradleName": "org.junit.platform:junit-platform-commons:1.9.0-RC1",
-      "unresolved": false,
-      "groupId": "org.junit.platform",
-      "artifactId": "junit-platform-commons",
-      "version": "1.9.0-RC1"
     },
     {
       "ideaName": "Gradle: org.opentest4j:opentest4j:1.2.0",
@@ -346,12 +378,12 @@
       "version": "5.5.4"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-util-io:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-util-io:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-util-io",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
       "ideaName": "Gradle: io.kotest:kotest-assertions-api-jvm:5.5.4",
@@ -362,92 +394,100 @@
       "version": "5.5.4"
     },
     {
-      "ideaName": "Gradle: com.android.tools.lint:lint-model:30.3.1",
-      "gradleName": "com.android.tools.lint:lint-model:30.3.1",
+      "ideaName": "Gradle: com.android.tools.build:gradle-settings-api:7.4.0",
+      "gradleName": "com.android.tools.build:gradle-settings-api:7.4.0",
+      "unresolved": false,
+      "groupId": "com.android.tools.build",
+      "artifactId": "gradle-settings-api",
+      "version": "7.4.0"
+    },
+    {
+      "ideaName": "Gradle: com.android.tools.lint:lint-model:30.4.0",
+      "gradleName": "com.android.tools.lint:lint-model:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.lint",
       "artifactId": "lint-model",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:sdk-common:30.3.1",
-      "gradleName": "com.android.tools:sdk-common:30.3.1",
+      "ideaName": "Gradle: com.android.tools:sdk-common:30.4.0",
+      "gradleName": "com.android.tools:sdk-common:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "sdk-common",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:sdklib:30.3.1",
-      "gradleName": "com.android.tools:sdklib:30.3.1",
+      "ideaName": "Gradle: com.android.tools:sdklib:30.4.0",
+      "gradleName": "com.android.tools:sdklib:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "sdklib",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:repository:30.3.1",
-      "gradleName": "com.android.tools:repository:30.3.1",
+      "ideaName": "Gradle: com.android.tools:repository:30.4.0",
+      "gradleName": "com.android.tools:repository:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "repository",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:builder-test-api:7.3.1",
-      "gradleName": "com.android.tools.build:builder-test-api:7.3.1",
-      "unresolved": false,
-      "groupId": "com.android.tools.build",
-      "artifactId": "builder-test-api",
-      "version": "7.3.1"
-    },
-    {
-      "ideaName": "Gradle: com.android.tools.ddms:ddmlib:30.3.1",
-      "gradleName": "com.android.tools.ddms:ddmlib:30.3.1",
-      "unresolved": false,
-      "groupId": "com.android.tools.ddms",
-      "artifactId": "ddmlib",
-      "version": "30.3.1"
-    },
-    {
-      "ideaName": "Gradle: com.android.tools.build:aaptcompiler:7.3.1",
-      "gradleName": "com.android.tools.build:aaptcompiler:7.3.1",
+      "ideaName": "Gradle: com.android.tools.build:aaptcompiler:7.4.0",
+      "gradleName": "com.android.tools.build:aaptcompiler:7.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "aaptcompiler",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:shared:30.3.1",
-      "gradleName": "com.android.tools.analytics-library:shared:30.3.1",
+      "ideaName": "Gradle: com.android.tools.analytics-library:shared:30.4.0",
+      "gradleName": "com.android.tools.analytics-library:shared:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "shared",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: androidx.databinding:databinding-compiler-common:7.3.1",
-      "gradleName": "androidx.databinding:databinding-compiler-common:7.3.1",
+      "ideaName": "Gradle: androidx.databinding:databinding-compiler-common:7.4.0",
+      "gradleName": "androidx.databinding:databinding-compiler-common:7.4.0",
       "unresolved": false,
       "groupId": "androidx.databinding",
       "artifactId": "databinding-compiler-common",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-retention-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-retention-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.3.1",
-      "gradleName": "com.android.tools.layoutlib:layoutlib-api:30.3.1",
+      "ideaName": "Gradle: com.android.tools.build:builder-test-api:7.4.0",
+      "gradleName": "com.android.tools.build:builder-test-api:7.4.0",
+      "unresolved": false,
+      "groupId": "com.android.tools.build",
+      "artifactId": "builder-test-api",
+      "version": "7.4.0"
+    },
+    {
+      "ideaName": "Gradle: com.android.tools.ddms:ddmlib:30.4.0",
+      "gradleName": "com.android.tools.ddms:ddmlib:30.4.0",
+      "unresolved": false,
+      "groupId": "com.android.tools.ddms",
+      "artifactId": "ddmlib",
+      "version": "30.4.0"
+    },
+    {
+      "ideaName": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.0",
+      "gradleName": "com.android.tools.layoutlib:layoutlib-api:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.layoutlib",
       "artifactId": "layoutlib-api",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: com.android.tools.build.jetifier:jetifier-processor:1.0.0-beta10",
@@ -466,92 +506,92 @@
       "version": "1.0.0-beta10"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:bundletool:1.9.0",
-      "gradleName": "com.android.tools.build:bundletool:1.9.0",
+      "ideaName": "Gradle: com.android.tools.build:bundletool:1.11.4",
+      "gradleName": "com.android.tools.build:bundletool:1.11.4",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "bundletool",
-      "version": "1.9.0"
+      "version": "1.11.4"
     },
     {
-      "ideaName": "Gradle: com.android.tools.build:aapt2-proto:7.3.1-8691043",
-      "gradleName": "com.android.tools.build:aapt2-proto:7.3.1-8691043",
+      "ideaName": "Gradle: com.android.tools.build:aapt2-proto:7.4.0-8841542",
+      "gradleName": "com.android.tools.build:aapt2-proto:7.4.0-8841542",
       "unresolved": false,
       "groupId": "com.android.tools.build",
       "artifactId": "aapt2-proto",
-      "version": "7.3.1-8691043"
+      "version": "7.4.0-8841542"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:crash:30.3.1",
-      "gradleName": "com.android.tools.analytics-library:crash:30.3.1",
+      "ideaName": "Gradle: com.android.tools.analytics-library:crash:30.4.0",
+      "gradleName": "com.android.tools.analytics-library:crash:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "crash",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.lint:lint-typedef-remover:30.3.1",
-      "gradleName": "com.android.tools.lint:lint-typedef-remover:30.3.1",
+      "ideaName": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.0",
+      "gradleName": "com.android.tools.lint:lint-typedef-remover:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.lint",
       "artifactId": "lint-typedef-remover",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: androidx.databinding:databinding-common:7.3.1",
-      "gradleName": "androidx.databinding:databinding-common:7.3.1",
+      "ideaName": "Gradle: androidx.databinding:databinding-common:7.4.0",
+      "gradleName": "androidx.databinding:databinding-common:7.4.0",
       "unresolved": false,
       "groupId": "androidx.databinding",
       "artifactId": "databinding-common",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.databinding:baseLibrary:7.3.1",
-      "gradleName": "com.android.databinding:baseLibrary:7.3.1",
+      "ideaName": "Gradle: com.android.databinding:baseLibrary:7.4.0",
+      "gradleName": "com.android.databinding:baseLibrary:7.4.0",
       "unresolved": false,
       "groupId": "com.android.databinding",
       "artifactId": "baseLibrary",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-device-provider-ddmlib-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-device-provider-ddmlib-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-device-provider-gradle-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-device-provider-gradle-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-additional-test-output-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-test-plugin-host-coverage-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-host-coverage-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.1",
-      "gradleName": "com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.3.1",
+      "ideaName": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
+      "gradleName": "com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.utp",
       "artifactId": "android-test-plugin-result-listener-gradle-proto",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api",
@@ -578,28 +618,28 @@
       "version": "2.4"
     },
     {
-      "ideaName": "Gradle: org.ow2.asm:asm-commons:9.1",
-      "gradleName": "org.ow2.asm:asm-commons:9.1",
+      "ideaName": "Gradle: org.ow2.asm:asm-commons:9.2",
+      "gradleName": "org.ow2.asm:asm-commons:9.2",
       "unresolved": false,
       "groupId": "org.ow2.asm",
       "artifactId": "asm-commons",
-      "version": "9.1"
+      "version": "9.2"
     },
     {
-      "ideaName": "Gradle: org.ow2.asm:asm-util:9.1",
-      "gradleName": "org.ow2.asm:asm-util:9.1",
+      "ideaName": "Gradle: org.ow2.asm:asm-util:9.2",
+      "gradleName": "org.ow2.asm:asm-util:9.2",
       "unresolved": false,
       "groupId": "org.ow2.asm",
       "artifactId": "asm-util",
-      "version": "9.1"
+      "version": "9.2"
     },
     {
-      "ideaName": "Gradle: org.ow2.asm:asm-analysis:9.1",
-      "gradleName": "org.ow2.asm:asm-analysis:9.1",
+      "ideaName": "Gradle: org.ow2.asm:asm-analysis:9.2",
+      "gradleName": "org.ow2.asm:asm-analysis:9.2",
       "unresolved": false,
       "groupId": "org.ow2.asm",
       "artifactId": "asm-analysis",
-      "version": "9.1"
+      "version": "9.2"
     },
     {
       "ideaName": "Gradle: org.bouncycastle:bcpkix-jdk15on:1.67",
@@ -682,12 +722,12 @@
       "version": "1.39.0"
     },
     {
-      "ideaName": "Gradle: com.google.code.gson:gson:2.8.6",
-      "gradleName": "com.google.code.gson:gson:2.8.6",
+      "ideaName": "Gradle: com.google.code.gson:gson:2.8.9",
+      "gradleName": "com.google.code.gson:gson:2.8.9",
       "unresolved": false,
       "groupId": "com.google.code.gson",
       "artifactId": "gson",
-      "version": "2.8.6"
+      "version": "2.8.9"
     },
     {
       "ideaName": "Gradle: io.grpc:grpc-stub:1.39.0",
@@ -698,12 +738,12 @@
       "version": "1.39.0"
     },
     {
-      "ideaName": "Gradle: com.google.testing.platform:core-proto:0.0.8-alpha07",
-      "gradleName": "com.google.testing.platform:core-proto:0.0.8-alpha07",
+      "ideaName": "Gradle: com.google.testing.platform:core-proto:0.0.8-alpha08",
+      "gradleName": "com.google.testing.platform:core-proto:0.0.8-alpha08",
       "unresolved": false,
       "groupId": "com.google.testing.platform",
       "artifactId": "core-proto",
-      "version": "0.0.8-alpha07"
+      "version": "0.0.8-alpha08"
     },
     {
       "ideaName": "Gradle: org.tensorflow:tensorflow-lite-metadata:0.1.0-rc2",
@@ -722,100 +762,108 @@
       "version": "1.12.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-runner:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-compiler-runner",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin-idea-proto",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-gradle-plugin-idea",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-util-klib:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-util-klib",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-klib-commonizer-api",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-annotation-processing-gradle",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-android-extensions:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-android-extensions",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-embeddable:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-compiler-embeddable",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-compiler-embeddable",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-compiler-impl-embeddable",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.2.0",
+      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1",
+      "gradleName": "org.junit.jupiter:junit-jupiter-engine:5.9.1",
+      "unresolved": false,
+      "groupId": "org.junit.jupiter",
+      "artifactId": "junit-jupiter-engine",
+      "version": "5.9.1"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: com.android.tools:common:30.3.1",
-      "gradleName": "com.android.tools:common:30.3.1",
+      "ideaName": "Gradle: com.android.tools:common:30.4.0",
+      "gradleName": "com.android.tools:common:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "common",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: net.sf.kxml:kxml2:2.3.0",
@@ -826,28 +874,20 @@
       "version": "2.3.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools.analytics-library:tracker:30.3.1",
-      "gradleName": "com.android.tools.analytics-library:tracker:30.3.1",
+      "ideaName": "Gradle: com.android.tools.analytics-library:tracker:30.4.0",
+      "gradleName": "com.android.tools.analytics-library:tracker:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "tracker",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
-      "ideaName": "Gradle: org.ow2.asm:asm-tree:9.1",
-      "gradleName": "org.ow2.asm:asm-tree:9.1",
-      "unresolved": false,
-      "groupId": "org.ow2.asm",
-      "artifactId": "asm-tree",
-      "version": "9.1"
-    },
-    {
-      "ideaName": "Gradle: com.android.tools.analytics-library:protos:30.3.1",
-      "gradleName": "com.android.tools.analytics-library:protos:30.3.1",
+      "ideaName": "Gradle: com.android.tools.analytics-library:protos:30.4.0",
+      "gradleName": "com.android.tools.analytics-library:protos:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools.analytics-library",
       "artifactId": "protos",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: javax.inject:javax.inject:1",
@@ -866,12 +906,12 @@
       "version": "1.67"
     },
     {
-      "ideaName": "Gradle: com.android:signflinger:7.3.1",
-      "gradleName": "com.android:signflinger:7.3.1",
+      "ideaName": "Gradle: com.android:signflinger:7.4.0",
+      "gradleName": "com.android:signflinger:7.4.0",
       "unresolved": false,
       "groupId": "com.android",
       "artifactId": "signflinger",
-      "version": "7.3.1"
+      "version": "7.4.0"
     },
     {
       "ideaName": "Gradle: commons-codec:commons-codec:1.11",
@@ -882,28 +922,12 @@
       "version": "1.11"
     },
     {
-      "ideaName": "Gradle: it.unimi.dsi:fastutil:8.4.0",
-      "gradleName": "it.unimi.dsi:fastutil:8.4.0",
-      "unresolved": false,
-      "groupId": "it.unimi.dsi",
-      "artifactId": "fastutil",
-      "version": "8.4.0"
-    },
-    {
-      "ideaName": "Gradle: com.googlecode.json-simple:json-simple:1.1",
-      "gradleName": "com.googlecode.json-simple:json-simple:1.1",
-      "unresolved": false,
-      "groupId": "com.googlecode.json-simple",
-      "artifactId": "json-simple",
-      "version": "1.1"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
-      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.6.21",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.7.10",
+      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.7.10",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-reflect",
-      "version": "1.6.21"
+      "version": "1.7.10"
     },
     {
       "ideaName": "Gradle: com.google.guava:guava:30.1-jre",
@@ -930,12 +954,12 @@
       "version": "2.12.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:dvlib:30.3.1",
-      "gradleName": "com.android.tools:dvlib:30.3.1",
+      "ideaName": "Gradle: com.android.tools:dvlib:30.4.0",
+      "gradleName": "com.android.tools:dvlib:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "dvlib",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: org.apache.commons:commons-compress:1.20",
@@ -970,12 +994,12 @@
       "version": "1.2.0"
     },
     {
-      "ideaName": "Gradle: com.android.tools:annotations:30.3.1",
-      "gradleName": "com.android.tools:annotations:30.3.1",
+      "ideaName": "Gradle: com.android.tools:annotations:30.4.0",
+      "gradleName": "com.android.tools:annotations:30.4.0",
       "unresolved": false,
       "groupId": "com.android.tools",
       "artifactId": "annotations",
-      "version": "30.3.1"
+      "version": "30.4.0"
     },
     {
       "ideaName": "Gradle: net.java.dev.jna:jna-platform:5.6.0",
@@ -1056,6 +1080,14 @@
       "groupId": "javax.annotation",
       "artifactId": "javax.annotation-api",
       "version": "1.3.2"
+    },
+    {
+      "ideaName": "Gradle: org.ow2.asm:asm-tree:9.2",
+      "gradleName": "org.ow2.asm:asm-tree:9.2",
+      "unresolved": false,
+      "groupId": "org.ow2.asm",
+      "artifactId": "asm-tree",
+      "version": "9.2"
     },
     {
       "ideaName": "Gradle: org.jvnet.staxex:stax-ex:1.8.1",
@@ -1202,12 +1234,12 @@
       "version": "1.6.4"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-client:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-daemon-client",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
@@ -1218,20 +1250,20 @@
       "version": "1.6.4"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-build-common:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-build-common:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-build-common",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-embeddable:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-daemon-embeddable",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
       "ideaName": "Gradle: net.java.dev.jna:jna:5.6.0",
@@ -1242,28 +1274,36 @@
       "version": "5.6.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-jvm:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-jvm",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-common:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-common",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.0-RC1",
-      "gradleName": "org.junit.jupiter:junit-jupiter-engine:5.9.0-RC1",
+      "ideaName": "Gradle: org.junit.platform:junit-platform-engine:1.9.1",
+      "gradleName": "org.junit.platform:junit-platform-engine:1.9.1",
       "unresolved": false,
-      "groupId": "org.junit.jupiter",
-      "artifactId": "junit-jupiter-engine",
-      "version": "5.9.0-RC1"
+      "groupId": "org.junit.platform",
+      "artifactId": "junit-platform-engine",
+      "version": "1.9.1"
+    },
+    {
+      "ideaName": "Gradle: com.javiersc.semver:semver-core-jvm:0.1.0-beta.13",
+      "gradleName": "com.javiersc.semver:semver-core-jvm:0.1.0-beta.13",
+      "unresolved": false,
+      "groupId": "com.javiersc.semver",
+      "artifactId": "semver-core-jvm",
+      "version": "0.1.0-beta.13"
     },
     {
       "ideaName": "Gradle: com.google.guava:failureaccess:1.0.1",
@@ -1378,76 +1418,68 @@
       "version": "5.5.4"
     },
     {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-engine:1.9.0-RC1",
-      "gradleName": "org.junit.platform:junit-platform-engine:1.9.0-RC1",
-      "unresolved": false,
-      "groupId": "org.junit.platform",
-      "artifactId": "junit-platform-engine",
-      "version": "1.9.0-RC1"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-text-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-saveable-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-graphics-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-unit-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-geometry-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.runtime",
       "artifactId": "runtime-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.34",
-      "gradleName": "org.jetbrains.skiko:skiko-awt:0.7.34",
+      "ideaName": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+      "gradleName": "org.jetbrains.skiko:skiko-awt:0.7.37",
       "unresolved": false,
       "groupId": "org.jetbrains.skiko",
       "artifactId": "skiko-awt",
-      "version": "0.7.34"
+      "version": "0.7.37"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.0",
-      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.2.0",
+      "ideaName": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+      "gradleName": "org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
       "unresolved": false,
       "groupId": "org.jetbrains.compose.ui",
       "artifactId": "ui-util-desktop",
-      "version": "1.2.0"
+      "version": "1.2.2"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:atomicfu-jvm:0.17.2",
@@ -1474,14 +1506,6 @@
       "version": "4.12"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.31",
-      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.5.31",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-reflect",
-      "version": "1.5.31"
-    },
-    {
       "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
       "gradleName": "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
       "unresolved": false,
@@ -1490,20 +1514,12 @@
       "version": "1.6.1"
     },
     {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
-      "gradleName": "com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
-      "unresolved": false,
-      "groupId": "com.javiersc.kotlin",
-      "artifactId": "kotlin-test-junit-jvm",
-      "version": "0.1.0-alpha.12"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.7.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-test-junit:1.7.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.8.0",
+      "gradleName": "org.jetbrains.kotlin:kotlin-test-junit:1.8.0",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-test-junit",
-      "version": "1.7.20"
+      "version": "1.8.0"
     },
     {
       "ideaName": "Gradle: junit:junit:4.13.2",
@@ -1514,12 +1530,28 @@
       "version": "4.13.2"
     },
     {
+      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
+      "gradleName": "com.javiersc.kotlin:kotlin-test-junit-jvm:0.1.0-alpha.12",
+      "unresolved": false,
+      "groupId": "com.javiersc.kotlin",
+      "artifactId": "kotlin-test-junit-jvm",
+      "version": "0.1.0-alpha.12"
+    },
+    {
       "ideaName": "Gradle: org.hamcrest:hamcrest-core:1.3",
       "gradleName": "org.hamcrest:hamcrest-core:1.3",
       "unresolved": false,
       "groupId": "org.hamcrest",
       "artifactId": "hamcrest-core",
       "version": "1.3"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.6.21",
+      "unresolved": false,
+      "groupId": "org.jetbrains.kotlin",
+      "artifactId": "kotlin-reflect",
+      "version": "1.6.21"
     }
   ]
 }

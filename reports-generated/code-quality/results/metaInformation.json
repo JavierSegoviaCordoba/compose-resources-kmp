@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "tools inspection": {
+    "Code Inspection": 1
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "ssh://git@github.com/JavierSegoviaCordoba/compose-resources-kmp.git",
+        "revisionId": "89f019aadbbbc749c21604cecc8382a26e0c09ba",
+        "branch": "refs/heads/main"
+      }
+    },
+    "deviceId": "200820300000000-3233-bb07-ea9c-331ca60fc200",
+    "jobUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp/actions/runs/4025280031",
+    "repoUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp"
+  }
+}

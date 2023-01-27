@@ -2,55 +2,63 @@
   "modules": [
     {
       "name": "compose-resources-kmp",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources-gradle-plugin",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.jvmMain",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.jvmTest",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.androidAndroidTestRelease",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.androidTestFixtures",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.androidTestFixturesDebug",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.androidTestFixturesRelease",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.commonMain",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources.commonTest",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "compose-resources-kmp.compose-resources-gradle-plugin.test",
-      "languageLevel": 8
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.testFunctional",
+      "languageLevel": 11
     },
     {
       "name": "compose-resources-kmp.compose-resources-gradle-plugin.main",
-      "languageLevel": 8
+      "languageLevel": 11
+    },
+    {
+      "name": "compose-resources-kmp.compose-resources-gradle-plugin.testIntegration",
+      "languageLevel": 11
     }
   ]
 }
