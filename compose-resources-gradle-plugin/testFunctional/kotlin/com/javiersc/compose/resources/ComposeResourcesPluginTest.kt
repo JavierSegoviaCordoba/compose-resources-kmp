@@ -1,6 +1,6 @@
 package com.javiersc.compose.resources
 
-import com.javiersc.gradle.testkit.test.extensions.GradleTest
+import com.javiersc.gradle.testkit.test.extensions.GradleTestKitTest
 import io.kotest.matchers.nulls.shouldNotBeNull
 import io.kotest.matchers.shouldBe
 import java.io.File
@@ -9,7 +9,7 @@ import kotlin.test.Test
 import org.gradle.testkit.runner.TaskOutcome
 import org.junit.jupiter.api.AfterAll
 
-internal class ComposeResourcesPluginTest : GradleTest() {
+internal class ComposeResourcesPluginTest : GradleTestKitTest() {
 
     private val generateTask = "app:generateComposeResources"
 

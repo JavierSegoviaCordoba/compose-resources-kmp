@@ -9,32 +9,42 @@ hubdle {
     }
 
     kotlin {
-        gradle {
-            plugin {
-                tags("compose", "jetpack compose", "compose multiplatform")
-                gradlePlugin {
-                    plugins {
-                        create("ComposeResources") {
-                            id = "com.javiersc.compose.resources"
-                            implementationClass =
-                                "com.javiersc.compose.resources.gradle.plugin.ComposeResourcesPlugin"
-                            displayName = "Compose Resources KMP"
-                            description = """Compose Resources to be used in Kotlin Multiplatform"""
+        jvm {
+            features {
+                jvmVersion(JavaVersion.VERSION_11)
+
+                gradle {
+                    plugin {
+                        tags("compose", "jetpack compose", "compose multiplatform")
+                        gradlePlugin {
+                            plugins {
+                                create("ComposeResources") {
+                                    id = "com.javiersc.compose.resources"
+                                    implementationClass =
+                                        "com.javiersc.compose.resources.gradle.plugin.ComposeResourcesPlugin"
+                                    displayName = "Compose Resources KMP"
+                                    description = """Compose Resources to be used in Kotlin Multiplatform"""
+                                }
+                            }
                         }
+                        pluginUnderTestDependencies(
+                            androidToolsBuildGradle(),
+                            jetbrainsKotlinGradlePlugin(),
+                        )
                     }
                 }
-                main {
-                    dependencies {
-                        api(projects.composeResources)
-                        implementation(androidToolsBuildGradle())
-                        implementation(jetbrainsKotlinGradlePlugin())
-                    }
-                }
-                pluginUnderTestDependencies(
-                    androidToolsBuildGradle(),
-                    jetbrainsKotlinGradlePlugin(),
-                )
             }
+
+
+            main {
+                dependencies {
+                    api(projects.composeResources)
+                    implementation(androidToolsBuildGradle())
+                    implementation(jetbrainsKotlinGradlePlugin())
+                }
+            }
+
+            testFunctional()
         }
     }
 }
