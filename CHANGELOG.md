@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [0.1.0-alpha.17] - 2023-01-27
+
+### Updated
+
 - `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.4.0-alpha.7`
 
 ## [0.1.0-alpha.16] - 2022-11-27
@@ -139,7 +143,9 @@
 
 - No changes
 
-[Unreleased]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.16...HEAD
+[Unreleased]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.17...HEAD
+
+[0.1.0-alpha.17]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.16...0.1.0-alpha.17
 
 [0.1.0-alpha.16]: https://github.com/JavierSegoviaCordoba/compose-resources-kmp/compare/0.1.0-alpha.15...0.1.0-alpha.16
 
