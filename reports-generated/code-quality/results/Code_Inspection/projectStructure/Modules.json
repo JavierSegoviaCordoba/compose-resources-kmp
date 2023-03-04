@@ -85,7 +85,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -93,15 +93,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -109,39 +109,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -184,15 +184,15 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -200,7 +200,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -208,7 +208,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -220,7 +220,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
@@ -232,11 +232,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -248,19 +248,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -268,7 +268,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -276,15 +276,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -405,7 +401,7 @@
           "type": "Own sources"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -413,15 +409,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -429,39 +425,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -500,7 +496,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -508,23 +504,23 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -536,11 +532,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -548,7 +544,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
@@ -556,11 +552,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -568,15 +564,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
@@ -596,11 +592,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -759,31 +751,31 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -843,39 +835,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-model:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-model:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.10",
           "type": "Library"
         },
         {
@@ -891,19 +883,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.0",
+          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:zipflinger:7.4.0",
+          "name": "Gradle: com.android:zipflinger:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apksig:7.4.0",
+          "name": "Gradle: com.android.tools.build:apksig:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apkzlib:7.4.0",
+          "name": "Gradle: com.android.tools.build:apkzlib:7.4.2",
           "type": "Library"
         },
         {
@@ -915,11 +907,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.10",
           "type": "Library"
         },
         {
@@ -939,7 +931,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.10",
           "type": "Library"
         },
         {
@@ -951,51 +943,51 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-model:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-model:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdk-common:30.4.0",
+          "name": "Gradle: com.android.tools:sdk-common:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdklib:30.4.0",
+          "name": "Gradle: com.android.tools:sdklib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:repository:30.4.0",
+          "name": "Gradle: com.android.tools:repository:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.0",
+          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.0",
+          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.0",
+          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.2",
           "type": "Library"
         },
         {
@@ -1011,43 +1003,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.0-8841542",
+          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.2-8841542",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.databinding:baseLibrary:7.4.0",
+          "name": "Gradle: com.android.databinding:baseLibrary:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
@@ -1135,43 +1127,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -1179,11 +1171,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:common:30.4.0",
+          "name": "Gradle: com.android.tools:common:30.4.2",
           "type": "Library"
         },
         {
@@ -1191,11 +1183,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.2",
           "type": "Library"
         },
         {
@@ -1207,7 +1199,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:signflinger:7.4.0",
+          "name": "Gradle: com.android:signflinger:7.4.2",
           "type": "Library"
         },
         {
@@ -1231,7 +1223,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:dvlib:30.4.0",
+          "name": "Gradle: com.android.tools:dvlib:30.4.2",
           "type": "Library"
         },
         {
@@ -1251,7 +1243,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:annotations:30.4.0",
+          "name": "Gradle: com.android.tools:annotations:30.4.2",
           "type": "Library"
         },
         {
@@ -1371,7 +1363,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.10",
           "type": "Library"
         },
         {
@@ -1379,11 +1371,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -1391,11 +1383,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.10",
           "type": "Library"
         },
         {
@@ -1463,35 +1455,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -1661,31 +1653,31 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -1745,39 +1737,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-model:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-model:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.10",
           "type": "Library"
         },
         {
@@ -1793,19 +1785,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.0",
+          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:zipflinger:7.4.0",
+          "name": "Gradle: com.android:zipflinger:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apksig:7.4.0",
+          "name": "Gradle: com.android.tools.build:apksig:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apkzlib:7.4.0",
+          "name": "Gradle: com.android.tools.build:apkzlib:7.4.2",
           "type": "Library"
         },
         {
@@ -1817,11 +1809,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.10",
           "type": "Library"
         },
         {
@@ -1841,7 +1833,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.10",
           "type": "Library"
         },
         {
@@ -1853,51 +1845,51 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-model:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-model:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdk-common:30.4.0",
+          "name": "Gradle: com.android.tools:sdk-common:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdklib:30.4.0",
+          "name": "Gradle: com.android.tools:sdklib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:repository:30.4.0",
+          "name": "Gradle: com.android.tools:repository:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.0",
+          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.0",
+          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.0",
+          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.2",
           "type": "Library"
         },
         {
@@ -1913,43 +1905,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.0-8841542",
+          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.2-8841542",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.databinding:baseLibrary:7.4.0",
+          "name": "Gradle: com.android.databinding:baseLibrary:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
@@ -2037,43 +2029,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -2081,11 +2073,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:common:30.4.0",
+          "name": "Gradle: com.android.tools:common:30.4.2",
           "type": "Library"
         },
         {
@@ -2093,11 +2085,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.2",
           "type": "Library"
         },
         {
@@ -2109,7 +2101,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:signflinger:7.4.0",
+          "name": "Gradle: com.android:signflinger:7.4.2",
           "type": "Library"
         },
         {
@@ -2133,7 +2125,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:dvlib:30.4.0",
+          "name": "Gradle: com.android.tools:dvlib:30.4.2",
           "type": "Library"
         },
         {
@@ -2153,7 +2145,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:annotations:30.4.0",
+          "name": "Gradle: com.android.tools:annotations:30.4.2",
           "type": "Library"
         },
         {
@@ -2273,7 +2265,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.10",
           "type": "Library"
         },
         {
@@ -2281,11 +2273,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -2293,11 +2285,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.10",
           "type": "Library"
         },
         {
@@ -2365,35 +2357,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -2547,19 +2539,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -2599,39 +2591,39 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-model:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-model:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.10",
           "type": "Library"
         },
         {
@@ -2639,19 +2631,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.0",
+          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:zipflinger:7.4.0",
+          "name": "Gradle: com.android:zipflinger:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apksig:7.4.0",
+          "name": "Gradle: com.android.tools.build:apksig:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apkzlib:7.4.0",
+          "name": "Gradle: com.android.tools.build:apkzlib:7.4.2",
           "type": "Library"
         },
         {
@@ -2663,63 +2655,63 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-model:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-model:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdk-common:30.4.0",
+          "name": "Gradle: com.android.tools:sdk-common:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdklib:30.4.0",
+          "name": "Gradle: com.android.tools:sdklib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:repository:30.4.0",
+          "name": "Gradle: com.android.tools:repository:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.0",
+          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.0",
+          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.0",
+          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.2",
           "type": "Library"
         },
         {
@@ -2735,43 +2727,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.0-8841542",
+          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.2-8841542",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.databinding:baseLibrary:7.4.0",
+          "name": "Gradle: com.android.databinding:baseLibrary:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
@@ -2859,51 +2851,51 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:common:30.4.0",
+          "name": "Gradle: com.android.tools:common:30.4.2",
           "type": "Library"
         },
         {
@@ -2911,11 +2903,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.2",
           "type": "Library"
         },
         {
@@ -2927,7 +2919,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:signflinger:7.4.0",
+          "name": "Gradle: com.android:signflinger:7.4.2",
           "type": "Library"
         },
         {
@@ -2951,7 +2943,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:dvlib:30.4.0",
+          "name": "Gradle: com.android.tools:dvlib:30.4.2",
           "type": "Library"
         },
         {
@@ -2971,7 +2963,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:annotations:30.4.0",
+          "name": "Gradle: com.android.tools:annotations:30.4.2",
           "type": "Library"
         },
         {
@@ -3087,7 +3079,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.10",
           "type": "Library"
         },
         {
@@ -3095,11 +3087,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -3107,11 +3099,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.10",
           "type": "Library"
         },
         {
@@ -3171,35 +3163,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {
@@ -3326,19 +3318,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.10",
           "type": "Library"
         },
         {
@@ -3370,11 +3362,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -3382,7 +3374,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -3438,11 +3430,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:gradle76:1.8.10",
           "type": "Library"
         },
         {
@@ -3482,63 +3474,63 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-settings-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-model:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-model:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdk-common:30.4.0",
+          "name": "Gradle: com.android.tools:sdk-common:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:sdklib:30.4.0",
+          "name": "Gradle: com.android.tools:sdklib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:repository:30.4.0",
+          "name": "Gradle: com.android.tools:repository:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.0",
+          "name": "Gradle: com.android.tools.build:aaptcompiler:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:shared:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-compiler-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-model:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-model:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:gradle-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:gradle-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.0",
+          "name": "Gradle: com.android.tools.build:builder-test-api:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.0",
+          "name": "Gradle: com.android.tools.ddms:ddmlib:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.0",
+          "name": "Gradle: com.android.tools.layoutlib:layoutlib-api:30.4.2",
           "type": "Library"
         },
         {
@@ -3554,43 +3546,43 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.0-8841542",
+          "name": "Gradle: com.android.tools.build:aapt2-proto:7.4.2-8841542",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:crash:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.0",
+          "name": "Gradle: com.android.tools.lint:lint-typedef-remover:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: androidx.databinding:databinding-common:7.4.0",
+          "name": "Gradle: androidx.databinding:databinding-common:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.databinding:baseLibrary:7.4.0",
+          "name": "Gradle: com.android.databinding:baseLibrary:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-device-provider-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.0",
+          "name": "Gradle: com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.2",
           "type": "Library"
         },
         {
@@ -3682,63 +3674,63 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:gradle76:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-core:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -3754,11 +3746,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:common:30.4.0",
+          "name": "Gradle: com.android.tools:common:30.4.2",
           "type": "Library"
         },
         {
@@ -3766,19 +3758,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.0",
+          "name": "Gradle: com.android.tools.build:manifest-merger:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:tracker:30.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apkzlib:7.4.0",
+          "name": "Gradle: com.android.tools.build:apkzlib:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.0",
+          "name": "Gradle: com.android.tools.analytics-library:protos:30.4.2",
           "type": "Library"
         },
         {
@@ -3790,11 +3782,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:signflinger:7.4.0",
+          "name": "Gradle: com.android:signflinger:7.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android:zipflinger:7.4.0",
+          "name": "Gradle: com.android:zipflinger:7.4.2",
           "type": "Library"
         },
         {
@@ -3802,7 +3794,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools.build:apksig:7.4.0",
+          "name": "Gradle: com.android.tools.build:apksig:7.4.2",
           "type": "Library"
         },
         {
@@ -3822,7 +3814,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:dvlib:30.4.0",
+          "name": "Gradle: com.android.tools:dvlib:30.4.2",
           "type": "Library"
         },
         {
@@ -3842,7 +3834,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: com.android.tools:annotations:30.4.0",
+          "name": "Gradle: com.android.tools:annotations:30.4.2",
           "type": "Library"
         },
         {
@@ -3958,7 +3950,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.8.10",
           "type": "Library"
         },
         {
@@ -3966,19 +3958,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.8.10",
           "type": "Library"
         },
         {
@@ -3986,11 +3978,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.8.10",
           "type": "Library"
         },
         {
@@ -4058,35 +4050,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.37",
+          "name": "Gradle: org.jetbrains.skiko:skiko-awt:0.7.50",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.2.2",
+          "name": "Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.3.0",
           "type": "Library"
         },
         {

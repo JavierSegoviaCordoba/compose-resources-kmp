@@ -42,37 +42,6 @@
   "sources": [
     {
       "type": "file",
-      "path": "compose-resources-gradle-plugin/build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 11,
-      "length": 4,
-      "code": {
-        "startLine": 1,
-        "length": 4,
-        "offset": 20,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "compose-resources-kmp.compose-resources-gradle-plugin",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "673a3188d5d08a9d033e58bc00b918fe6392242f27a0d6ab337803f25bdc6cfc"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
       "path": "compose-resources/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
@@ -91,4 +60,35 @@
     "inspectionName": "KotlinAnnotator"
   },
   "hash": "c993debddfcf4d90dd0de39cd9bc10bc40038ec37b011df66a91e63d6df9b5dc"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources-gradle-plugin/build.gradle.kts",
+      "language": "kotlin",
+      "line": 2,
+      "offset": 11,
+      "length": 4,
+      "code": {
+        "startLine": 1,
+        "length": 4,
+        "offset": 20,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "673a3188d5d08a9d033e58bc00b918fe6392242f27a0d6ab337803f25bdc6cfc"
 }]}
