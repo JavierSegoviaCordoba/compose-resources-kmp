@@ -12,6 +12,7 @@ hubdle {
             engine(DefaultIntellijEngine)
         }
         documentation {
+            api()
             changelog()
             readme {
                 badges()
