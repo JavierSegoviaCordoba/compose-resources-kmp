@@ -6,6 +6,37 @@
     "kotlin"
   ],
   "severity": "High",
+  "comment": "'getTags()' is marked unstable with @Incubating",
+  "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "compose-resources-gradle-plugin/build.gradle.kts",
+      "language": "kotlin",
+      "line": 29,
+      "offset": 37,
+      "length": 4,
+      "code": {
+        "startLine": 27,
+        "length": 4,
+        "offset": 219,
+        "surroundingCode": "                                    displayName = \"Compose Resources KMP\"\n                                    description = \"\"\"Compose Resources to be used in Kotlin Multiplatform\"\"\"\n                                    tags.set(\n                                        listOf(\n                                            \"compose\","
+      }
+    }
+  ],
+  "attributes": {
+    "module": "compose-resources-kmp.compose-resources-gradle-plugin",
+    "inspectionName": "UnstableApiUsage"
+  },
+  "hash": "b65f843677c3cc874350732a4944daf4018f08c0e2cf10259aa0e77edc0c16cf"
+},{
+  "tool": "Code Inspection",
+  "category": "JVM languages",
+  "type": "Unstable API Usage",
+  "tags": [
+    "kotlin"
+  ],
+  "severity": "High",
   "comment": "'srcDirs(java.lang.Object...)' is marked unstable with @Incubating",
   "detailsInfo": "Reports usages of an API marked with one of the annotations as unstable. Such an API may be changed or removed in future versions, breaking the code that uses it.\n\nThe annotations which are used to mark unstable APIs are shown in the list below.\n\nBy default, the inspection ignores usages of unstable APIs\nif their declarations are located in sources of the same project. In such cases it'll be possible to update the usages when you change APIs.\nHowever, it may be inconvenient if the project is big, so one can switch off the **Ignore API declared in this project** option to report\nthe usages of unstable APIs declared in both the project sources and libraries.",
   "sources": [
@@ -13,14 +44,14 @@
       "type": "file",
       "path": "compose-resources-gradle-plugin/main/kotlin/com/javiersc/compose/resources/gradle/plugin/ComposeResourcesPlugin.kt",
       "language": "kotlin",
-      "line": 17,
+      "line": 23,
       "offset": 53,
       "length": 7,
       "code": {
-        "startLine": 15,
+        "startLine": 21,
         "length": 7,
         "offset": 125,
-        "surroundingCode": "        project.commonMainKotlin?.srcDirs(project.layout.generationDir)\n\n        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)\n\n        project.afterEvaluate {"
+        "surroundingCode": "        project.commonMainKotlin?.srcDirs(project.layout.generationDir)\n\n        project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)\n\n        val assembleTask: TaskProvider<Task> = project.tasks.named(BasePlugin.ASSEMBLE_TASK_NAME)"
       }
     }
   ],
@@ -28,5 +59,5 @@
     "module": "compose-resources-kmp.compose-resources-gradle-plugin.main",
     "inspectionName": "UnstableApiUsage"
   },
-  "hash": "b619273837305845f240f52a2221cb3c6561abd4bcedaccb0154ef7a7396f1a1"
+  "hash": "26f1609d6f33ca7ee7e5705a64251cd2a66c9f620f10432e46de4a68c9af3807"
 }]}

@@ -1,19 +1,19 @@
 {
-  "total": 1,
+  "total": 2,
   "tools inspection": {
-    "Code Inspection": 1
+    "Code Inspection": 2
   },
   "linter": "QDJVMC",
   "attributes": {
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp.git",
-        "revisionId": "c8a1f64d4ddd2e62ff59d2cd56caa2e2c7f63d76",
+        "revisionId": "f465f7ada305391468fbb7e7ae3d3c256e1a6d77",
         "branch": "main"
       }
     },
     "deviceId": "200820300000000-3233-bb07-ea9c-331ca60fc200",
-    "jobUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp/actions/runs/4333711426",
+    "jobUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp/actions/runs/4336739011",
     "repoUrl": "https://github.com/JavierSegoviaCordoba/compose-resources-kmp.git"
   }
 }

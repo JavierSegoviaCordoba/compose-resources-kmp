@@ -98,7 +98,7 @@
     },
     {
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/7.6.1/generated-gradle-jars/gradle-api-7.6.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/8.0.2/generated-gradle-jars/gradle-api-8.0.2.jar!/"
       ]
     },
     {
