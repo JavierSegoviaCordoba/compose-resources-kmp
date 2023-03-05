@@ -22,11 +22,15 @@ public class ComposeResourcesPlugin : Plugin<Project> {
 
         project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)
 
+        val prepareKotlinIdeaImport: Task = project.tasks.maybeCreate("prepareKotlinIdeaImport")
+
         val assembleTask: TaskProvider<Task> = project.tasks.named(BasePlugin.ASSEMBLE_TASK_NAME)
 
         val generateComposeResourcesTask: TaskProvider<GenerateComposeResourcesTask> =
             project.tasks.register<GenerateComposeResourcesTask>(GenerateComposeResourcesTask.name)
 
         generateComposeResourcesTask.configure { task -> task.dependsOn(assembleTask) }
+
+        prepareKotlinIdeaImport.dependsOn(generateComposeResourcesTask)
     }
 }

@@ -4,6 +4,8 @@
 
 ### Added
 
+- support to generate code when IntelliJ syncs
+
 ### Changed
 
 ### Deprecated
