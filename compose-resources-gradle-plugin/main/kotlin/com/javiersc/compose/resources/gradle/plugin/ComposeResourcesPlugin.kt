@@ -5,23 +5,28 @@ import com.javiersc.compose.resources.gradle.plugin.utils.commonMainKotlin
 import com.javiersc.compose.resources.gradle.plugin.utils.commonMainResourcesDirs
 import org.gradle.api.Plugin
 import org.gradle.api.Project
+import org.gradle.api.Task
+import org.gradle.api.plugins.BasePlugin
+import org.gradle.api.tasks.TaskProvider
+import org.gradle.kotlin.dsl.apply
 import org.gradle.kotlin.dsl.register
 
 public class ComposeResourcesPlugin : Plugin<Project> {
 
     override fun apply(project: Project) {
+        project.pluginManager.apply(BasePlugin::class)
+
         project.createComposeResourcesExtension().apply { packageName }
 
         project.commonMainKotlin?.srcDirs(project.layout.generationDir)
 
         project.androidSourceDirectorySetResources?.srcDirs(project.commonMainResourcesDirs)
 
-        project.afterEvaluate {
+        val assembleTask: TaskProvider<Task> = project.tasks.named(BasePlugin.ASSEMBLE_TASK_NAME)
+
+        val generateComposeResourcesTask: TaskProvider<GenerateComposeResourcesTask> =
             project.tasks.register<GenerateComposeResourcesTask>(GenerateComposeResourcesTask.name)
-            project.tasks.findByName("preBuild")?.dependsOn(GenerateComposeResourcesTask.name)
-            //    if (System.getProperty("idea.sync.active")?.toBoolean() == true) {
-            //        // TODO: maybe run task using Gradle idea plugin?
-            //    }
-        }
+
+        generateComposeResourcesTask.configure { task -> task.dependsOn(assembleTask) }
     }
 }

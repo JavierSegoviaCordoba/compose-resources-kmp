@@ -5,6 +5,7 @@ import io.kotest.matchers.nulls.shouldNotBeNull
 import io.kotest.matchers.shouldBe
 import java.io.File
 import java.nio.file.Paths
+import kotlin.test.Ignore
 import kotlin.test.Test
 import org.gradle.testkit.runner.TaskOutcome
 import org.junit.jupiter.api.AfterAll
@@ -37,7 +38,10 @@ internal class ComposeResourcesPluginTest : GradleTestKitTest() {
         }
     }
 
+    // TODO: Enable it after
+    // https://youtrack.jetbrains.com/issue/KT-55051/MetadataDependencyTransformationTask-is-not-compatible-with-Gradle-configuration-cache
     @Test
+    @Ignore
     fun configuration_cache_success() {
         gradleTestKitTest(sandboxPath = "sandbox-1") {
             withArguments(generateTask, composeResourcesVersionProperty)
