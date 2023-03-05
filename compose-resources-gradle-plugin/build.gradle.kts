@@ -18,7 +18,6 @@ hubdle {
 
                 gradle {
                     plugin {
-                        tags("compose", "jetpack compose", "compose multiplatform")
                         gradlePlugin {
                             plugins {
                                 create("ComposeResources") {
@@ -27,6 +26,13 @@ hubdle {
                                         "com.javiersc.compose.resources.gradle.plugin.ComposeResourcesPlugin"
                                     displayName = "Compose Resources KMP"
                                     description = """Compose Resources to be used in Kotlin Multiplatform"""
+                                    tags.set(
+                                        listOf(
+                                            "compose",
+                                            "jetpack compose",
+                                            "compose multiplatform",
+                                        )
+                                    )
                                 }
                             }
                         }
