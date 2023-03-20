@@ -34,8 +34,8 @@ hubdle {
                             }
                         }
                         pluginUnderTestDependencies(
-                            androidToolsBuildGradle(),
-                            jetbrainsKotlinGradlePlugin(),
+                            hubdle.android.toolsBuild.gradle,
+                            hubdle.jetbrains.kotlin.kotlinGradlePlugin,
                         )
                     }
                 }
@@ -45,8 +45,8 @@ hubdle {
             main {
                 dependencies {
                     api(projects.composeResources)
-                    implementation(androidToolsBuildGradle())
-                    implementation(jetbrainsKotlinGradlePlugin())
+                    implementation(hubdle.android.toolsBuild.gradle)
+                    implementation(hubdle.jetbrains.kotlin.kotlinGradlePlugin)
                 }
             }
 
