@@ -1,26 +1,29 @@
 hubdle {
     config {
         analysis()
-        documentation {
+        coverage()
+        documentation { //
             api()
         }
         explicitApi()
         publishing {
-            repositories {
-                mavenLocalTest()
+            maven {//
+                repositories { //
+                    mavenLocalTest()
+                }
             }
         }
     }
 
     kotlin {
         multiplatform {
-            features {
+            features { //
                 compose()
             }
 
             common {
-                main {
-                    dependencies {
+                main {//
+                    dependencies { //
                         implementation(compose.ui)
                     }
                 }

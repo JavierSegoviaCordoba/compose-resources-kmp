@@ -1,5 +1,3 @@
-import kotlinx.kover.api.DefaultIntellijEngine
-
 plugins {
     alias(libs.plugins.javiersc.hubdle)
 }
@@ -8,9 +6,7 @@ hubdle {
     config {
         analysis()
         binaryCompatibilityValidator()
-        coverage {
-            engine(DefaultIntellijEngine)
-        }
+        coverage()
         documentation {
             api()
             changelog()
