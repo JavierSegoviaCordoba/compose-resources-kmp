@@ -7,7 +7,7 @@ hubdle {
         }
         explicitApi()
         publishing {
-            maven {//
+            maven { //
                 repositories { //
                     mavenLocalTest()
                 }
