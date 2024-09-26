@@ -25,11 +25,7 @@ internal fun drawableGenerator(packageName: String, drawables: Map<String, List<
         .trimMargin()
 
 private fun imports() =
-    listOf(
-            "import com.javiersc.compose.resources.Drawable",
-        )
-        .sorted()
-        .joinToString("\n")
+    listOf("import com.javiersc.compose.resources.Drawable").sorted().joinToString("\n")
 
 private fun Map<String, List<File>>.abstractProperties(): String =
     flatMap { (suffix: String, files: List<File>) ->
@@ -100,7 +96,7 @@ private fun implementationProperties(
     mainSuffix: String,
     suffixes: Set<String>,
     mainFiles: List<File>,
-    allFiles: List<File>
+    allFiles: List<File>,
 ): String {
     fun File.nameWithoutSuffix(suffix: String) = nameWithoutExtension.replace("_$suffix", "")
 
