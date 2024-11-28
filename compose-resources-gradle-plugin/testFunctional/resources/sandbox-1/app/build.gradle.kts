@@ -21,7 +21,7 @@ tasks.withType<KotlinCompile>().configureEach {
 }
 
 kotlin {
-    android()
+    androidTarget()
     jvm()
 }
 
