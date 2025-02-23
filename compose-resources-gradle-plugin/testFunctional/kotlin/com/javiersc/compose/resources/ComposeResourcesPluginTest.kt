@@ -1,8 +1,8 @@
 package com.javiersc.compose.resources
 
 import com.javiersc.gradle.testkit.test.extensions.GradleTestKitTest
-import io.kotest.matchers.nulls.shouldNotBeNull
-import io.kotest.matchers.shouldBe
+import com.javiersc.kotlin.test.assertEquals
+import com.javiersc.kotlin.test.assertNotNull
 import java.io.File
 import java.nio.file.Paths
 import kotlin.test.Ignore
@@ -31,9 +31,9 @@ internal class ComposeResourcesPluginTest : GradleTestKitTest() {
         gradleTestKitTest(sandboxPath = "sandbox-1") {
             gradlew(generateTask, composeResourcesVersionProperty)
                 .task(":$generateTask")
-                .shouldNotBeNull()
+                .assertNotNull()
                 .outcome
-                .shouldBe(TaskOutcome.SUCCESS)
+                .assertEquals(TaskOutcome.SUCCESS)
             gradlew("assemble", composeResourcesVersionProperty)
         }
     }
