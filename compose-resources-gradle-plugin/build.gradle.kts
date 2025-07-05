@@ -9,37 +9,37 @@ hubdle {
         publishing()
     }
 
+    gradle {
+        plugin {
+            gradlePlugin {
+                plugins {
+                    create("ComposeResources") {
+                        id = "com.javiersc.compose.resources"
+                        implementationClass =
+                            "com.javiersc.compose.resources.gradle.plugin.ComposeResourcesPlugin"
+                        displayName = "Compose Resources KMP"
+                        description = """Compose Resources to be used in Kotlin Multiplatform"""
+                        tags.set(
+                            listOf(
+                                "compose",
+                                "jetpack compose",
+                                "compose multiplatform",
+                            )
+                        )
+                    }
+                }
+            }
+            pluginUnderTestDependencies(
+                hubdle.android.tools.build.gradle,
+                hubdle.jetbrains.kotlin.gradle.plugin,
+            )
+        }
+    }
+
     kotlin {
         jvm {
             features {
                 jvmVersion(JavaVersion.VERSION_11)
-
-                gradle {
-                    plugin {
-                        gradlePlugin {
-                            plugins {
-                                create("ComposeResources") {
-                                    id = "com.javiersc.compose.resources"
-                                    implementationClass =
-                                        "com.javiersc.compose.resources.gradle.plugin.ComposeResourcesPlugin"
-                                    displayName = "Compose Resources KMP"
-                                    description = """Compose Resources to be used in Kotlin Multiplatform"""
-                                    tags.set(
-                                        listOf(
-                                            "compose",
-                                            "jetpack compose",
-                                            "compose multiplatform",
-                                        )
-                                    )
-                                }
-                            }
-                        }
-                        pluginUnderTestDependencies(
-                            hubdle.android.tools.build.gradle,
-                            hubdle.jetbrains.kotlin.gradle.plugin,
-                        )
-                    }
-                }
             }
 
 
